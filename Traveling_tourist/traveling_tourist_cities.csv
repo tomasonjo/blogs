@@ -1,1115 +1,1399 @@
-"uri","city","state"
-"http://www.wikidata.org/entity/Q11916063","el Brull","Catalunya"
-"http://www.wikidata.org/entity/Q18286048","Villabrágima","Castilla y León"
-"http://www.wikidata.org/entity/Q43165321","Teruel","Aragón"
-"http://www.wikidata.org/entity/Q2583106","Cardona","Catalunya"
-"http://www.wikidata.org/entity/Q20492963","Segura","Euskadi"
-"http://www.wikidata.org/entity/Q1934670","Olite/Erriberri","Navarra - Nafarroa"
-"http://www.wikidata.org/entity/Q2942708","Lugo","Galicia / Galiza"
-"http://www.wikidata.org/entity/Q6383015","Cervera","Catalunya"
-"http://www.wikidata.org/entity/Q47183352","Castellterçol","Catalunya"
-"http://www.wikidata.org/entity/Q6421861","les Avellanes i Santa Linya","Catalunya"
-"http://www.wikidata.org/entity/Q4894835","Sitges","Catalunya"
-"http://www.wikidata.org/entity/Q3585188","Isona i Conca Dellà","Catalunya"
-"http://www.wikidata.org/entity/Q858907","Sevilla","Andalucía"
-"http://www.wikidata.org/entity/Q5795986","Oviedo","Asturias / Asturies"
-"http://www.wikidata.org/entity/Q43105026","Malla","Catalunya"
-"http://www.wikidata.org/entity/Q3395771","Alacant / Alicante","Comunitat Valenciana"
-"http://www.wikidata.org/entity/Q155443","Santiago","Galicia / Galiza"
-"http://www.wikidata.org/entity/Q5792474","Sevilla","Andalucía"
-"http://www.wikidata.org/entity/Q5903055","Cádiz","Andalucía"
-"http://www.wikidata.org/entity/Q2534168","Valladolid","Castilla y León"
-"http://www.wikidata.org/entity/Q5911924","Villalcázar de Sirga","Castilla y León"
-"http://www.wikidata.org/entity/Q3772302","Valladolid","Castilla y León"
-"http://www.wikidata.org/entity/Q5991838","Oviedo","Asturias / Asturies"
-"http://www.wikidata.org/entity/Q3054904","Terrassa","Catalunya"
-"http://www.wikidata.org/entity/Q11704638","Calonge i Sant Antoni","Catalunya"
-"http://www.wikidata.org/entity/Q17592142","l'Hospitalet de Llobregat","Catalunya"
-"http://www.wikidata.org/entity/Q5656751","Zaragoza","Aragón"
-"http://www.wikidata.org/entity/Q3821803","Madrid","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q9054356","Orihuela","Comunitat Valenciana"
-"http://www.wikidata.org/entity/Q11912717","Badalona","Catalunya"
-"http://www.wikidata.org/entity/Q43122839","el Far d'Empordà","Catalunya"
-"http://www.wikidata.org/entity/Q11912715","l'Hospitalet de Llobregat","Catalunya"
-"http://www.wikidata.org/entity/Q932383","Girona","Catalunya"
-"http://www.wikidata.org/entity/Q3139146","Toledo","Castilla-La Mancha"
-"http://www.wikidata.org/entity/Q3278563","Púbol","Catalunya"
-"http://www.wikidata.org/entity/Q56670687","Madrid","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q14475457","Toledo","Castilla-La Mancha"
-"http://www.wikidata.org/entity/Q5474516","Guadalajara","Castilla-La Mancha"
-"http://www.wikidata.org/entity/Q47183372","Esterri d'Àneu","Catalunya"
-"http://www.wikidata.org/entity/Q47183375","Calldetenes","Catalunya"
-"http://www.wikidata.org/entity/Q47183380","Calldetenes","Catalunya"
-"http://www.wikidata.org/entity/Q11680593","Mont-ras","Catalunya"
-"http://www.wikidata.org/entity/Q9077688","Alfafar","Comunitat Valenciana"
-"http://www.wikidata.org/entity/Q1249989","Nogueira de Ramuín","Galicia / Galiza"
-"http://www.wikidata.org/entity/Q9064380","Vic","Catalunya"
-"http://www.wikidata.org/entity/Q14924660","Barcelona","Catalunya"
-"http://www.wikidata.org/entity/Q9054328","Vilafranca del Penedès","Catalunya"
-"http://www.wikidata.org/entity/Q9064384","Sant Cugat del Vallès","Catalunya"
-"http://www.wikidata.org/entity/Q19257127","Lloret de Mar","Catalunya"
-"http://www.wikidata.org/entity/Q43119698","Arenys de Munt","Catalunya"
-"http://www.wikidata.org/entity/Q19672446","Hondarribia","Euskadi"
-"http://www.wikidata.org/entity/Q615763","Sant Cugat del Vallès","Catalunya"
-"http://www.wikidata.org/entity/Q11680599","Llívia","Catalunya"
-"http://www.wikidata.org/entity/Q16577555","Murcia","Región de Murcia"
-"http://www.wikidata.org/entity/Q18004984","Sant Feliu de Guíxols","Catalunya"
-"http://www.wikidata.org/entity/Q11680598","Ripoll","Catalunya"
-"http://www.wikidata.org/entity/Q18004982","Sitges","Catalunya"
-"http://www.wikidata.org/entity/Q20492978","Arrasate / Mondragón","Euskadi"
-"http://www.wikidata.org/entity/Q18004988","Tortosa","Catalunya"
-"http://www.wikidata.org/entity/Q18003899","Olot","Catalunya"
-"http://www.wikidata.org/entity/Q18004985","Sitges","Catalunya"
-"http://www.wikidata.org/entity/Q7126215","Madrid","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q47183386","Tavèrnoles","Catalunya"
-"http://www.wikidata.org/entity/Q47183390","Amer","Catalunya"
-"http://www.wikidata.org/entity/Q5836124","Palencia","Castilla y León"
-"http://www.wikidata.org/entity/Q9054574","Cadalso de los Vidrios","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q1866881","Palma","Illes Balears"
-"http://www.wikidata.org/entity/Q9034501","Beuda","Catalunya"
-"http://www.wikidata.org/entity/Q9054339","Pastrana","Castilla-La Mancha"
-"http://www.wikidata.org/entity/Q1135742","Vitoria-Gasteiz","Euskadi"
-"http://www.wikidata.org/entity/Q942130","Santo Adriano","Asturias / Asturies"
-"http://www.wikidata.org/entity/Q17596773","Masarac","Catalunya"
-"http://www.wikidata.org/entity/Q3669732","Santa Cruz de la Serós","Aragón"
-"http://www.wikidata.org/entity/Q5910863","Mahamud","Castilla y León"
-"http://www.wikidata.org/entity/Q28381918","Girona","Catalunya"
-"http://www.wikidata.org/entity/Q18006715","Peralada","Catalunya"
-"http://www.wikidata.org/entity/Q6150078","Camprodon","Catalunya"
-"http://www.wikidata.org/entity/Q22227964","Gombrèn","Catalunya"
-"http://www.wikidata.org/entity/Q2067794","Venta de Baños","Castilla y León"
-"http://www.wikidata.org/entity/Q5785984","Carmona","Andalucía"
-"http://www.wikidata.org/entity/Q12399328","Pontevedra","Galicia / Galiza"
-"http://www.wikidata.org/entity/Q17596784","Pau","Catalunya"
-"http://www.wikidata.org/entity/Q8350443","Lasarte-Oria","Euskadi"
-"http://www.wikidata.org/entity/Q8350441","Deba","Euskadi"
-"http://www.wikidata.org/entity/Q6121504","Poblete","Castilla-La Mancha"
-"http://www.wikidata.org/entity/Q5836346","Argente","Aragón"
-"http://www.wikidata.org/entity/Q6430536","Bellver de Cerdanya","Catalunya"
-"http://www.wikidata.org/entity/Q18395817","Pontevedra","Galicia / Galiza"
-"http://www.wikidata.org/entity/Q4873705","Villaviciosa","Asturias / Asturies"
-"http://www.wikidata.org/entity/Q9007571","Málaga","Andalucía"
-"http://www.wikidata.org/entity/Q5757254","Corbera de Llobregat","Catalunya"
-"http://www.wikidata.org/entity/Q5909401","Arnuero","Cantabria"
-"http://www.wikidata.org/entity/Q11912997","la Bisbal d'Empordà","Catalunya"
-"http://www.wikidata.org/entity/Q3584901","Sevilla","Andalucía"
-"http://www.wikidata.org/entity/Q43123501","Pont de Molins","Catalunya"
-"http://www.wikidata.org/entity/Q5909858","Olmedo","Castilla y León"
-"http://www.wikidata.org/entity/Q8342199","la Vajol","Catalunya"
-"http://www.wikidata.org/entity/Q2884514","Chiclana de la Frontera","Andalucía"
-"http://www.wikidata.org/entity/Q2219936","Teverga","Asturias / Asturies"
-"http://www.wikidata.org/entity/Q5911933","Alcaudete","Andalucía"
-"http://www.wikidata.org/entity/Q65770718","Hondarribia","Euskadi"
-"http://www.wikidata.org/entity/Q8342196","Roses","Catalunya"
-"http://www.wikidata.org/entity/Q8342191","Santa Maria de Besora","Catalunya"
-"http://www.wikidata.org/entity/Q43093126","Legazpi","Euskadi"
-"http://www.wikidata.org/entity/Q3813365","Madrid","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q8350458","Horta de Sant Joan","Catalunya"
-"http://www.wikidata.org/entity/Q18005892","Camprodon","Catalunya"
-"http://www.wikidata.org/entity/Q26721048","Palafrugell","Catalunya"
-"http://www.wikidata.org/entity/Q3657539","Córdoba","Andalucía"
-"http://www.wikidata.org/entity/Q28873666","Sant Martí de Llémena","Catalunya"
-"http://www.wikidata.org/entity/Q11912727","Barcelona","Catalunya"
-"http://www.wikidata.org/entity/Q6057971","Medina del Campo","Castilla y León"
-"http://www.wikidata.org/entity/Q8342187","Cardedeu","Catalunya"
-"http://www.wikidata.org/entity/Q5574519","Valladolid","Castilla y León"
-"http://www.wikidata.org/entity/Q6121529","Córdoba","Andalucía"
-"http://www.wikidata.org/entity/Q6744870","Lleida","Catalunya"
-"http://www.wikidata.org/entity/Q9007117","Alt Àneu","Catalunya"
-"http://www.wikidata.org/entity/Q52246214","Madrid","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q6121531","Murcia","Región de Murcia"
-"http://www.wikidata.org/entity/Q43123509","Pont de Molins","Catalunya"
-"http://www.wikidata.org/entity/Q6057986","Valladolid","Castilla y León"
-"http://www.wikidata.org/entity/Q9034340","Sahagún","Castilla y León"
-"http://www.wikidata.org/entity/Q16578022","Madrid","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q34485","Candelaria","Canarias"
-"http://www.wikidata.org/entity/Q6091654","Graus","Aragón"
-"http://www.wikidata.org/entity/Q669194","Yesa","Navarra - Nafarroa"
-"http://www.wikidata.org/entity/Q171517","Madrid","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q20104297","Martorell","Catalunya"
-"http://www.wikidata.org/entity/Q3896772","Cádiz","Andalucía"
-"http://www.wikidata.org/entity/Q7413812","Llangréu/Langreo","Asturias / Asturies"
-"http://www.wikidata.org/entity/Q20104293","Pontós","Catalunya"
-"http://www.wikidata.org/entity/Q7126270","Cogolludo","Castilla-La Mancha"
-"http://www.wikidata.org/entity/Q11682915","Villaviciosa","Asturias / Asturies"
-"http://www.wikidata.org/entity/Q5912858","Sevilla","Andalucía"
-"http://www.wikidata.org/entity/Q5911763","Tudela","Navarra - Nafarroa"
-"http://www.wikidata.org/entity/Q8200934","Jerez de la Frontera","Andalucía"
-"http://www.wikidata.org/entity/Q25474255","Oñati","Euskadi"
-"http://www.wikidata.org/entity/Q28333488","Girona","Catalunya"
-"http://www.wikidata.org/entity/Q11910374","Cabrils","Catalunya"
-"http://www.wikidata.org/entity/Q3896782","Sevilla","Andalucía"
-"http://www.wikidata.org/entity/Q5909689","Valladolid","Castilla y León"
-"http://www.wikidata.org/entity/Q9067020","Sevilla","Andalucía"
-"http://www.wikidata.org/entity/Q5909418","Candeleda","Castilla y León"
-"http://www.wikidata.org/entity/Q159615","Aiguamúrcia","Catalunya"
-"http://www.wikidata.org/entity/Q9034365","Sant Llorenç de Morunys","Catalunya"
-"http://www.wikidata.org/entity/Q8200946","La Guardia de Jaén","Andalucía"
-"http://www.wikidata.org/entity/Q888390","Ardales","Andalucía"
-"http://www.wikidata.org/entity/Q20970631","Torres del Río","Navarra - Nafarroa"
-"http://www.wikidata.org/entity/Q11911674","Vilassar de Dalt","Catalunya"
-"http://www.wikidata.org/entity/Q3755367","Vitoria-Gasteiz","Euskadi"
-"http://www.wikidata.org/entity/Q40549083","Donostia/San Sebastián","Euskadi"
-"http://www.wikidata.org/entity/Q20876778","Riudarenes","Catalunya"
-"http://www.wikidata.org/entity/Q5574972","Teror","Canarias"
-"http://www.wikidata.org/entity/Q18003813","Cardedeu","Catalunya"
-"http://www.wikidata.org/entity/Q5911749","Matapozuelos","Castilla y León"
-"http://www.wikidata.org/entity/Q18003814","Bigues i Riells","Catalunya"
-"http://www.wikidata.org/entity/Q18003816","Palma","Illes Balears"
-"http://www.wikidata.org/entity/Q9088799","Castelldefels","Catalunya"
-"http://www.wikidata.org/entity/Q5911989","Zamora","Castilla y León"
-"http://www.wikidata.org/entity/Q2665595","Sevilla","Andalucía"
-"http://www.wikidata.org/entity/Q16608587","Casbas de Huesca","Aragón"
-"http://www.wikidata.org/entity/Q28711947","Lleida","Catalunya"
-"http://www.wikidata.org/entity/Q934947","Valdemoro","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q6446730","Cetina","Aragón"
-"http://www.wikidata.org/entity/Q3896767","Valladolid","Castilla y León"
-"http://www.wikidata.org/entity/Q47170885","Avinyonet del Penedès","Catalunya"
-"http://www.wikidata.org/entity/Q5047861","Reus","Catalunya"
-"http://www.wikidata.org/entity/Q1278218","la Vall de Boí","Catalunya"
-"http://www.wikidata.org/entity/Q9034345","Alzira","Comunitat Valenciana"
-"http://www.wikidata.org/entity/Q6058611","Valladolid","Castilla y León"
-"http://www.wikidata.org/entity/Q16489562","Tricio","La Rioja"
-"http://www.wikidata.org/entity/Q3750901","Bilbao","Euskadi"
-"http://www.wikidata.org/entity/Q6407112","Cartagena","Región de Murcia"
-"http://www.wikidata.org/entity/Q18003847","Roses","Catalunya"
-"http://www.wikidata.org/entity/Q18696116","Lloret de Mar","Catalunya"
-"http://www.wikidata.org/entity/Q920742","Alcalá de Henares","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q2256022","Camaleño","Cantabria"
-"http://www.wikidata.org/entity/Q5912887","la Vall d'Uixó","Comunitat Valenciana"
-"http://www.wikidata.org/entity/Q7126221","Almansa","Castilla-La Mancha"
-"http://www.wikidata.org/entity/Q17595842","Avinyonet de Puigventós","Catalunya"
-"http://www.wikidata.org/entity/Q12259431","Beasain","Euskadi"
-"http://www.wikidata.org/entity/Q4407295","Madrid","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q5047899","Sevilla","Andalucía"
-"http://www.wikidata.org/entity/Q5723890","Jaén","Andalucía"
-"http://www.wikidata.org/entity/Q523311","Málaga","Andalucía"
-"http://www.wikidata.org/entity/Q41437216","Ermua","Euskadi"
-"http://www.wikidata.org/entity/Q47186270","Granyena de Segarra","Catalunya"
-"http://www.wikidata.org/entity/Q5909234","Talavera de la Reina","Castilla-La Mancha"
-"http://www.wikidata.org/entity/Q6746629","Cocentaina","Comunitat Valenciana"
-"http://www.wikidata.org/entity/Q1849031","Madrid","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q7068646","Vitoria-Gasteiz","Euskadi"
-"http://www.wikidata.org/entity/Q8347677","A Coruña","Galicia / Galiza"
-"http://www.wikidata.org/entity/Q17595855","Esparreguera","Catalunya"
-"http://www.wikidata.org/entity/Q5911568","Becerril de Campos","Castilla y León"
-"http://www.wikidata.org/entity/Q20888724","Oñati","Euskadi"
-"http://www.wikidata.org/entity/Q205136","Santiago","Galicia / Galiza"
-"http://www.wikidata.org/entity/Q5910477","Murcia","Región de Murcia"
-"http://www.wikidata.org/entity/Q17596701","Llers","Catalunya"
-"http://www.wikidata.org/entity/Q18003831","Montagut i Oix","Catalunya"
-"http://www.wikidata.org/entity/Q943873","Sevilla","Andalucía"
-"http://www.wikidata.org/entity/Q3572755","Zaragoza","Aragón"
-"http://www.wikidata.org/entity/Q7126237","Boadilla del Monte","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q18003832","Olivella","Catalunya"
-"http://www.wikidata.org/entity/Q24024872","Almería","Andalucía"
-"http://www.wikidata.org/entity/Q26252283","Donostia/San Sebastián","Euskadi"
-"http://www.wikidata.org/entity/Q5991883","Laviana","Asturias / Asturies"
-"http://www.wikidata.org/entity/Q5640136","Igualada","Catalunya"
-"http://www.wikidata.org/entity/Q2117586","la Vall de Boí","Catalunya"
-"http://www.wikidata.org/entity/Q5757415","Láchar","Andalucía"
-"http://www.wikidata.org/entity/Q461371","Barcelona","Catalunya"
-"http://www.wikidata.org/entity/Q5909480","Santa María la Real de Nieva","Castilla y León"
-"http://www.wikidata.org/entity/Q2912886","Cerdanyola del Vallès","Catalunya"
-"http://www.wikidata.org/entity/Q5795931","Valladolid","Castilla y León"
-"http://www.wikidata.org/entity/Q8341703","Alzira","Comunitat Valenciana"
-"http://www.wikidata.org/entity/Q9007174","Saus, Camallera i Llampaies","Catalunya"
-"http://www.wikidata.org/entity/Q3395342","Catoira","Galicia / Galiza"
-"http://www.wikidata.org/entity/Q2561516","Barcelona","Catalunya"
-"http://www.wikidata.org/entity/Q9046983","Reus","Catalunya"
-"http://www.wikidata.org/entity/Q5910200","Nuevo Baztán","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q206258","Pamplona/Iruña","Navarra - Nafarroa"
-"http://www.wikidata.org/entity/Q5991848","Villaviciosa","Asturias / Asturies"
-"http://www.wikidata.org/entity/Q9054374","Castelló de la Plana","Comunitat Valenciana"
-"http://www.wikidata.org/entity/Q18003864","Sant Llorenç de la Muga","Catalunya"
-"http://www.wikidata.org/entity/Q7126249","Jerez de la Frontera","Andalucía"
-"http://www.wikidata.org/entity/Q21478895","la Pobla de Lillet","Catalunya"
-"http://www.wikidata.org/entity/Q7126247","Madrid","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q541163","Barcelona","Catalunya"
-"http://www.wikidata.org/entity/Q5757445","Moguer","Andalucía"
-"http://www.wikidata.org/entity/Q507282","Barcelona","Catalunya"
-"http://www.wikidata.org/entity/Q19986236","Legorreta","Euskadi"
-"http://www.wikidata.org/entity/Q17067235","l'Hospitalet de Llobregat","Catalunya"
-"http://www.wikidata.org/entity/Q2223563","Pravia","Asturias / Asturies"
-"http://www.wikidata.org/entity/Q6080315","Granada","Andalucía"
-"http://www.wikidata.org/entity/Q7126253","Madrid","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q11704654","Palafrugell","Catalunya"
-"http://www.wikidata.org/entity/Q5408100","Aguilar de Campoo","Castilla y León"
-"http://www.wikidata.org/entity/Q18509076","Zaragoza","Aragón"
-"http://www.wikidata.org/entity/Q5911302","Córdoba","Andalucía"
-"http://www.wikidata.org/entity/Q599116","Santa Cruz de Tenerife","Canarias"
-"http://www.wikidata.org/entity/Q599118","Barcelona","Catalunya"
-"http://www.wikidata.org/entity/Q6150467","La Puebla de Montalbán","Castilla-La Mancha"
-"http://www.wikidata.org/entity/Q5642536","Cuenca de Campos","Castilla y León"
-"http://www.wikidata.org/entity/Q5909464","Juarros de Voltoya","Castilla y León"
-"http://www.wikidata.org/entity/Q73160279","Granada","Andalucía"
-"http://www.wikidata.org/entity/Q17605136","Castelló d'Empuries","Catalunya"
-"http://www.wikidata.org/entity/Q6091441","Almassora","Comunitat Valenciana"
-"http://www.wikidata.org/entity/Q3327219","A Capela","Galicia / Galiza"
-"http://www.wikidata.org/entity/Q19368317","Torrelles de Foix","Catalunya"
-"http://www.wikidata.org/entity/Q917896","Belmonte","Castilla-La Mancha"
-"http://www.wikidata.org/entity/Q4276495","Málaga","Andalucía"
-"http://www.wikidata.org/entity/Q43122276","Viladecans","Catalunya"
-"http://www.wikidata.org/entity/Q18696672","Tossa de Mar","Catalunya"
-"http://www.wikidata.org/entity/Q12268627","Irun","Euskadi"
-"http://www.wikidata.org/entity/Q18008416","Avinyonet del Penedès","Catalunya"
-"http://www.wikidata.org/entity/Q5117086","Villarrobledo","Castilla-La Mancha"
-"http://www.wikidata.org/entity/Q6021277","Moraleja de Matacabras","Castilla y León"
-"http://www.wikidata.org/entity/Q1506850","Monfero","Galicia / Galiza"
-"http://www.wikidata.org/entity/Q22893349","Sant Miquel de Campmajor","Catalunya"
-"http://www.wikidata.org/entity/Q5910389","Aranda de Duero","Castilla y León"
-"http://www.wikidata.org/entity/Q19368318","Parets del Vallès","Catalunya"
-"http://www.wikidata.org/entity/Q6080122","Toro","Castilla y León"
-"http://www.wikidata.org/entity/Q5117080","Madrid","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q18008421","la Galera","Catalunya"
-"http://www.wikidata.org/entity/Q2223549","Colunga","Asturias / Asturies"
-"http://www.wikidata.org/entity/Q5909396","Adanero","Castilla y León"
-"http://www.wikidata.org/entity/Q8342325","Foixà","Catalunya"
-"http://www.wikidata.org/entity/Q6058204","Villacarriedo","Cantabria"
-"http://www.wikidata.org/entity/Q45890103","Sabadell","Catalunya"
-"http://www.wikidata.org/entity/Q19368326","Sentmenat","Catalunya"
-"http://www.wikidata.org/entity/Q5073070","Algeciras","Andalucía"
-"http://www.wikidata.org/entity/Q207870","Barcelona","Catalunya"
-"http://www.wikidata.org/entity/Q2509421","Vic","Catalunya"
-"http://www.wikidata.org/entity/Q8342564","Santa Cristina d'Aro","Catalunya"
-"http://www.wikidata.org/entity/Q3661125","Barcelona","Catalunya"
-"http://www.wikidata.org/entity/Q18696663","Lloret de Mar","Catalunya"
-"http://www.wikidata.org/entity/Q18008405","Cruïlles","Catalunya"
-"http://www.wikidata.org/entity/Q5117075","Madrid","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q5399885","Llívia","Catalunya"
-"http://www.wikidata.org/entity/Q744455","León","Castilla y León"
-"http://www.wikidata.org/entity/Q2293995","Albacete","Castilla-La Mancha"
-"http://www.wikidata.org/entity/Q5117079","Aranjuez","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q5910394","Miranda de Ebro","Castilla y León"
-"http://www.wikidata.org/entity/Q18007561","Balaguer","Catalunya"
-"http://www.wikidata.org/entity/Q11913006","Barcelona","Catalunya"
-"http://www.wikidata.org/entity/Q19595398","Torrelles de Foix","Catalunya"
-"http://www.wikidata.org/entity/Q14906527","Caldes de Malavella","Catalunya"
-"http://www.wikidata.org/entity/Q18008412","Sant Llorenç de la Muga","Catalunya"
-"http://www.wikidata.org/entity/Q7415387","Oviedo","Asturias / Asturies"
-"http://www.wikidata.org/entity/Q5756920","Albaida","Comunitat Valenciana"
-"http://www.wikidata.org/entity/Q3661119","Barcelona","Catalunya"
-"http://www.wikidata.org/entity/Q8342559","Sanlúcar de Barrameda","Andalucía"
-"http://www.wikidata.org/entity/Q8342314","Santa Coloma de Farners","Catalunya"
-"http://www.wikidata.org/entity/Q22893361","Sant Llorenç Savall","Catalunya"
-"http://www.wikidata.org/entity/Q11697343","Castelló de la Plana","Comunitat Valenciana"
-"http://www.wikidata.org/entity/Q19368339","Torrelles de Foix","Catalunya"
-"http://www.wikidata.org/entity/Q11947221","el Far d'Empordà","Catalunya"
-"http://www.wikidata.org/entity/Q18696894","Besalú","Catalunya"
-"http://www.wikidata.org/entity/Q11697348","Solsona","Catalunya"
-"http://www.wikidata.org/entity/Q19255731","Avinyonet del Penedès","Catalunya"
-"http://www.wikidata.org/entity/Q5843321","Lazkao","Euskadi"
-"http://www.wikidata.org/entity/Q18008438","Peralada","Catalunya"
-"http://www.wikidata.org/entity/Q5912788","Salamanca","Castilla y León"
-"http://www.wikidata.org/entity/Q5910126","El Espinar","Castilla y León"
-"http://www.wikidata.org/entity/Q18008439","Olèrdola","Catalunya"
-"http://www.wikidata.org/entity/Q18195801","Sepúlveda","Castilla y León"
-"http://www.wikidata.org/entity/Q6150533","Jerez de la Frontera","Andalucía"
-"http://www.wikidata.org/entity/Q3896912","Zamora","Castilla y León"
-"http://www.wikidata.org/entity/Q17599310","Bellpuig","Catalunya"
-"http://www.wikidata.org/entity/Q17596286","la Granada","Catalunya"
-"http://www.wikidata.org/entity/Q9006850","Vila-real","Comunitat Valenciana"
-"http://www.wikidata.org/entity/Q8342309","l'Espunyola","Catalunya"
-"http://www.wikidata.org/entity/Q18008442","Llobera","Catalunya"
-"http://www.wikidata.org/entity/Q8342307","Espolla","Catalunya"
-"http://www.wikidata.org/entity/Q18327586","A Coruña","Galicia / Galiza"
-"http://www.wikidata.org/entity/Q1130947","Villaviciosa","Asturias / Asturies"
-"http://www.wikidata.org/entity/Q3848635","San Lorenzo de El Escorial","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q8342304","Esponellà","Catalunya"
-"http://www.wikidata.org/entity/Q389210","Pamplona/Iruña","Navarra - Nafarroa"
-"http://www.wikidata.org/entity/Q2942496","Astorga","Castilla y León"
-"http://www.wikidata.org/entity/Q8261331","Badalona","Catalunya"
-"http://www.wikidata.org/entity/Q5117097","Madrid","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q10859187","Tortosa","Catalunya"
-"http://www.wikidata.org/entity/Q1800280","Olmeda de Cobeta","Castilla-La Mancha"
-"http://www.wikidata.org/entity/Q16641771","Sant Pere de Ribes","Catalunya"
-"http://www.wikidata.org/entity/Q24082916","Villalón de Campos","Castilla y León"
-"http://www.wikidata.org/entity/Q22893347","Sant Ferriol","Catalunya"
-"http://www.wikidata.org/entity/Q18008431","Berga","Catalunya"
-"http://www.wikidata.org/entity/Q5117094","Madrid","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q1506827","Tabeirós - Terra de Montes","Galicia / Galiza"
-"http://www.wikidata.org/entity/Q7896031","Osuna","Andalucía"
-"http://www.wikidata.org/entity/Q16577926","Ciudad Real","Castilla-La Mancha"
-"http://www.wikidata.org/entity/Q15712096","Unciti","Navarra - Nafarroa"
-"http://www.wikidata.org/entity/Q1679911","Cangas de Onís","Asturias / Asturies"
-"http://www.wikidata.org/entity/Q18008458","Olèrdola","Catalunya"
-"http://www.wikidata.org/entity/Q6021470","Renedo de la Vega","Castilla y León"
-"http://www.wikidata.org/entity/Q5910182","Palencia","Castilla y León"
-"http://www.wikidata.org/entity/Q3895888","Granada","Andalucía"
-"http://www.wikidata.org/entity/Q5755647","Zaragoza","Aragón"
-"http://www.wikidata.org/entity/Q2167317","Azpeitia","Euskadi"
-"http://www.wikidata.org/entity/Q18008467","Malgrat de Mar","Catalunya"
-"http://www.wikidata.org/entity/Q3896975","Zamora","Castilla y León"
-"http://www.wikidata.org/entity/Q43081711","Alcalá de Henares","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q2293331","Barcelona","Catalunya"
-"http://www.wikidata.org/entity/Q6021467","Tulebras","Navarra - Nafarroa"
-"http://www.wikidata.org/entity/Q55443304","Sabadell","Catalunya"
-"http://www.wikidata.org/entity/Q5166200","Madrid","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q43077690","Vic","Catalunya"
-"http://www.wikidata.org/entity/Q3361046","Guadalajara","Castilla-La Mancha"
-"http://www.wikidata.org/entity/Q815935","Barcelona","Catalunya"
-"http://www.wikidata.org/entity/Q29345521","Luesia","Aragón"
-"http://www.wikidata.org/entity/Q11913040","Guardiola de Berguedà","Catalunya"
-"http://www.wikidata.org/entity/Q18008446","Figaró-Montmany","Catalunya"
-"http://www.wikidata.org/entity/Q5911045","Úbeda","Andalucía"
-"http://www.wikidata.org/entity/Q3462700","Alcalá de Henares","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q675671","Fitero","Navarra - Nafarroa"
-"http://www.wikidata.org/entity/Q2983985","Sevilla","Andalucía"
-"http://www.wikidata.org/entity/Q2547508","León","Castilla y León"
-"http://www.wikidata.org/entity/Q8342516","Camprodon","Catalunya"
-"http://www.wikidata.org/entity/Q11206780","Manresa","Catalunya"
-"http://www.wikidata.org/entity/Q12262063","Zumarraga","Euskadi"
-"http://www.wikidata.org/entity/Q8341663","Argentona","Catalunya"
-"http://www.wikidata.org/entity/Q8342513","Bellprat","Catalunya"
-"http://www.wikidata.org/entity/Q9088980","els Prats de Rei","Catalunya"
-"http://www.wikidata.org/entity/Q16577905","Moraleja de Matacabras","Castilla y León"
-"http://www.wikidata.org/entity/Q2942688","Jerez de la Frontera","Andalucía"
-"http://www.wikidata.org/entity/Q18172730","Mondéjar","Castilla-La Mancha"
-"http://www.wikidata.org/entity/Q2942449","Soria","Castilla y León"
-"http://www.wikidata.org/entity/Q3571157","El Pueyo de Araguás","Aragón"
-"http://www.wikidata.org/entity/Q16615233","Trujillo","Extremadura"
-"http://www.wikidata.org/entity/Q6405913","Martos","Andalucía"
-"http://www.wikidata.org/entity/Q18008482","l'Escala","Catalunya"
-"http://www.wikidata.org/entity/Q8342509","Palau-solità i Plegamans","Catalunya"
-"http://www.wikidata.org/entity/Q1046529","Sevilla","Andalucía"
-"http://www.wikidata.org/entity/Q20107821","Olot","Catalunya"
-"http://www.wikidata.org/entity/Q12174512","Palau-sator","Catalunya"
-"http://www.wikidata.org/entity/Q3896950","Getaria","Euskadi"
-"http://www.wikidata.org/entity/Q5909179","Valderredible","Cantabria"
-"http://www.wikidata.org/entity/Q8342506","Santa Margarida i els Monjos","Catalunya"
-"http://www.wikidata.org/entity/Q2942680","Guadix","Andalucía"
-"http://www.wikidata.org/entity/Q5755420","Granada","Andalucía"
-"http://www.wikidata.org/entity/Q1775061","Retiendas","Castilla-La Mancha"
-"http://www.wikidata.org/entity/Q8342500","Quart","Catalunya"
-"http://www.wikidata.org/entity/Q5652854","Lugo","Galicia / Galiza"
-"http://www.wikidata.org/entity/Q5911026","Aranda de Duero","Castilla y León"
-"http://www.wikidata.org/entity/Q5912117","Málaga","Andalucía"
-"http://www.wikidata.org/entity/Q9061857","Barcelona","Catalunya"
-"http://www.wikidata.org/entity/Q953919","San Lorenzo de El Escorial","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q5912113","Medina de Rioseco","Castilla y León"
-"http://www.wikidata.org/entity/Q20900959","Pontons","Catalunya"
-"http://www.wikidata.org/entity/Q610954","Gelida","Catalunya"
-"http://www.wikidata.org/entity/Q11913028","Tavertet","Catalunya"
-"http://www.wikidata.org/entity/Q11913027","Collbató","Catalunya"
-"http://www.wikidata.org/entity/Q23782675","Collbató","Catalunya"
-"http://www.wikidata.org/entity/Q16543936","Murcia","Región de Murcia"
-"http://www.wikidata.org/entity/Q1280721","Vilabertran","Catalunya"
-"http://www.wikidata.org/entity/Q2942691","Huesca","Aragón"
-"http://www.wikidata.org/entity/Q43120913","Gelida","Catalunya"
-"http://www.wikidata.org/entity/Q1570099","Tudela Veguín","Asturias / Asturies"
-"http://www.wikidata.org/entity/Q18122850","Villafranca del Bierzo","Castilla y León"
-"http://www.wikidata.org/entity/Q58929713","l'Hospitalet de Llobregat","Catalunya"
-"http://www.wikidata.org/entity/Q19367864","Torrelles de Foix","Catalunya"
-"http://www.wikidata.org/entity/Q1812874","Oviedo","Asturias / Asturies"
-"http://www.wikidata.org/entity/Q749514","Cardona","Catalunya"
-"http://www.wikidata.org/entity/Q11913076","Esplugues de Llobregat","Catalunya"
-"http://www.wikidata.org/entity/Q43115346","Barcelona","Catalunya"
-"http://www.wikidata.org/entity/Q1385934","Las Palmas de Gran Canaria","Canarias"
-"http://www.wikidata.org/entity/Q5722083","Caravaca de la Cruz","Región de Murcia"
-"http://www.wikidata.org/entity/Q19367868","Olèrdola","Catalunya"
-"http://www.wikidata.org/entity/Q2511338","Bergantiños","Galicia / Galiza"
-"http://www.wikidata.org/entity/Q18006635","Sant Joan de les Abadesses","Catalunya"
-"http://www.wikidata.org/entity/Q17596456","Navata","Catalunya"
-"http://www.wikidata.org/entity/Q20857239","Bergara","Euskadi"
-"http://www.wikidata.org/entity/Q7080173","Badalona","Catalunya"
-"http://www.wikidata.org/entity/Q4457358","Villamanín","Castilla y León"
-"http://www.wikidata.org/entity/Q11913079","Puig-reig","Catalunya"
-"http://www.wikidata.org/entity/Q11954868","Centelles","Catalunya"
-"http://www.wikidata.org/entity/Q1775481","Villagarcía de Campos","Castilla y León"
-"http://www.wikidata.org/entity/Q6051891","Cádiz","Andalucía"
-"http://www.wikidata.org/entity/Q2942676","Getafe","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q526170","Vilanova i la Geltrú","Catalunya"
-"http://www.wikidata.org/entity/Q2473884","Madrid","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q5785666","Torrox","Andalucía"
-"http://www.wikidata.org/entity/Q2223706","Ponferrada","Castilla y León"
-"http://www.wikidata.org/entity/Q11913083","Castellar del Vallès","Catalunya"
-"http://www.wikidata.org/entity/Q19322964","Olèrdola","Catalunya"
-"http://www.wikidata.org/entity/Q17596467","Palau de Santa Eulàlia","Catalunya"
-"http://www.wikidata.org/entity/Q22893518","Sant Julià de Vilatorta","Catalunya"
-"http://www.wikidata.org/entity/Q6021415","Ribas de Campos","Castilla y León"
-"http://www.wikidata.org/entity/Q6021411","Murcia","Región de Murcia"
-"http://www.wikidata.org/entity/Q5576486","Ponferrada","Castilla y León"
-"http://www.wikidata.org/entity/Q775803","Begur","Catalunya"
-"http://www.wikidata.org/entity/Q13534605","el Pla de Santa Maria","Catalunya"
-"http://www.wikidata.org/entity/Q18696810","la Garriga","Catalunya"
-"http://www.wikidata.org/entity/Q2511554","A Coruña","Galicia / Galiza"
-"http://www.wikidata.org/entity/Q11693387","Barcelona","Catalunya"
-"http://www.wikidata.org/entity/Q8342152","Terrassa","Catalunya"
-"http://www.wikidata.org/entity/Q8342390","Lluçà","Catalunya"
-"http://www.wikidata.org/entity/Q11913053","Mediona","Catalunya"
-"http://www.wikidata.org/entity/Q18005328","Castelló d'Empuries","Catalunya"
-"http://www.wikidata.org/entity/Q2942405","Alacant / Alicante","Comunitat Valenciana"
-"http://www.wikidata.org/entity/Q2942648","Coria","Extremadura"
-"http://www.wikidata.org/entity/Q20985696","les Oluges","Catalunya"
-"http://www.wikidata.org/entity/Q3891623","Madrid","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q11913058","Montcada i Reixac","Catalunya"
-"http://www.wikidata.org/entity/Q6021403","Moguer","Andalucía"
-"http://www.wikidata.org/entity/Q5785868","Córdoba","Andalucía"
-"http://www.wikidata.org/entity/Q1108182","Córdoba","Andalucía"
-"http://www.wikidata.org/entity/Q20642067","Manresa","Catalunya"
-"http://www.wikidata.org/entity/Q20985698","Montoliu de Segarra","Catalunya"
-"http://www.wikidata.org/entity/Q43084883","Villacarrillo","Andalucía"
-"http://www.wikidata.org/entity/Q8342149","Font-rubí","Catalunya"
-"http://www.wikidata.org/entity/Q19367896","Girona","Catalunya"
-"http://www.wikidata.org/entity/Q47183428","Cabanes","Catalunya"
-"http://www.wikidata.org/entity/Q2942653","Cáceres","Extremadura"
-"http://www.wikidata.org/entity/Q8342146","Llinars del Vallès","Catalunya"
-"http://www.wikidata.org/entity/Q20901166","Ribera d'Ondara","Catalunya"
-"http://www.wikidata.org/entity/Q1589509","la Vall de Boí","Catalunya"
-"http://www.wikidata.org/entity/Q15304711","Badalona","Catalunya"
-"http://www.wikidata.org/entity/Q11693392","Sant Joan les Fonts","Catalunya"
-"http://www.wikidata.org/entity/Q17596687","Santa Pau","Catalunya"
-"http://www.wikidata.org/entity/Q582449","Mataró","Catalunya"
-"http://www.wikidata.org/entity/Q926529","Madrid","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q11930862","Bigues i Riells","Catalunya"
-"http://www.wikidata.org/entity/Q7414234","Arrecife","Canarias"
-"http://www.wikidata.org/entity/Q11930865","Caldes d'Estrac","Catalunya"
-"http://www.wikidata.org/entity/Q18145756","Villafranca del Bierzo","Castilla y León"
-"http://www.wikidata.org/entity/Q8342379","Llers","Catalunya"
-"http://www.wikidata.org/entity/Q20892675","Oñati","Euskadi"
-"http://www.wikidata.org/entity/Q2942864","Zamora","Castilla y León"
-"http://www.wikidata.org/entity/Q1024723","Castrillo del Val","Castilla y León"
-"http://www.wikidata.org/entity/Q22833484","Osuna","Andalucía"
-"http://www.wikidata.org/entity/Q8342370","la Roca del Vallès","Catalunya"
-"http://www.wikidata.org/entity/Q11952234","Vilanova i la Geltrú","Catalunya"
-"http://www.wikidata.org/entity/Q11952233","Caldes d'Estrac","Catalunya"
-"http://www.wikidata.org/entity/Q1105932","Córdoba","Andalucía"
-"http://www.wikidata.org/entity/Q17596256","Corçà","Catalunya"
-"http://www.wikidata.org/entity/Q18005344","Barcelona","Catalunya"
-"http://www.wikidata.org/entity/Q3055408","Gernika-Lumo","Euskadi"
-"http://www.wikidata.org/entity/Q10975546","Moià","Catalunya"
-"http://www.wikidata.org/entity/Q17596017","Cadaqués","Catalunya"
-"http://www.wikidata.org/entity/Q498261","Sevilla","Andalucía"
-"http://www.wikidata.org/entity/Q20639959","Arrasate / Mondragón","Euskadi"
-"http://www.wikidata.org/entity/Q5836616","Alcalá de Henares","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q18176286","Hontoba","Castilla-La Mancha"
-"http://www.wikidata.org/entity/Q1368571","Madrid","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q5741889","Gormaz","Castilla y León"
-"http://www.wikidata.org/entity/Q1775673","Alcocer","Castilla-La Mancha"
-"http://www.wikidata.org/entity/Q8342361","Jorba","Catalunya"
-"http://www.wikidata.org/entity/Q1049198","La Calahorra","Andalucía"
-"http://www.wikidata.org/entity/Q2942630","Castelló de la Plana","Comunitat Valenciana"
-"http://www.wikidata.org/entity/Q5948330","Albacete","Castilla-La Mancha"
-"http://www.wikidata.org/entity/Q10300590","Cuéllar","Castilla y León"
-"http://www.wikidata.org/entity/Q2942639","Ciudad Rodrigo","Castilla y León"
-"http://www.wikidata.org/entity/Q5741881","Albendiego","Castilla-La Mancha"
-"http://www.wikidata.org/entity/Q18005333","Tortosa","Catalunya"
-"http://www.wikidata.org/entity/Q946105","Vinaròs","Comunitat Valenciana"
-"http://www.wikidata.org/entity/Q20876184","Camós","Catalunya"
-"http://www.wikidata.org/entity/Q2942635","Ceuta","Ceuta"
-"http://www.wikidata.org/entity/Q3276873","Jerez de la Frontera","Andalucía"
-"http://www.wikidata.org/entity/Q2942638","Ciudad Real","Castilla-La Mancha"
-"http://www.wikidata.org/entity/Q3896902","Jaén","Andalucía"
-"http://www.wikidata.org/entity/Q17596033","Camprodon","Catalunya"
-"http://www.wikidata.org/entity/Q2462558","Salamanca","Castilla y León"
-"http://www.wikidata.org/entity/Q3754528","Llanes","Asturias / Asturies"
-"http://www.wikidata.org/entity/Q8342359","Terrades","Catalunya"
-"http://www.wikidata.org/entity/Q19833322","Olite/Erriberri","Navarra - Nafarroa"
-"http://www.wikidata.org/entity/Q1590785","Jérica","Comunitat Valenciana"
-"http://www.wikidata.org/entity/Q11913090","Saldes","Catalunya"
-"http://www.wikidata.org/entity/Q19367842","Brunyola i Sant Martí Sapresa","Catalunya"
-"http://www.wikidata.org/entity/Q2942840","Tortosa","Catalunya"
-"http://www.wikidata.org/entity/Q1024943","San Cristóbal de La Laguna","Canarias"
-"http://www.wikidata.org/entity/Q47183458","Subirats","Catalunya"
-"http://www.wikidata.org/entity/Q8342351","Granera","Catalunya"
-"http://www.wikidata.org/entity/Q17596474","Palau-saverdera","Catalunya"
-"http://www.wikidata.org/entity/Q20492269","Segura","Euskadi"
-"http://www.wikidata.org/entity/Q2942608","Calahorra","La Rioja"
-"http://www.wikidata.org/entity/Q11913093","Sant Gregori","Catalunya"
-"http://www.wikidata.org/entity/Q18008639","l'Escala","Catalunya"
-"http://www.wikidata.org/entity/Q11913092","Lloret de Mar","Catalunya"
-"http://www.wikidata.org/entity/Q5690257","Úbeda","Andalucía"
-"http://www.wikidata.org/entity/Q1826864","Guadalajara","Castilla-La Mancha"
-"http://www.wikidata.org/entity/Q5992027","Sariego","Asturias / Asturies"
-"http://www.wikidata.org/entity/Q20639938","Urretxu","Euskadi"
-"http://www.wikidata.org/entity/Q43121835","Sant Sadurní d'Anoia","Catalunya"
-"http://www.wikidata.org/entity/Q47290759","Balmaseda","Euskadi"
-"http://www.wikidata.org/entity/Q19367610","Girona","Catalunya"
-"http://www.wikidata.org/entity/Q1402296","Ávila","Castilla y León"
-"http://www.wikidata.org/entity/Q18810223","Orozko","Euskadi"
-"http://www.wikidata.org/entity/Q5397040","Abajas","Castilla y León"
-"http://www.wikidata.org/entity/Q3276855","Arcos de la Frontera","Andalucía"
-"http://www.wikidata.org/entity/Q9088914","Maçanet de la Selva","Catalunya"
-"http://www.wikidata.org/entity/Q18913265","Corullón","Castilla y León"
-"http://www.wikidata.org/entity/Q4783278","Ágreda","Castilla y León"
-"http://www.wikidata.org/entity/Q18004029","Sant Carles de la Ràpita","Catalunya"
-"http://www.wikidata.org/entity/Q30301821","Sant Hilari Sacalm","Catalunya"
-"http://www.wikidata.org/entity/Q9088916","Abadiño","Euskadi"
-"http://www.wikidata.org/entity/Q18285743","Villagarcía de Campos","Castilla y León"
-"http://www.wikidata.org/entity/Q19594046","Torà","Catalunya"
-"http://www.wikidata.org/entity/Q595553","Barcelona","Catalunya"
-"http://www.wikidata.org/entity/Q17596011","Cabanes","Catalunya"
-"http://www.wikidata.org/entity/Q20492024","Usurbil","Euskadi"
-"http://www.wikidata.org/entity/Q5992033","Oviedo","Asturias / Asturies"
-"http://www.wikidata.org/entity/Q5648759","Ponts","Catalunya"
-"http://www.wikidata.org/entity/Q18341263","Tamarite de Litera","Aragón"
-"http://www.wikidata.org/entity/Q20890459","Oñati","Euskadi"
-"http://www.wikidata.org/entity/Q8342577","Tagamanent","Catalunya"
-"http://www.wikidata.org/entity/Q43117120","Doñinos de Salamanca","Castilla y León"
-"http://www.wikidata.org/entity/Q19833403","Olite/Erriberri","Navarra - Nafarroa"
-"http://www.wikidata.org/entity/Q2419290","Murcia","Región de Murcia"
-"http://www.wikidata.org/entity/Q5573377","Alacant / Alicante","Comunitat Valenciana"
-"http://www.wikidata.org/entity/Q18915173","Corullón","Castilla y León"
-"http://www.wikidata.org/entity/Q14541193","Sotosalbos","Castilla y León"
-"http://www.wikidata.org/entity/Q18004851","Gualta","Catalunya"
-"http://www.wikidata.org/entity/Q20492600","Segura","Euskadi"
-"http://www.wikidata.org/entity/Q4891457","Mataró","Catalunya"
-"http://www.wikidata.org/entity/Q5117763","Madrid","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q2942824","Sigüenza","Castilla-La Mancha"
-"http://www.wikidata.org/entity/Q2628455","Madrid","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q1581868","Avilés","Asturias / Asturies"
-"http://www.wikidata.org/entity/Q9007485","Zalla","Euskadi"
-"http://www.wikidata.org/entity/Q7068586","Bujalance","Andalucía"
-"http://www.wikidata.org/entity/Q1049154","Hondarribia","Euskadi"
-"http://www.wikidata.org/entity/Q17596620","Cadaqués","Catalunya"
-"http://www.wikidata.org/entity/Q2882441","Madrid","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q520112","Enériz/Eneritz","Navarra - Nafarroa"
-"http://www.wikidata.org/entity/Q9007019","Jerez de la Frontera","Andalucía"
-"http://www.wikidata.org/entity/Q20855589","Bergara","Euskadi"
-"http://www.wikidata.org/entity/Q4407365","Cartagena","Región de Murcia"
-"http://www.wikidata.org/entity/Q9007258","Caracena","Castilla y León"
-"http://www.wikidata.org/entity/Q10661058","Villafranca del Bierzo","Castilla y León"
-"http://www.wikidata.org/entity/Q5132925","Castellet i la Gornal","Catalunya"
-"http://www.wikidata.org/entity/Q507390","Astorga","Castilla y León"
-"http://www.wikidata.org/entity/Q11912838","Barcelona","Catalunya"
-"http://www.wikidata.org/entity/Q17615472","Sant Esteve de Palautordera","Catalunya"
-"http://www.wikidata.org/entity/Q7068593","Santa María la Real de Nieva","Castilla y León"
-"http://www.wikidata.org/entity/Q17596835","Vic","Catalunya"
-"http://www.wikidata.org/entity/Q17596839","Beuda","Catalunya"
-"http://www.wikidata.org/entity/Q23505747","Tavertet","Catalunya"
-"http://www.wikidata.org/entity/Q3127243","Málaga","Andalucía"
-"http://www.wikidata.org/entity/Q1545312","San Martín de Montalbán","Castilla-La Mancha"
-"http://www.wikidata.org/entity/Q2942804","Santo Domingo de la Calzada","La Rioja"
-"http://www.wikidata.org/entity/Q11682886","Teulada","Comunitat Valenciana"
-"http://www.wikidata.org/entity/Q203741","Gradefes","Castilla y León"
-"http://www.wikidata.org/entity/Q7126321","Córdoba","Andalucía"
-"http://www.wikidata.org/entity/Q7126320","Madrid","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q7126325","Sevilla","Andalucía"
-"http://www.wikidata.org/entity/Q11682889","Bellver de Cerdanya","Catalunya"
-"http://www.wikidata.org/entity/Q1361548","Ourense","Galicia / Galiza"
-"http://www.wikidata.org/entity/Q21849328","Cassà de la Selva","Catalunya"
-"http://www.wikidata.org/entity/Q17615485","Llers","Catalunya"
-"http://www.wikidata.org/entity/Q5757367","Hostalric","Catalunya"
-"http://www.wikidata.org/entity/Q11912803","Barcelona","Catalunya"
-"http://www.wikidata.org/entity/Q17596848","Boadella i les Escaules","Catalunya"
-"http://www.wikidata.org/entity/Q19775887","Banyoles","Catalunya"
-"http://www.wikidata.org/entity/Q10975752","Llinars del Vallès","Catalunya"
-"http://www.wikidata.org/entity/Q5909702","Castrojeriz","Castilla y León"
-"http://www.wikidata.org/entity/Q5117777","San Esteban de Gormaz","Castilla y León"
-"http://www.wikidata.org/entity/Q1108239","Córdoba","Andalucía"
-"http://www.wikidata.org/entity/Q20109018","Santa Coloma de Cervelló","Catalunya"
-"http://www.wikidata.org/entity/Q23502006","Folgueroles","Catalunya"
-"http://www.wikidata.org/entity/Q16577676","Ourense","Galicia / Galiza"
-"http://www.wikidata.org/entity/Q5117770","Madrid","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q11942449","Centelles","Catalunya"
-"http://www.wikidata.org/entity/Q17596843","Pontons","Catalunya"
-"http://www.wikidata.org/entity/Q5117771","Torrelaguna","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q2513105","A Coruña","Galicia / Galiza"
-"http://www.wikidata.org/entity/Q2942814","Segorbe","Comunitat Valenciana"
-"http://www.wikidata.org/entity/Q5117774","San Martín de la Vega","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q5117773","Alcaraz","Castilla-La Mancha"
-"http://www.wikidata.org/entity/Q17389613","Camprodon","Catalunya"
-"http://www.wikidata.org/entity/Q20103711","Santa Maria de Merlès","Catalunya"
-"http://www.wikidata.org/entity/Q7126329","León","Castilla y León"
-"http://www.wikidata.org/entity/Q7415722","Llangréu/Langreo","Asturias / Asturies"
-"http://www.wikidata.org/entity/Q5722039","Mérida","Extremadura"
-"http://www.wikidata.org/entity/Q24256445","Arenas de San Juan","Castilla-La Mancha"
-"http://www.wikidata.org/entity/Q2893544","Algemesí","Comunitat Valenciana"
-"http://www.wikidata.org/entity/Q11682828","Irun","Euskadi"
-"http://www.wikidata.org/entity/Q43119340","Campezo/Kanpezu","Euskadi"
-"http://www.wikidata.org/entity/Q20901118","Castellví de la Marca","Catalunya"
-"http://www.wikidata.org/entity/Q5910744","Cuéllar","Castilla y León"
-"http://www.wikidata.org/entity/Q1548845","Ponferrada","Castilla y León"
-"http://www.wikidata.org/entity/Q20888458","Oñati","Euskadi"
-"http://www.wikidata.org/entity/Q9054670","Gijón/Xixón","Asturias / Asturies"
-"http://www.wikidata.org/entity/Q64874380","Vinebre","Catalunya"
-"http://www.wikidata.org/entity/Q5939167","Madrid","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q3888432","Buitrago del Lozoya","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q5644227","Balsareny","Catalunya"
-"http://www.wikidata.org/entity/Q2053265","Santa Cruz de Tenerife","Canarias"
-"http://www.wikidata.org/entity/Q9007686","Orihuela","Comunitat Valenciana"
-"http://www.wikidata.org/entity/Q1582758","Málaga","Andalucía"
-"http://www.wikidata.org/entity/Q9089142","Castellcir","Catalunya"
-"http://www.wikidata.org/entity/Q212867","Barcelona","Catalunya"
-"http://www.wikidata.org/entity/Q3780261","Palma","Illes Balears"
-"http://www.wikidata.org/entity/Q2362262","Barcelona","Catalunya"
-"http://www.wikidata.org/entity/Q5912934","Tordesillas","Castilla y León"
-"http://www.wikidata.org/entity/Q5911846","Zamora","Castilla y León"
-"http://www.wikidata.org/entity/Q2341107","Barcelona","Catalunya"
-"http://www.wikidata.org/entity/Q5710444","Sevilla","Andalucía"
-"http://www.wikidata.org/entity/Q1955435","Granada","Andalucía"
-"http://www.wikidata.org/entity/Q5910991","Villafranca del Bierzo","Castilla y León"
-"http://www.wikidata.org/entity/Q19979217","Usurbil","Euskadi"
-"http://www.wikidata.org/entity/Q2894697","Murcia","Región de Murcia"
-"http://www.wikidata.org/entity/Q3326666","Sant Fruitós de Bages","Catalunya"
-"http://www.wikidata.org/entity/Q6118462","Biescas","Aragón"
-"http://www.wikidata.org/entity/Q11930287","Monistrol de Montserrat","Catalunya"
-"http://www.wikidata.org/entity/Q5116859","Sigüenza","Castilla-La Mancha"
-"http://www.wikidata.org/entity/Q20888672","Oñati","Euskadi"
-"http://www.wikidata.org/entity/Q5680973","Mota del Marqués","Castilla y León"
-"http://www.wikidata.org/entity/Q750248","Guadalupe","Extremadura"
-"http://www.wikidata.org/entity/Q19257433","Figueres","Catalunya"
-"http://www.wikidata.org/entity/Q20901375","la Llacuna","Catalunya"
-"http://www.wikidata.org/entity/Q2511354","A Coruña","Galicia / Galiza"
-"http://www.wikidata.org/entity/Q5912902","Valladolid","Castilla y León"
-"http://www.wikidata.org/entity/Q18696057","Sant Cugat del Vallès","Catalunya"
-"http://www.wikidata.org/entity/Q11682841","Oviedo","Asturias / Asturies"
-"http://www.wikidata.org/entity/Q9007218","Biota","Aragón"
-"http://www.wikidata.org/entity/Q42307107","Alija del Infantado","Castilla y León"
-"http://www.wikidata.org/entity/Q383659","León","Castilla y León"
-"http://www.wikidata.org/entity/Q5664252","Córdoba","Andalucía"
-"http://www.wikidata.org/entity/Q9007466","Agullana","Catalunya"
-"http://www.wikidata.org/entity/Q9054409","Vilafranca del Penedès","Catalunya"
-"http://www.wikidata.org/entity/Q18696066","Abrera","Catalunya"
-"http://www.wikidata.org/entity/Q17586867","l'Escala","Catalunya"
-"http://www.wikidata.org/entity/Q18696064","Aiguaviva","Catalunya"
-"http://www.wikidata.org/entity/Q1609022","Santillana del Mar","Cantabria"
-"http://www.wikidata.org/entity/Q543069","Santa Eugènia de Berga","Catalunya"
-"http://www.wikidata.org/entity/Q20901125","Sant Quintí de Mediona","Catalunya"
-"http://www.wikidata.org/entity/Q6057834","Cartagena","Región de Murcia"
-"http://www.wikidata.org/entity/Q20901123","Cànoves i Samalús","Catalunya"
-"http://www.wikidata.org/entity/Q6394284","Talavera de la Reina","Castilla-La Mancha"
-"http://www.wikidata.org/entity/Q2511122","Castelló de la Plana","Comunitat Valenciana"
-"http://www.wikidata.org/entity/Q974716","Tarragona","Catalunya"
-"http://www.wikidata.org/entity/Q5911824","Castro-Urdiales","Cantabria"
-"http://www.wikidata.org/entity/Q11952289","Vilanova i la Geltrú","Catalunya"
-"http://www.wikidata.org/entity/Q19257208","Vilafranca del Penedès","Catalunya"
-"http://www.wikidata.org/entity/Q4891263","Monistrol de Montserrat","Catalunya"
-"http://www.wikidata.org/entity/Q10911094","Sacramenia","Castilla y León"
-"http://www.wikidata.org/entity/Q570665","Madrid","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q28711233","Canet d'Adri","Catalunya"
-"http://www.wikidata.org/entity/Q12252722","Ordizia","Euskadi"
-"http://www.wikidata.org/entity/Q3896289","Barcelona","Catalunya"
-"http://www.wikidata.org/entity/Q2984057","Ziortza-Bolibar","Euskadi"
-"http://www.wikidata.org/entity/Q15788327","Ávila","Castilla y León"
-"http://www.wikidata.org/entity/Q20015477","Murcia","Región de Murcia"
-"http://www.wikidata.org/entity/Q17595924","Bàscara","Catalunya"
-"http://www.wikidata.org/entity/Q43091724","Olot","Catalunya"
-"http://www.wikidata.org/entity/Q4892380","Lleida","Catalunya"
-"http://www.wikidata.org/entity/Q5117128","Madrid","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q18696279","Tossa de Mar","Catalunya"
-"http://www.wikidata.org/entity/Q5911637","Fernán-Núñez","Andalucía"
-"http://www.wikidata.org/entity/Q24055045","Osor","Catalunya"
-"http://www.wikidata.org/entity/Q5912966","Candín","Castilla y León"
-"http://www.wikidata.org/entity/Q5911872","San Vicente de la Barquera","Cantabria"
-"http://www.wikidata.org/entity/Q5117121","Jerez de la Frontera","Andalucía"
-"http://www.wikidata.org/entity/Q5911632","Ampuero","Cantabria"
-"http://www.wikidata.org/entity/Q5117125","Guadalajara","Castilla-La Mancha"
-"http://www.wikidata.org/entity/Q5117124","Camarma de Esteruelas","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q5910781","Aldeamayor de San Martín","Castilla y León"
-"http://www.wikidata.org/entity/Q18008385","Vilanova i la Geltrú","Catalunya"
-"http://www.wikidata.org/entity/Q3327561","Samos","Galicia / Galiza"
-"http://www.wikidata.org/entity/Q23780481","Sallent","Catalunya"
-"http://www.wikidata.org/entity/Q5909795","Samboal","Castilla y León"
-"http://www.wikidata.org/entity/Q6057871","Madrid","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q9034457","l'Estany","Catalunya"
-"http://www.wikidata.org/entity/Q5909315","Antigua","Canarias"
-"http://www.wikidata.org/entity/Q2722123","Valladolid","Castilla y León"
-"http://www.wikidata.org/entity/Q5754472","Madrid","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q1584990","Beranuy","Aragón"
-"http://www.wikidata.org/entity/Q19256331","Cantallops","Catalunya"
-"http://www.wikidata.org/entity/Q5117118","Cogolludo","Castilla-La Mancha"
-"http://www.wikidata.org/entity/Q5117119","Madrid","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q5910317","Palos de la Frontera","Andalucía"
-"http://www.wikidata.org/entity/Q5117110","Jerez de la Frontera","Andalucía"
-"http://www.wikidata.org/entity/Q1321720","Alfauir","Comunitat Valenciana"
-"http://www.wikidata.org/entity/Q5117112","Madrid","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q5117114","Madrid","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q20643505","Errenteria","Euskadi"
-"http://www.wikidata.org/entity/Q20745775","Gradefes","Castilla y León"
-"http://www.wikidata.org/entity/Q25478724","Bergara","Euskadi"
-"http://www.wikidata.org/entity/Q3047420","Salamanca","Castilla y León"
-"http://www.wikidata.org/entity/Q18008377","Pals","Catalunya"
-"http://www.wikidata.org/entity/Q585057","les Franqueses del Vallès","Catalunya"
-"http://www.wikidata.org/entity/Q16915965","Albacete","Castilla-La Mancha"
-"http://www.wikidata.org/entity/Q5723507","Cartagena","Región de Murcia"
-"http://www.wikidata.org/entity/Q2274061","Sevilla","Andalucía"
-"http://www.wikidata.org/entity/Q1570113","Las Regueras","Asturias / Asturies"
-"http://www.wikidata.org/entity/Q3849438","les Valls de Valira","Catalunya"
-"http://www.wikidata.org/entity/Q24276211","Carrizo","Castilla y León"
-"http://www.wikidata.org/entity/Q5909779","Sevilla","Andalucía"
-"http://www.wikidata.org/entity/Q18003946","Sant Ramon","Catalunya"
-"http://www.wikidata.org/entity/Q2944148","Meco","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q20900885","Olesa de Bonesvalls","Catalunya"
-"http://www.wikidata.org/entity/Q25902600","Bergara","Euskadi"
-"http://www.wikidata.org/entity/Q19257638","Avinyonet del Penedès","Catalunya"
-"http://www.wikidata.org/entity/Q19256309","Avinyonet del Penedès","Catalunya"
-"http://www.wikidata.org/entity/Q18003942","Granyanella","Catalunya"
-"http://www.wikidata.org/entity/Q3573923","Sant Jaume de Frontanyà","Catalunya"
-"http://www.wikidata.org/entity/Q5754016","Salamanca","Castilla y León"
-"http://www.wikidata.org/entity/Q11911558","Badalona","Catalunya"
-"http://www.wikidata.org/entity/Q6057894","Espinosa de los Monteros","Castilla y León"
-"http://www.wikidata.org/entity/Q5117138","Vitoria-Gasteiz","Euskadi"
-"http://www.wikidata.org/entity/Q965302","Brihuega","Castilla-La Mancha"
-"http://www.wikidata.org/entity/Q5911869","Torreblascopedro","Andalucía"
-"http://www.wikidata.org/entity/Q1738829","les Masies de Roda","Catalunya"
-"http://www.wikidata.org/entity/Q5911629","Sevilla","Andalucía"
-"http://www.wikidata.org/entity/Q9034471","Castell de Mur","Catalunya"
-"http://www.wikidata.org/entity/Q4893249","Girona","Catalunya"
-"http://www.wikidata.org/entity/Q5786052","Huécija","Andalucía"
-"http://www.wikidata.org/entity/Q533001","Rupià","Catalunya"
-"http://www.wikidata.org/entity/Q5910771","Valladolid","Castilla y León"
-"http://www.wikidata.org/entity/Q1139113","Vitoria-Gasteiz","Euskadi"
-"http://www.wikidata.org/entity/Q18003931","Balaguer","Catalunya"
-"http://www.wikidata.org/entity/Q12385635","Castro Caldelas","Galicia / Galiza"
-"http://www.wikidata.org/entity/Q18008395","Pontons","Catalunya"
-"http://www.wikidata.org/entity/Q2116598","Ripoll","Catalunya"
-"http://www.wikidata.org/entity/Q18008399","Vilassar de Mar","Catalunya"
-"http://www.wikidata.org/entity/Q8341607","Madrid","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q1166944","Trillo","Castilla-La Mancha"
-"http://www.wikidata.org/entity/Q8341602","Sant Joan les Fonts","Catalunya"
-"http://www.wikidata.org/entity/Q9034465","La Guingueta d'Àneu","Catalunya"
-"http://www.wikidata.org/entity/Q20875315","Arenys de Mar","Catalunya"
-"http://www.wikidata.org/entity/Q1815135","Barcelona","Catalunya"
-"http://www.wikidata.org/entity/Q18008392","Montgat","Catalunya"
-"http://www.wikidata.org/entity/Q837979","Abárzuza/Abartzuza","Navarra - Nafarroa"
-"http://www.wikidata.org/entity/Q4115057","Granada","Andalucía"
-"http://www.wikidata.org/entity/Q17595729","Sant Feliu de Guíxols","Catalunya"
-"http://www.wikidata.org/entity/Q5142768","Cangas del Narcea","Asturias / Asturies"
-"http://www.wikidata.org/entity/Q5910107","Sevilla","Andalucía"
-"http://www.wikidata.org/entity/Q9034420","La Guingueta d'Àneu","Catalunya"
-"http://www.wikidata.org/entity/Q5910582","Benavente","Castilla y León"
-"http://www.wikidata.org/entity/Q2885585","Simancas","Castilla y León"
-"http://www.wikidata.org/entity/Q927265","Cuéllar","Castilla y León"
-"http://www.wikidata.org/entity/Q20492801","Zumaia","Euskadi"
-"http://www.wikidata.org/entity/Q2736564","Madrid","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q34562","San Cristóbal de La Laguna","Canarias"
-"http://www.wikidata.org/entity/Q5419362","Granada","Andalucía"
-"http://www.wikidata.org/entity/Q518072","Borau","Aragón"
-"http://www.wikidata.org/entity/Q20106314","Berga","Catalunya"
-"http://www.wikidata.org/entity/Q20986043","Móra d'Ebre","Catalunya"
-"http://www.wikidata.org/entity/Q1164358","Madrid","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q975868","Cardona","Catalunya"
-"http://www.wikidata.org/entity/Q6406146","Sevilla","Andalucía"
-"http://www.wikidata.org/entity/Q1534288","Oviedo","Asturias / Asturies"
-"http://www.wikidata.org/entity/Q9034415","Cruïlles, Monells i Sant Sadurní de l'Heura","Catalunya"
-"http://www.wikidata.org/entity/Q1540732","Real Sitio de San Ildefonso","Castilla y León"
-"http://www.wikidata.org/entity/Q19368128","Sant Pere de Riudebitlles","Catalunya"
-"http://www.wikidata.org/entity/Q8254482","Almería","Andalucía"
-"http://www.wikidata.org/entity/Q2478458","Tarragona","Catalunya"
-"http://www.wikidata.org/entity/Q5911206","Olóriz","Navarra - Nafarroa"
-"http://www.wikidata.org/entity/Q43121031","Santa Susanna","Catalunya"
-"http://www.wikidata.org/entity/Q5401849","Palencia","Castilla y León"
-"http://www.wikidata.org/entity/Q12254090","Arrasate / Mondragón","Euskadi"
-"http://www.wikidata.org/entity/Q19360888","Toledo","Castilla-La Mancha"
-"http://www.wikidata.org/entity/Q5991998","Cudillero","Asturias / Asturies"
-"http://www.wikidata.org/entity/Q2894059","Portillo","Castilla y León"
-"http://www.wikidata.org/entity/Q3083728","Siero","Asturias / Asturies"
-"http://www.wikidata.org/entity/Q6102052","Valladolid","Castilla y León"
-"http://www.wikidata.org/entity/Q5909369","Torrelapaja","Aragón"
-"http://www.wikidata.org/entity/Q43122137","Tavertet","Catalunya"
-"http://www.wikidata.org/entity/Q20901531","Sant Jaume dels Domenys","Catalunya"
-"http://www.wikidata.org/entity/Q3826168","Madrid","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q2420025","Madrid","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q8243797","A Mariña Central","Galicia / Galiza"
-"http://www.wikidata.org/entity/Q2067282","Oviedo","Asturias / Asturies"
-"http://www.wikidata.org/entity/Q43121040","Malgrat de Mar","Catalunya"
-"http://www.wikidata.org/entity/Q5911654","Bareyo","Cantabria"
-"http://www.wikidata.org/entity/Q680292","Terra de Melide","Galicia / Galiza"
-"http://www.wikidata.org/entity/Q17595941","Beuda","Catalunya"
-"http://www.wikidata.org/entity/Q5117103","Arganda del Rey","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q1048678","Peralada","Catalunya"
-"http://www.wikidata.org/entity/Q5117102","Madrid","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q5909574","Moguer","Andalucía"
-"http://www.wikidata.org/entity/Q388287","Alzira","Comunitat Valenciana"
-"http://www.wikidata.org/entity/Q1048682","Roses","Catalunya"
-"http://www.wikidata.org/entity/Q2380092","Almería","Andalucía"
-"http://www.wikidata.org/entity/Q43123473","Peralada","Catalunya"
-"http://www.wikidata.org/entity/Q20901522","les Franqueses del Vallès","Catalunya"
-"http://www.wikidata.org/entity/Q6150351","Herrerías","Cantabria"
-"http://www.wikidata.org/entity/Q3328423","Sitges","Catalunya"
-"http://www.wikidata.org/entity/Q1530714","Sant Joan de les Abadesses","Catalunya"
-"http://www.wikidata.org/entity/Q5757319","Torrefeta i Florejacs","Catalunya"
-"http://www.wikidata.org/entity/Q5677729","Nava del Rey","Castilla y León"
-"http://www.wikidata.org/entity/Q21622828","Sant Feliu Sasserra","Catalunya"
-"http://www.wikidata.org/entity/Q6102073","Villamuriel de Cerrato","Castilla y León"
-"http://www.wikidata.org/entity/Q6058532","León","Castilla y León"
-"http://www.wikidata.org/entity/Q43122159","Malla","Catalunya"
-"http://www.wikidata.org/entity/Q8342452","Santa Maria de Miralles","Catalunya"
-"http://www.wikidata.org/entity/Q2956550","Guadalajara","Castilla-La Mancha"
-"http://www.wikidata.org/entity/Q43123483","Peralada","Catalunya"
-"http://www.wikidata.org/entity/Q5910263","Támara de Campos","Castilla y León"
-"http://www.wikidata.org/entity/Q7203706","Peñafiel","Castilla y León"
-"http://www.wikidata.org/entity/Q6150677","Peñafiel","Castilla y León"
-"http://www.wikidata.org/entity/Q20986247","Saus, Camallera i Llampaies","Catalunya"
-"http://www.wikidata.org/entity/Q5555273","La Vid y Barrios","Castilla y León"
-"http://www.wikidata.org/entity/Q11697438","Cocentaina","Comunitat Valenciana"
-"http://www.wikidata.org/entity/Q2037255","Toledo","Castilla-La Mancha"
-"http://www.wikidata.org/entity/Q8342203","Cabrera d'Anoia","Catalunya"
-"http://www.wikidata.org/entity/Q8342446","Gombrèn","Catalunya"
-"http://www.wikidata.org/entity/Q3285202","Bilbao","Euskadi"
-"http://www.wikidata.org/entity/Q3582357","Sevilla","Andalucía"
-"http://www.wikidata.org/entity/Q15277185","Corcos","Castilla y León"
-"http://www.wikidata.org/entity/Q2837186","Medina de Pomar","Castilla y León"
-"http://www.wikidata.org/entity/Q8341593","Sabadell","Catalunya"
-"http://www.wikidata.org/entity/Q4505124","Lorca","Región de Murcia"
-"http://www.wikidata.org/entity/Q9088814","Figueres","Catalunya"
-"http://www.wikidata.org/entity/Q18172849","Montejo de Tiermes","Castilla y León"
-"http://www.wikidata.org/entity/Q596344","Valderredible","Cantabria"
-"http://www.wikidata.org/entity/Q5648218","Córdoba","Andalucía"
-"http://www.wikidata.org/entity/Q1575647","Tui","Galicia / Galiza"
-"http://www.wikidata.org/entity/Q7415026","Córdoba","Andalucía"
-"http://www.wikidata.org/entity/Q3111473","Pamplona/Iruña","Navarra - Nafarroa"
-"http://www.wikidata.org/entity/Q14568091","Tabeirós - Terra de Montes","Galicia / Galiza"
-"http://www.wikidata.org/entity/Q5723907","Córdoba","Andalucía"
-"http://www.wikidata.org/entity/Q17600860","Moià","Catalunya"
-"http://www.wikidata.org/entity/Q389325","Bellcaire d'Empordà","Catalunya"
-"http://www.wikidata.org/entity/Q5910248","Burgos","Castilla y León"
-"http://www.wikidata.org/entity/Q5910486","Orejana","Castilla y León"
-"http://www.wikidata.org/entity/Q949589","Barcelona","Catalunya"
-"http://www.wikidata.org/entity/Q1552535","Carracedelo","Castilla y León"
-"http://www.wikidata.org/entity/Q9006974","Eibar","Euskadi"
-"http://www.wikidata.org/entity/Q7415298","Madrid","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q17590858","Mataró","Catalunya"
-"http://www.wikidata.org/entity/Q8341578","Sant Pere Pescador","Catalunya"
-"http://www.wikidata.org/entity/Q81747652","Santa Coloma de Cervelló","Catalunya"
-"http://www.wikidata.org/entity/Q43092768","Azpeitia","Euskadi"
-"http://www.wikidata.org/entity/Q23695710","Caravaca de la Cruz","Región de Murcia"
-"http://www.wikidata.org/entity/Q5639734","Cervera","Catalunya"
-"http://www.wikidata.org/entity/Q5911587","Zaragoza","Aragón"
-"http://www.wikidata.org/entity/Q425898","Jaén","Andalucía"
-"http://www.wikidata.org/entity/Q5910251","Granada","Andalucía"
-"http://www.wikidata.org/entity/Q17615922","Sant Llorenç de la Muga","Catalunya"
-"http://www.wikidata.org/entity/Q28465522","Guissona","Catalunya"
-"http://www.wikidata.org/entity/Q9005410","Legorreta","Euskadi"
-"http://www.wikidata.org/entity/Q974002","Soria","Castilla y León"
-"http://www.wikidata.org/entity/Q12254789","Ordizia","Euskadi"
-"http://www.wikidata.org/entity/Q18007463","Molló","Catalunya"
-"http://www.wikidata.org/entity/Q2004326","La Orotava","Canarias"
-"http://www.wikidata.org/entity/Q6034142","Valladolid","Castilla y León"
-"http://www.wikidata.org/entity/Q22227280","Ribes de Freser","Catalunya"
-"http://www.wikidata.org/entity/Q6083316","Albacete","Castilla-La Mancha"
-"http://www.wikidata.org/entity/Q1725740","Ayegui","Navarra - Nafarroa"
-"http://www.wikidata.org/entity/Q1131940","Cillorigo de Liébana","Cantabria"
-"http://www.wikidata.org/entity/Q9034387","Sant Ramon","Catalunya"
-"http://www.wikidata.org/entity/Q9006906","Vitoria-Gasteiz","Euskadi"
-"http://www.wikidata.org/entity/Q1997245","Segovia","Castilla y León"
-"http://www.wikidata.org/entity/Q506814","Barcelona","Catalunya"
-"http://www.wikidata.org/entity/Q5117167","Uceda","Castilla-La Mancha"
-"http://www.wikidata.org/entity/Q5117166","Alcorcón","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q9004966","Sevilla","Andalucía"
-"http://www.wikidata.org/entity/Q5117169","Sangüesa/Zangoza","Navarra - Nafarroa"
-"http://www.wikidata.org/entity/Q5117168","Chinchilla de Monte-Aragón","Castilla-La Mancha"
-"http://www.wikidata.org/entity/Q18005074","Sant Pere Pescador","Catalunya"
-"http://www.wikidata.org/entity/Q27791652","Torreblanca","Comunitat Valenciana"
-"http://www.wikidata.org/entity/Q9034378","Camprodon","Catalunya"
-"http://www.wikidata.org/entity/Q29367672","Villarroya de la Sierra","Aragón"
-"http://www.wikidata.org/entity/Q2942581","Baeza","Andalucía"
-"http://www.wikidata.org/entity/Q18005070","Peralada","Catalunya"
-"http://www.wikidata.org/entity/Q2933633","Aldea del Rey","Castilla-La Mancha"
-"http://www.wikidata.org/entity/Q6058127","Zaragoza","Aragón"
-"http://www.wikidata.org/entity/Q8342645","Piera","Catalunya"
-"http://www.wikidata.org/entity/Q11697411","Eibar","Euskadi"
-"http://www.wikidata.org/entity/Q3585406","la Vall de Boí","Catalunya"
-"http://www.wikidata.org/entity/Q1776246","Villanueva de Oscos","Asturias / Asturies"
-"http://www.wikidata.org/entity/Q9034375","Besalú","Catalunya"
-"http://www.wikidata.org/entity/Q9088856","Oñati","Euskadi"
-"http://www.wikidata.org/entity/Q1046405","Barcelona","Catalunya"
-"http://www.wikidata.org/entity/Q1321526","Barcelona","Catalunya"
-"http://www.wikidata.org/entity/Q5117154","Fuenmayor","La Rioja"
-"http://www.wikidata.org/entity/Q5912257","Zamora","Castilla y León"
-"http://www.wikidata.org/entity/Q10750219","Lleida","Catalunya"
-"http://www.wikidata.org/entity/Q18005063","Bàscara","Catalunya"
-"http://www.wikidata.org/entity/Q5399718","Cabezón de Liébana","Cantabria"
-"http://www.wikidata.org/entity/Q20493052","Pasaia","Euskadi"
-"http://www.wikidata.org/entity/Q20804876","Getaria","Euskadi"
-"http://www.wikidata.org/entity/Q22227279","Cornellà del Terri","Catalunya"
-"http://www.wikidata.org/entity/Q18005065","Castelló d'Empuries","Catalunya"
-"http://www.wikidata.org/entity/Q5117150","Mieres","Asturias / Asturies"
-"http://www.wikidata.org/entity/Q5910070","Salamanca","Castilla y León"
-"http://www.wikidata.org/entity/Q1116546","Barcelona","Catalunya"
-"http://www.wikidata.org/entity/Q21281796","Sant Feliu de Buixalleu","Catalunya"
-"http://www.wikidata.org/entity/Q2942592","Badajoz","Extremadura"
-"http://www.wikidata.org/entity/Q8342631","Forallac","Catalunya"
-"http://www.wikidata.org/entity/Q22227274","Campelles","Catalunya"
-"http://www.wikidata.org/entity/Q8772074","Barcelona","Catalunya"
-"http://www.wikidata.org/entity/Q5839385","Cartagena","Región de Murcia"
-"http://www.wikidata.org/entity/Q18695880","Lloret de Mar","Catalunya"
-"http://www.wikidata.org/entity/Q1140634","Madrid","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q5639526","Seva","Catalunya"
-"http://www.wikidata.org/entity/Q778571","Santiponce","Andalucía"
-"http://www.wikidata.org/entity/Q5911373","Sahagún","Castilla y León"
-"http://www.wikidata.org/entity/Q5909291","Córdoba","Andalucía"
-"http://www.wikidata.org/entity/Q11913137","Boadella i les Escaules","Catalunya"
-"http://www.wikidata.org/entity/Q18200486","Fresno el Viejo","Castilla y León"
-"http://www.wikidata.org/entity/Q3585440","Córdoba","Andalucía"
-"http://www.wikidata.org/entity/Q5117180","Haro","La Rioja"
-"http://www.wikidata.org/entity/Q7415013","Madrid","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q20856286","Los Realejos","Canarias"
-"http://www.wikidata.org/entity/Q11697419","Valladolid","Castilla y León"
-"http://www.wikidata.org/entity/Q5590202","Illana","Castilla-La Mancha"
-"http://www.wikidata.org/entity/Q20104672","Cercs","Catalunya"
-"http://www.wikidata.org/entity/Q14516254","Wamba","Castilla y León"
-"http://www.wikidata.org/entity/Q8342620","Vilassar de Dalt","Catalunya"
-"http://www.wikidata.org/entity/Q47183505","Vilanova i la Geltrú","Catalunya"
-"http://www.wikidata.org/entity/Q5685859","Sant Vicenç de Torelló","Catalunya"
-"http://www.wikidata.org/entity/Q2942573","Orihuela","Comunitat Valenciana"
-"http://www.wikidata.org/entity/Q45889295","Sabadell","Catalunya"
-"http://www.wikidata.org/entity/Q650007","Cádiz","Andalucía"
-"http://www.wikidata.org/entity/Q5117175","Jerez de la Frontera","Andalucía"
-"http://www.wikidata.org/entity/Q5911143","Alaejos","Castilla y León"
-"http://www.wikidata.org/entity/Q5117177","Guadalajara","Castilla-La Mancha"
-"http://www.wikidata.org/entity/Q922097","Vélez-Blanco","Andalucía"
-"http://www.wikidata.org/entity/Q5117170","Santiago","Galicia / Galiza"
-"http://www.wikidata.org/entity/Q3755314","Vitoria-Gasteiz","Euskadi"
-"http://www.wikidata.org/entity/Q18191370","Madrid","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q40833556","Albanyà","Catalunya"
-"http://www.wikidata.org/entity/Q8342614","la Llacuna","Catalunya"
-"http://www.wikidata.org/entity/Q2220100","Oviedo","Asturias / Asturies"
-"http://www.wikidata.org/entity/Q3471746","Uharte-Arakil","Navarra - Nafarroa"
-"http://www.wikidata.org/entity/Q950772","Cercs","Catalunya"
-"http://www.wikidata.org/entity/Q3394959","O Deza","Galicia / Galiza"
-"http://www.wikidata.org/entity/Q339482","Oñati","Euskadi"
-"http://www.wikidata.org/entity/Q130534","Sant Quirze Safaja","Catalunya"
-"http://www.wikidata.org/entity/Q6021552","Valladolid","Castilla y León"
-"http://www.wikidata.org/entity/Q1790758","Madrid","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q3813468","Soria","Castilla y León"
-"http://www.wikidata.org/entity/Q5776818","La Pernía","Castilla y León"
-"http://www.wikidata.org/entity/Q6021550","Vélez-Málaga","Andalucía"
-"http://www.wikidata.org/entity/Q6083116","La Cavada","Cantabria"
-"http://www.wikidata.org/entity/Q26212197","Pozondón","Aragón"
-"http://www.wikidata.org/entity/Q665154","Lena","Asturias / Asturies"
-"http://www.wikidata.org/entity/Q17615501","Santa Maria de Palautordera","Catalunya"
-"http://www.wikidata.org/entity/Q28711368","la Vall d'en Bas","Catalunya"
-"http://www.wikidata.org/entity/Q938638","Alcoi / Alcoy","Comunitat Valenciana"
-"http://www.wikidata.org/entity/Q5116947","Peñas de San Pedro","Castilla-La Mancha"
-"http://www.wikidata.org/entity/Q5577226","Fonollosa","Catalunya"
-"http://www.wikidata.org/entity/Q2878575","Telde","Canarias"
-"http://www.wikidata.org/entity/Q936453","Garganta la Olla","Extremadura"
-"http://www.wikidata.org/entity/Q8342289","Cornellà de Llobregat","Catalunya"
-"http://www.wikidata.org/entity/Q8342288","Camprodon","Catalunya"
-"http://www.wikidata.org/entity/Q43123099","Maçanet de Cabrenys","Catalunya"
-"http://www.wikidata.org/entity/Q5116945","Labastida/Bastida","Euskadi"
-"http://www.wikidata.org/entity/Q5776828","Villafranca del Bierzo","Castilla y León"
-"http://www.wikidata.org/entity/Q1776206","Pelayos de la Presa","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q1776209","Villaviciosa","Asturias / Asturies"
-"http://www.wikidata.org/entity/Q5480691","Lorca","Región de Murcia"
-"http://www.wikidata.org/entity/Q17615506","Borredà","Catalunya"
-"http://www.wikidata.org/entity/Q19367759","Girona","Catalunya"
-"http://www.wikidata.org/entity/Q6447049","Cartes","Cantabria"
-"http://www.wikidata.org/entity/Q3360949","Sevilla","Andalucía"
-"http://www.wikidata.org/entity/Q5551080","Maçanet de la Selva","Catalunya"
-"http://www.wikidata.org/entity/Q6058152","Santillana del Mar","Cantabria"
-"http://www.wikidata.org/entity/Q2842138","Donostia/San Sebastián","Euskadi"
-"http://www.wikidata.org/entity/Q5845492","Calders","Catalunya"
-"http://www.wikidata.org/entity/Q6058155","Reocín","Cantabria"
-"http://www.wikidata.org/entity/Q6058397","Espinosa de los Monteros","Castilla y León"
-"http://www.wikidata.org/entity/Q8342276","la Pobla de Claramunt","Catalunya"
-"http://www.wikidata.org/entity/Q2942521","Palencia","Castilla y León"
-"http://www.wikidata.org/entity/Q23502194","Folgueroles","Catalunya"
-"http://www.wikidata.org/entity/Q2942524","Vitoria-Gasteiz","Euskadi"
-"http://www.wikidata.org/entity/Q8342036","Murcia","Región de Murcia"
-"http://www.wikidata.org/entity/Q8342035","Manresa","Catalunya"
-"http://www.wikidata.org/entity/Q21710763","Bergara","Euskadi"
-"http://www.wikidata.org/entity/Q5166198","Guadalajara","Castilla-La Mancha"
-"http://www.wikidata.org/entity/Q1450424","Madrid","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q205524","Madrid","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q22893608","Porqueres","Catalunya"
-"http://www.wikidata.org/entity/Q5166190","Madrid","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q5911178","Mucientes","Castilla y León"
-"http://www.wikidata.org/entity/Q250523","Martorell","Catalunya"
-"http://www.wikidata.org/entity/Q17615522","Garrigàs","Catalunya"
-"http://www.wikidata.org/entity/Q3585484","Lorca","Región de Murcia"
-"http://www.wikidata.org/entity/Q6058186","Murcia","Región de Murcia"
-"http://www.wikidata.org/entity/Q20644125","Azkoitia","Euskadi"
-"http://www.wikidata.org/entity/Q20901290","Pacs del Penedès","Catalunya"
-"http://www.wikidata.org/entity/Q12253628","Zumarraga","Euskadi"
-"http://www.wikidata.org/entity/Q976019","Madrid","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q4867400","Colmenar Viejo","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q8342267","Cervelló","Catalunya"
-"http://www.wikidata.org/entity/Q20901287","Pontons","Catalunya"
-"http://www.wikidata.org/entity/Q5166187","Aranjuez","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q11305733","Meranges","Catalunya"
-"http://www.wikidata.org/entity/Q746333","Barcelona","Catalunya"
-"http://www.wikidata.org/entity/Q5166185","Cádiz","Andalucía"
-"http://www.wikidata.org/entity/Q18007612","Balaguer","Catalunya"
-"http://www.wikidata.org/entity/Q5776804","Medina del Campo","Castilla y León"
-"http://www.wikidata.org/entity/Q613742","San Vicente de la Sonsierra","La Rioja"
-"http://www.wikidata.org/entity/Q17596327","la Torre de Claramunt","Catalunya"
-"http://www.wikidata.org/entity/Q3813454","Soria","Castilla y León"
-"http://www.wikidata.org/entity/Q17615526","Llers","Catalunya"
-"http://www.wikidata.org/entity/Q570586","Valladolid","Castilla y León"
-"http://www.wikidata.org/entity/Q5910094","Los Balbases","Castilla y León"
-"http://www.wikidata.org/entity/Q6898340","Gradefes","Castilla y León"
-"http://www.wikidata.org/entity/Q20126659","Ariño","Aragón"
-"http://www.wikidata.org/entity/Q20492102","Arrasate / Mondragón","Euskadi"
-"http://www.wikidata.org/entity/Q5912270","Sevilla","Andalucía"
-"http://www.wikidata.org/entity/Q5708305","Madrid","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q2542555","Sevilla","Andalucía"
-"http://www.wikidata.org/entity/Q5407855","Maçanet de la Selva","Catalunya"
-"http://www.wikidata.org/entity/Q5358601","Madrid","Comunidad de Madrid"
-"http://www.wikidata.org/entity/Q1499912","Segovia","Castilla y León"
-"http://www.wikidata.org/entity/Q17596379","Puig-reig","Catalunya"
-"http://www.wikidata.org/entity/Q17597225","l'Escala","Catalunya"
-"http://www.wikidata.org/entity/Q5748395","Salamanca","Castilla y León"
-"http://www.wikidata.org/entity/Q5669766","Córdoba","Andalucía"
-"http://www.wikidata.org/entity/Q6898354","Casalarreina","La Rioja"
-"http://www.wikidata.org/entity/Q5912083","Utrera","Andalucía"
-"http://www.wikidata.org/entity/Q65922908","Ordizia","Euskadi"
-"http://www.wikidata.org/entity/Q18942900","Balboa","Castilla y León"
-"http://www.wikidata.org/entity/Q20888291","Pujalt","Catalunya"
-"http://www.wikidata.org/entity/Q1627991","Logroño","La Rioja"
-"http://www.wikidata.org/entity/Q20901070","la Granada","Catalunya"
-"http://www.wikidata.org/entity/Q8342004","Albiztur","Euskadi"
-"http://www.wikidata.org/entity/Q8342246","Castellolí","Catalunya"
-"http://www.wikidata.org/entity/Q8342489","Orpí","Catalunya"
-"http://www.wikidata.org/entity/Q12266931","Zumaia","Euskadi"
-"http://www.wikidata.org/entity/Q509931","Burgo de Osma-Ciudad de Osma","Castilla y León"
-"http://www.wikidata.org/entity/Q2627735","Cartagena","Región de Murcia"
-"http://www.wikidata.org/entity/Q3573289","Jaca","Aragón"
-"http://www.wikidata.org/entity/Q43119878","Calldetenes","Catalunya"
-"http://www.wikidata.org/entity/Q9007609","Andilla","Comunitat Valenciana"
-"http://www.wikidata.org/entity/Q1064212","Sevilla","Andalucía"
-"http://www.wikidata.org/entity/Q956018","Sevilla","Andalucía"
-"http://www.wikidata.org/entity/Q1798216","Barcelona","Catalunya"
-"http://www.wikidata.org/entity/Q37585624","Sant Martí d'Albars","Catalunya"
-"http://www.wikidata.org/entity/Q5644051","Forallac","Catalunya"
-"http://www.wikidata.org/entity/Q5669772","Árchez","Andalucía"
-"http://www.wikidata.org/entity/Q8342479","Pineda de Mar","Catalunya"
-"http://www.wikidata.org/entity/Q3399144","Santiago","Galicia / Galiza"
-"http://www.wikidata.org/entity/Q245151","A Coruña","Galicia / Galiza"
-"http://www.wikidata.org/entity/Q8342237","Castellnou de Bages","Catalunya"
-"http://www.wikidata.org/entity/Q2046820","Soria","Castilla y León"
-"http://www.wikidata.org/entity/Q8342475","Figaró-Montmany","Catalunya"
-"http://www.wikidata.org/entity/Q8342473","Girona","Catalunya"
-"http://www.wikidata.org/entity/Q28664145","Segovia","Castilla y León"
-"http://www.wikidata.org/entity/Q5903116","Úbeda","Andalucía"
-"http://www.wikidata.org/entity/Q2046822","Piedrahíta","Castilla y León"
-"http://www.wikidata.org/entity/Q2940781","Vitoria-Gasteiz","Euskadi"
-"http://www.wikidata.org/entity/Q31706509","Toledo","Castilla-La Mancha"
-"http://www.wikidata.org/entity/Q18007665","Castellfollit de Riubregós","Catalunya"
-"http://www.wikidata.org/entity/Q2942729","Mondoñedo","Galicia / Galiza"
-"http://www.wikidata.org/entity/Q5776838","Briviesca","Castilla y León"
-"http://www.wikidata.org/entity/Q17596358","Castellcir","Catalunya"
-"http://www.wikidata.org/entity/Q6898373","Aguilar de Campoo","Castilla y León"
-"http://www.wikidata.org/entity/Q18004162","Sant Carles de la Ràpita","Catalunya"
-"http://www.wikidata.org/entity/Q18008522","Sant Joan de les Abadesses","Catalunya"
-"http://www.wikidata.org/entity/Q16577870","Becerril de Campos","Castilla y León"
-"http://www.wikidata.org/entity/Q17596120","Sant Mateu de Bages","Catalunya"
-"http://www.wikidata.org/entity/Q18008521","Riudaura","Catalunya"
-"http://www.wikidata.org/entity/Q7414562","La Peña","Castilla y León"
-"http://www.wikidata.org/entity/Q6898375","Tineo","Asturias / Asturies"
-"http://www.wikidata.org/entity/Q37271835","Berberana","Castilla y León"
-"http://www.wikidata.org/entity/Q4994352","Besalú","Catalunya"
-"http://www.wikidata.org/entity/Q8342225","Castellbell i el Vilar","Catalunya"
-"http://www.wikidata.org/entity/Q8342468","Agramunt","Catalunya"
-"http://www.wikidata.org/entity/Q8342467","Sant Feliu de Codines","Catalunya"
-"http://www.wikidata.org/entity/Q969308","Málaga","Andalucía"
-"http://www.wikidata.org/entity/Q8342465","Santa Margarida de Montbui","Catalunya"
-"http://www.wikidata.org/entity/Q21730786","Artés","Catalunya"
-"http://www.wikidata.org/entity/Q8342462","Sant Julià de Ramis","Catalunya"
-"http://www.wikidata.org/entity/Q2580841","Palos de la Frontera","Andalucía"
-"http://www.wikidata.org/entity/Q19367730","Olèrdola","Catalunya"
-"http://www.wikidata.org/entity/Q478585","Campoo de Enmedio","Cantabria"
-"http://www.wikidata.org/entity/Q515595","Soria","Castilla y León"
-"http://www.wikidata.org/entity/Q17596368","Pedret i Marzà","Catalunya"
-"http://www.wikidata.org/entity/Q5754603","Baeza","Andalucía"
-"http://www.wikidata.org/entity/Q28712285","Fornells de la Selva","Catalunya"
-"http://www.wikidata.org/entity/Q2889253","Santiago","Galicia / Galiza"
-"http://www.wikidata.org/entity/Q142565","Jurisdicción de Lara","Castilla y León"
-"http://www.wikidata.org/entity/Q1354033","Zaragoza","Aragón"
-"http://www.wikidata.org/entity/Q2744847","Manresa","Catalunya"
-"http://www.wikidata.org/entity/Q28781","Castelló d'Empuries","Catalunya"
-"http://www.wikidata.org/entity/Q8342458","Darnius","Catalunya"
-"http://www.wikidata.org/entity/Q43122810","l'Escala","Catalunya"
-"http://www.wikidata.org/entity/Q4993496","Coll de Nargó","Catalunya"
+﻿uri,city,state
+http://www.wikidata.org/entity/Q11916063,el Brull,Catalunya
+http://www.wikidata.org/entity/Q18286048,Villabrágima,Castilla y León
+http://www.wikidata.org/entity/Q43165321,Teruel,Aragón
+http://www.wikidata.org/entity/Q2583106,Cardona,Catalunya
+http://www.wikidata.org/entity/Q20492963,Segura,Euskadi
+http://www.wikidata.org/entity/Q1934670,Olite/Erriberri,Navarra - Nafarroa
+http://www.wikidata.org/entity/Q2942708,Lugo,Galicia / Galiza
+http://www.wikidata.org/entity/Q6383015,Cervera,Catalunya
+http://www.wikidata.org/entity/Q47183352,Castellterçol,Catalunya
+http://www.wikidata.org/entity/Q20640744,Cabanabona,Catalunya
+http://www.wikidata.org/entity/Q6421861,les Avellanes i Santa Linya,Catalunya
+http://www.wikidata.org/entity/Q4894835,Sitges,Catalunya
+http://www.wikidata.org/entity/Q3585188,Isona i Conca Dellà,Catalunya
+http://www.wikidata.org/entity/Q39165943,Errenteria,Euskadi
+http://www.wikidata.org/entity/Q858907,Sevilla,Andalucía
+http://www.wikidata.org/entity/Q18286050,Pedrosa del Rey,Castilla y León
+http://www.wikidata.org/entity/Q5795986,Oviedo,Asturias / Asturies
+http://www.wikidata.org/entity/Q5903051,Sevilla,Andalucía
+http://www.wikidata.org/entity/Q43105026,Malla,Catalunya
+http://www.wikidata.org/entity/Q3395771,Alacant / Alicante,Comunitat Valenciana
+http://www.wikidata.org/entity/Q6403196,Ayamonte,Andalucía
+http://www.wikidata.org/entity/Q5554982,Murcia,Región de Murcia
+http://www.wikidata.org/entity/Q155443,Santiago,Galicia / Galiza
+http://www.wikidata.org/entity/Q5792474,Sevilla,Andalucía
+http://www.wikidata.org/entity/Q5903055,Cádiz,Andalucía
+http://www.wikidata.org/entity/Q5909830,Santa María de Cayón,Cantabria
+http://www.wikidata.org/entity/Q2534168,Valladolid,Castilla y León
+http://www.wikidata.org/entity/Q5911924,Villalcázar de Sirga,Castilla y León
+http://www.wikidata.org/entity/Q5785941,Pastrana,Castilla-La Mancha
+http://www.wikidata.org/entity/Q18286056,Peñaflor de Hornija,Castilla y León
+http://www.wikidata.org/entity/Q3772302,Valladolid,Castilla y León
+http://www.wikidata.org/entity/Q5991838,Oviedo,Asturias / Asturies
+http://www.wikidata.org/entity/Q3054904,Terrassa,Catalunya
+http://www.wikidata.org/entity/Q11704638,Calonge i Sant Antoni,Catalunya
+http://www.wikidata.org/entity/Q17592142,l'Hospitalet de Llobregat,Catalunya
+http://www.wikidata.org/entity/Q5656751,Zaragoza,Aragón
+http://www.wikidata.org/entity/Q3821803,Madrid,Comunidad de Madrid
+http://www.wikidata.org/entity/Q9054355,Málaga,Andalucía
+http://www.wikidata.org/entity/Q9054356,Orihuela,Comunitat Valenciana
+http://www.wikidata.org/entity/Q11912717,Badalona,Catalunya
+http://www.wikidata.org/entity/Q43122839,el Far d'Empordà,Catalunya
+http://www.wikidata.org/entity/Q65205748,Sant Ramon,Catalunya
+http://www.wikidata.org/entity/Q11912715,l'Hospitalet de Llobregat,Catalunya
+http://www.wikidata.org/entity/Q932383,Girona,Catalunya
+http://www.wikidata.org/entity/Q12253916,Aretxabaleta,Euskadi
+http://www.wikidata.org/entity/Q3139146,Toledo,Castilla-La Mancha
+http://www.wikidata.org/entity/Q3278563,Púbol,Catalunya
+http://www.wikidata.org/entity/Q56670687,Madrid,Comunidad de Madrid
+http://www.wikidata.org/entity/Q18286065,San Miguel del Pino,Castilla y León
+http://www.wikidata.org/entity/Q14475457,Toledo,Castilla-La Mancha
+http://www.wikidata.org/entity/Q5847245,Sevilla,Andalucía
+http://www.wikidata.org/entity/Q5474516,Guadalajara,Castilla-La Mancha
+http://www.wikidata.org/entity/Q6121578,Málaga,Andalucía
+http://www.wikidata.org/entity/Q47183372,Esterri d'Àneu,Catalunya
+http://www.wikidata.org/entity/Q47183375,Calldetenes,Catalunya
+http://www.wikidata.org/entity/Q47183380,Calldetenes,Catalunya
+http://www.wikidata.org/entity/Q11680593,Mont-ras,Catalunya
+http://www.wikidata.org/entity/Q9077688,Alfafar,Comunitat Valenciana
+http://www.wikidata.org/entity/Q41098364,Hernani,Euskadi
+http://www.wikidata.org/entity/Q1249989,Nogueira de Ramuín,Galicia / Galiza
+http://www.wikidata.org/entity/Q9064380,Vic,Catalunya
+http://www.wikidata.org/entity/Q9007141,O Carballiño,Galicia / Galiza
+http://www.wikidata.org/entity/Q14924660,Barcelona,Catalunya
+http://www.wikidata.org/entity/Q5785905,Orihuela,Comunitat Valenciana
+http://www.wikidata.org/entity/Q9054328,Vilafranca del Penedès,Catalunya
+http://www.wikidata.org/entity/Q40123194,Otxandio,Euskadi
+http://www.wikidata.org/entity/Q9064384,Sant Cugat del Vallès,Catalunya
+http://www.wikidata.org/entity/Q40025556,Hernani,Euskadi
+http://www.wikidata.org/entity/Q5911904,Santoña,Cantabria
+http://www.wikidata.org/entity/Q19257127,Lloret de Mar,Catalunya
+http://www.wikidata.org/entity/Q43119698,Arenys de Munt,Catalunya
+http://www.wikidata.org/entity/Q19672446,Hondarribia,Euskadi
+http://www.wikidata.org/entity/Q615763,Sant Cugat del Vallès,Catalunya
+http://www.wikidata.org/entity/Q11680599,Llívia,Catalunya
+http://www.wikidata.org/entity/Q16577555,Murcia,Región de Murcia
+http://www.wikidata.org/entity/Q18004984,Sant Feliu de Guíxols,Catalunya
+http://www.wikidata.org/entity/Q12259689,Urretxu,Euskadi
+http://www.wikidata.org/entity/Q11680598,Ripoll,Catalunya
+http://www.wikidata.org/entity/Q18004982,Sitges,Catalunya
+http://www.wikidata.org/entity/Q65006112,Estaràs,Catalunya
+http://www.wikidata.org/entity/Q20492978,Arrasate / Mondragón,Euskadi
+http://www.wikidata.org/entity/Q18004988,Tortosa,Catalunya
+http://www.wikidata.org/entity/Q18003899,Olot,Catalunya
+http://www.wikidata.org/entity/Q18004985,Sitges,Catalunya
+http://www.wikidata.org/entity/Q7126215,Madrid,Comunidad de Madrid
+http://www.wikidata.org/entity/Q47183386,Tavèrnoles,Catalunya
+http://www.wikidata.org/entity/Q12386449,Poio,Galicia / Galiza
+http://www.wikidata.org/entity/Q47183390,Amer,Catalunya
+http://www.wikidata.org/entity/Q5836124,Palencia,Castilla y León
+http://www.wikidata.org/entity/Q9054574,Cadalso de los Vidrios,Comunidad de Madrid
+http://www.wikidata.org/entity/Q9034501,Beuda,Catalunya
+http://www.wikidata.org/entity/Q9054339,Pastrana,Castilla-La Mancha
+http://www.wikidata.org/entity/Q1135742,Vitoria-Gasteiz,Euskadi
+http://www.wikidata.org/entity/Q5785975,Cartaya,Andalucía
+http://www.wikidata.org/entity/Q942130,Santo Adriano,Asturias / Asturies
+http://www.wikidata.org/entity/Q17596773,Masarac,Catalunya
+http://www.wikidata.org/entity/Q18011074,Guadalcanal,Andalucía
+http://www.wikidata.org/entity/Q3669732,Santa Cruz de la Serós,Aragón
+http://www.wikidata.org/entity/Q5910863,Mahamud,Castilla y León
+http://www.wikidata.org/entity/Q28381918,Girona,Catalunya
+http://www.wikidata.org/entity/Q18006715,Peralada,Catalunya
+http://www.wikidata.org/entity/Q97626448,Córdoba,Andalucía
+http://www.wikidata.org/entity/Q12269481,Hondarribia,Euskadi
+http://www.wikidata.org/entity/Q17615788,Sant Pol de Mar,Catalunya
+http://www.wikidata.org/entity/Q97626446,Córdoba,Andalucía
+http://www.wikidata.org/entity/Q6150078,Camprodon,Catalunya
+http://www.wikidata.org/entity/Q22227964,Gombrèn,Catalunya
+http://www.wikidata.org/entity/Q2067794,Venta de Baños,Castilla y León
+http://www.wikidata.org/entity/Q97640515,Marchena,Andalucía
+http://www.wikidata.org/entity/Q5785984,Carmona,Andalucía
+http://www.wikidata.org/entity/Q12399328,Pontevedra,Galicia / Galiza
+http://www.wikidata.org/entity/Q8350444,Hernani,Euskadi
+http://www.wikidata.org/entity/Q17596784,Pau,Catalunya
+http://www.wikidata.org/entity/Q8350443,Lasarte-Oria,Euskadi
+http://www.wikidata.org/entity/Q5910874,Olmedo,Castilla y León
+http://www.wikidata.org/entity/Q8350441,Deba,Euskadi
+http://www.wikidata.org/entity/Q6121504,Poblete,Castilla-La Mancha
+http://www.wikidata.org/entity/Q43093163,Arrasate / Mondragón,Euskadi
+http://www.wikidata.org/entity/Q5836346,Argente,Aragón
+http://www.wikidata.org/entity/Q6430536,Bellver de Cerdanya,Catalunya
+http://www.wikidata.org/entity/Q18395817,Pontevedra,Galicia / Galiza
+http://www.wikidata.org/entity/Q591491,Vallbona de les Monges,Catalunya
+http://www.wikidata.org/entity/Q4873705,Villaviciosa,Asturias / Asturies
+http://www.wikidata.org/entity/Q9007571,Málaga,Andalucía
+http://www.wikidata.org/entity/Q97639981,Sanlúcar la Mayor,Andalucía
+http://www.wikidata.org/entity/Q5757254,Corbera de Llobregat,Catalunya
+http://www.wikidata.org/entity/Q5909401,Arnuero,Cantabria
+http://www.wikidata.org/entity/Q11912997,la Bisbal d'Empordà,Catalunya
+http://www.wikidata.org/entity/Q3584901,Sevilla,Andalucía
+http://www.wikidata.org/entity/Q43123501,Pont de Molins,Catalunya
+http://www.wikidata.org/entity/Q5909858,Olmedo,Castilla y León
+http://www.wikidata.org/entity/Q8342199,la Vajol,Catalunya
+http://www.wikidata.org/entity/Q2884514,Chiclana de la Frontera,Andalucía
+http://www.wikidata.org/entity/Q2219936,Teverga,Asturias / Asturies
+http://www.wikidata.org/entity/Q5911933,Alcaudete,Andalucía
+http://www.wikidata.org/entity/Q65770718,Hondarribia,Euskadi
+http://www.wikidata.org/entity/Q8342196,Roses,Catalunya
+http://www.wikidata.org/entity/Q8342191,Santa Maria de Besora,Catalunya
+http://www.wikidata.org/entity/Q43093126,Legazpi,Euskadi
+http://www.wikidata.org/entity/Q3813365,Madrid,Comunidad de Madrid
+http://www.wikidata.org/entity/Q8350458,Horta de Sant Joan,Catalunya
+http://www.wikidata.org/entity/Q18005892,Camprodon,Catalunya
+http://www.wikidata.org/entity/Q26721048,Palafrugell,Catalunya
+http://www.wikidata.org/entity/Q20639778,Olmedo,Castilla y León
+http://www.wikidata.org/entity/Q28873666,Sant Martí de Llémena,Catalunya
+http://www.wikidata.org/entity/Q11912727,Barcelona,Catalunya
+http://www.wikidata.org/entity/Q6057971,Medina del Campo,Castilla y León
+http://www.wikidata.org/entity/Q18175570,Jérica,Comunitat Valenciana
+http://www.wikidata.org/entity/Q8342187,Cardedeu,Catalunya
+http://www.wikidata.org/entity/Q14536505,Barruelo de Santullán,Castilla y León
+http://www.wikidata.org/entity/Q5574519,Valladolid,Castilla y León
+http://www.wikidata.org/entity/Q5911941,Ayora,Comunitat Valenciana
+http://www.wikidata.org/entity/Q6744870,Lleida,Catalunya
+http://www.wikidata.org/entity/Q20492780,Mutriku,Euskadi
+http://www.wikidata.org/entity/Q9007117,Alt Àneu,Catalunya
+http://www.wikidata.org/entity/Q65714142,Bergara,Euskadi
+http://www.wikidata.org/entity/Q52246214,Madrid,Comunidad de Madrid
+http://www.wikidata.org/entity/Q6121531,Murcia,Región de Murcia
+http://www.wikidata.org/entity/Q43123509,Pont de Molins,Catalunya
+http://www.wikidata.org/entity/Q43146605,Xàbia / Jávea,Comunitat Valenciana
+http://www.wikidata.org/entity/Q5999398,Granada,Andalucía
+http://www.wikidata.org/entity/Q6057986,Valladolid,Castilla y León
+http://www.wikidata.org/entity/Q9034340,Sahagún,Castilla y León
+http://www.wikidata.org/entity/Q5911755,Riotuerto,Cantabria
+http://www.wikidata.org/entity/Q5911996,Barruelo de Santullán,Castilla y León
+http://www.wikidata.org/entity/Q2421414,Ares del Maestrat,Comunitat Valenciana
+http://www.wikidata.org/entity/Q11682902,Markina-Xemein,Euskadi
+http://www.wikidata.org/entity/Q16578022,Madrid,Comunidad de Madrid
+http://www.wikidata.org/entity/Q34485,Candelaria,Canarias
+http://www.wikidata.org/entity/Q6091654,Graus,Aragón
+http://www.wikidata.org/entity/Q171517,Madrid,Comunidad de Madrid
+http://www.wikidata.org/entity/Q20104297,Martorell,Catalunya
+http://www.wikidata.org/entity/Q3896772,Cádiz,Andalucía
+http://www.wikidata.org/entity/Q43156691,Sant Mateu,Comunitat Valenciana
+http://www.wikidata.org/entity/Q7413812,Llangréu/Langreo,Asturias / Asturies
+http://www.wikidata.org/entity/Q20104293,Pontós,Catalunya
+http://www.wikidata.org/entity/Q7126270,Cogolludo,Castilla-La Mancha
+http://www.wikidata.org/entity/Q11682915,Villaviciosa,Asturias / Asturies
+http://www.wikidata.org/entity/Q5912858,Sevilla,Andalucía
+http://www.wikidata.org/entity/Q5911763,Tudela,Navarra - Nafarroa
+http://www.wikidata.org/entity/Q25474255,Oñati,Euskadi
+http://www.wikidata.org/entity/Q28333488,Girona,Catalunya
+http://www.wikidata.org/entity/Q11910374,Cabrils,Catalunya
+http://www.wikidata.org/entity/Q65769981,Zumaia,Euskadi
+http://www.wikidata.org/entity/Q3896782,Sevilla,Andalucía
+http://www.wikidata.org/entity/Q2895463,Murcia,Región de Murcia
+http://www.wikidata.org/entity/Q5909689,Valladolid,Castilla y León
+http://www.wikidata.org/entity/Q1189742,San Cebrián de Mazote,Castilla y León
+http://www.wikidata.org/entity/Q5909445,Jaramillo de la Fuente,Castilla y León
+http://www.wikidata.org/entity/Q9067020,Sevilla,Andalucía
+http://www.wikidata.org/entity/Q5909418,Candeleda,Castilla y León
+http://www.wikidata.org/entity/Q942313,Oñati,Euskadi
+http://www.wikidata.org/entity/Q159615,Aiguamúrcia,Catalunya
+http://www.wikidata.org/entity/Q9034365,Sant Llorenç de Morunys,Catalunya
+http://www.wikidata.org/entity/Q5910640,Sahagún,Castilla y León
+http://www.wikidata.org/entity/Q8200946,La Guardia de Jaén,Andalucía
+http://www.wikidata.org/entity/Q557702,Palma,Illes Balears
+http://www.wikidata.org/entity/Q20492901,Elgoibar,Euskadi
+http://www.wikidata.org/entity/Q888390,Ardales,Andalucía
+http://www.wikidata.org/entity/Q20970631,Torres del Río,Navarra - Nafarroa
+http://www.wikidata.org/entity/Q11911674,Vilassar de Dalt,Catalunya
+http://www.wikidata.org/entity/Q3755367,Vitoria-Gasteiz,Euskadi
+http://www.wikidata.org/entity/Q40549083,Donostia/San Sebastián,Euskadi
+http://www.wikidata.org/entity/Q20876778,Riudarenes,Catalunya
+http://www.wikidata.org/entity/Q12269227,Zarautz,Euskadi
+http://www.wikidata.org/entity/Q5574972,Teror,Canarias
+http://www.wikidata.org/entity/Q18003813,Cardedeu,Catalunya
+http://www.wikidata.org/entity/Q5911749,Matapozuelos,Castilla y León
+http://www.wikidata.org/entity/Q18003814,Bigues i Riells,Catalunya
+http://www.wikidata.org/entity/Q18003816,Palma,Illes Balears
+http://www.wikidata.org/entity/Q9088799,Castelldefels,Catalunya
+http://www.wikidata.org/entity/Q5911989,Zamora,Castilla y León
+http://www.wikidata.org/entity/Q2665595,Sevilla,Andalucía
+http://www.wikidata.org/entity/Q28711947,Lleida,Catalunya
+http://www.wikidata.org/entity/Q934947,Valdemoro,Comunidad de Madrid
+http://www.wikidata.org/entity/Q6446730,Cetina,Aragón
+http://www.wikidata.org/entity/Q3896767,Valladolid,Castilla y León
+http://www.wikidata.org/entity/Q47170885,Avinyonet del Penedès,Catalunya
+http://www.wikidata.org/entity/Q5047861,Reus,Catalunya
+http://www.wikidata.org/entity/Q1278218,la Vall de Boí,Catalunya
+http://www.wikidata.org/entity/Q22696421,Cádiz,Andalucía
+http://www.wikidata.org/entity/Q9034345,Alzira,Comunitat Valenciana
+http://www.wikidata.org/entity/Q6058611,Valladolid,Castilla y León
+http://www.wikidata.org/entity/Q16489562,Tricio,La Rioja
+http://www.wikidata.org/entity/Q3750901,Bilbao,Euskadi
+http://www.wikidata.org/entity/Q11697365,Bergara,Euskadi
+http://www.wikidata.org/entity/Q6407112,Cartagena,Región de Murcia
+http://www.wikidata.org/entity/Q18003847,Roses,Catalunya
+http://www.wikidata.org/entity/Q18696116,Lloret de Mar,Catalunya
+http://www.wikidata.org/entity/Q920742,Alcalá de Henares,Comunidad de Madrid
+http://www.wikidata.org/entity/Q5911799,Medina de Rioseco,Castilla y León
+http://www.wikidata.org/entity/Q2256022,Camaleño,Cantabria
+http://www.wikidata.org/entity/Q5912887,la Vall d'Uixó,Comunitat Valenciana
+http://www.wikidata.org/entity/Q7126221,Almansa,Castilla-La Mancha
+http://www.wikidata.org/entity/Q5836172,Santa María la Real de Nieva,Castilla y León
+http://www.wikidata.org/entity/Q17595842,Avinyonet de Puigventós,Catalunya
+http://www.wikidata.org/entity/Q12259431,Beasain,Euskadi
+http://www.wikidata.org/entity/Q5639145,Lamasón,Cantabria
+http://www.wikidata.org/entity/Q4407295,Madrid,Comunidad de Madrid
+http://www.wikidata.org/entity/Q20016873,Alguazas,Región de Murcia
+http://www.wikidata.org/entity/Q5047899,Sevilla,Andalucía
+http://www.wikidata.org/entity/Q523311,Málaga,Andalucía
+http://www.wikidata.org/entity/Q9023651,Castelló de la Plana,Comunitat Valenciana
+http://www.wikidata.org/entity/Q41437216,Ermua,Euskadi
+http://www.wikidata.org/entity/Q47186270,Granyena de Segarra,Catalunya
+http://www.wikidata.org/entity/Q5909234,Talavera de la Reina,Castilla-La Mancha
+http://www.wikidata.org/entity/Q6746629,Cocentaina,Comunitat Valenciana
+http://www.wikidata.org/entity/Q1849031,Madrid,Comunidad de Madrid
+http://www.wikidata.org/entity/Q7068646,Vitoria-Gasteiz,Euskadi
+http://www.wikidata.org/entity/Q5757662,Tàrbena,Comunitat Valenciana
+http://www.wikidata.org/entity/Q8347677,A Coruña,Galicia / Galiza
+http://www.wikidata.org/entity/Q6057554,Irun,Euskadi
+http://www.wikidata.org/entity/Q17595855,Esparreguera,Catalunya
+http://www.wikidata.org/entity/Q5911568,Becerril de Campos,Castilla y León
+http://www.wikidata.org/entity/Q20888724,Oñati,Euskadi
+http://www.wikidata.org/entity/Q4895569,Guardamar del Segura,Comunitat Valenciana
+http://www.wikidata.org/entity/Q205136,Santiago,Galicia / Galiza
+http://www.wikidata.org/entity/Q5910477,Murcia,Región de Murcia
+http://www.wikidata.org/entity/Q17596701,Llers,Catalunya
+http://www.wikidata.org/entity/Q18003831,Montagut i Oix,Catalunya
+http://www.wikidata.org/entity/Q943873,Sevilla,Andalucía
+http://www.wikidata.org/entity/Q3572755,Zaragoza,Aragón
+http://www.wikidata.org/entity/Q6150491,Córdoba,Andalucía
+http://www.wikidata.org/entity/Q7126237,Boadilla del Monte,Comunidad de Madrid
+http://www.wikidata.org/entity/Q18003832,Olivella,Catalunya
+http://www.wikidata.org/entity/Q24024872,Almería,Andalucía
+http://www.wikidata.org/entity/Q25474210,Zestoa,Euskadi
+http://www.wikidata.org/entity/Q26252283,Donostia/San Sebastián,Euskadi
+http://www.wikidata.org/entity/Q5991883,Laviana,Asturias / Asturies
+http://www.wikidata.org/entity/Q5640136,Igualada,Catalunya
+http://www.wikidata.org/entity/Q2117586,la Vall de Boí,Catalunya
+http://www.wikidata.org/entity/Q5909240,Valladolid,Castilla y León
+http://www.wikidata.org/entity/Q5757415,Láchar,Andalucía
+http://www.wikidata.org/entity/Q461371,Barcelona,Catalunya
+http://www.wikidata.org/entity/Q5909480,Santa María la Real de Nieva,Castilla y León
+http://www.wikidata.org/entity/Q2912886,Cerdanyola del Vallès,Catalunya
+http://www.wikidata.org/entity/Q29366174,Montilla,Andalucía
+http://www.wikidata.org/entity/Q5795931,Valladolid,Castilla y León
+http://www.wikidata.org/entity/Q8341703,Alzira,Comunitat Valenciana
+http://www.wikidata.org/entity/Q9007174,"Saus, Camallera i Llampaies",Catalunya
+http://www.wikidata.org/entity/Q3395342,Catoira,Galicia / Galiza
+http://www.wikidata.org/entity/Q2561516,Barcelona,Catalunya
+http://www.wikidata.org/entity/Q8187809,Petrer,Comunitat Valenciana
+http://www.wikidata.org/entity/Q11704642,Alcalà de Xivert,Comunitat Valenciana
+http://www.wikidata.org/entity/Q11704643,Vitoria-Gasteiz,Euskadi
+http://www.wikidata.org/entity/Q9046983,Reus,Catalunya
+http://www.wikidata.org/entity/Q5910200,Nuevo Baztán,Comunidad de Madrid
+http://www.wikidata.org/entity/Q206258,Pamplona/Iruña,Navarra - Nafarroa
+http://www.wikidata.org/entity/Q5911776,Jaraiz de la Vera,Extremadura
+http://www.wikidata.org/entity/Q5991848,Villaviciosa,Asturias / Asturies
+http://www.wikidata.org/entity/Q9054374,Castelló de la Plana,Comunitat Valenciana
+http://www.wikidata.org/entity/Q18003864,Sant Llorenç de la Muga,Catalunya
+http://www.wikidata.org/entity/Q7126249,Jerez de la Frontera,Andalucía
+http://www.wikidata.org/entity/Q21478895,la Pobla de Lillet,Catalunya
+http://www.wikidata.org/entity/Q5549765,Loja,Andalucía
+http://www.wikidata.org/entity/Q7126247,Madrid,Comunidad de Madrid
+http://www.wikidata.org/entity/Q541163,Barcelona,Catalunya
+http://www.wikidata.org/entity/Q12259406,Tolosa,Euskadi
+http://www.wikidata.org/entity/Q5757445,Moguer,Andalucía
+http://www.wikidata.org/entity/Q507282,Barcelona,Catalunya
+http://www.wikidata.org/entity/Q19986236,Legorreta,Euskadi
+http://www.wikidata.org/entity/Q17067235,l'Hospitalet de Llobregat,Catalunya
+http://www.wikidata.org/entity/Q2223563,Pravia,Asturias / Asturies
+http://www.wikidata.org/entity/Q6080315,Granada,Andalucía
+http://www.wikidata.org/entity/Q7126253,Madrid,Comunidad de Madrid
+http://www.wikidata.org/entity/Q11704654,Palafrugell,Catalunya
+http://www.wikidata.org/entity/Q5408100,Aguilar de Campoo,Castilla y León
+http://www.wikidata.org/entity/Q18509076,Zaragoza,Aragón
+http://www.wikidata.org/entity/Q599116,Santa Cruz de Tenerife,Canarias
+http://www.wikidata.org/entity/Q599118,Barcelona,Catalunya
+http://www.wikidata.org/entity/Q6150467,La Puebla de Montalbán,Castilla-La Mancha
+http://www.wikidata.org/entity/Q8462260,Palma,Illes Balears
+http://www.wikidata.org/entity/Q5642536,Cuenca de Campos,Castilla y León
+http://www.wikidata.org/entity/Q5909464,Juarros de Voltoya,Castilla y León
+http://www.wikidata.org/entity/Q73160279,Granada,Andalucía
+http://www.wikidata.org/entity/Q17605136,Castelló d'Empuries,Catalunya
+http://www.wikidata.org/entity/Q6091441,Almassora,Comunitat Valenciana
+http://www.wikidata.org/entity/Q3327219,A Capela,Galicia / Galiza
+http://www.wikidata.org/entity/Q19368317,Torrelles de Foix,Catalunya
+http://www.wikidata.org/entity/Q917896,Belmonte,Castilla-La Mancha
+http://www.wikidata.org/entity/Q4276495,Málaga,Andalucía
+http://www.wikidata.org/entity/Q43122276,Viladecans,Catalunya
+http://www.wikidata.org/entity/Q18696672,Tossa de Mar,Catalunya
+http://www.wikidata.org/entity/Q12268627,Irun,Euskadi
+http://www.wikidata.org/entity/Q18008416,Avinyonet del Penedès,Catalunya
+http://www.wikidata.org/entity/Q5117086,Villarrobledo,Castilla-La Mancha
+http://www.wikidata.org/entity/Q6021277,Moraleja de Matacabras,Castilla y León
+http://www.wikidata.org/entity/Q1506850,Monfero,Galicia / Galiza
+http://www.wikidata.org/entity/Q22893349,Sant Miquel de Campmajor,Catalunya
+http://www.wikidata.org/entity/Q5910389,Aranda de Duero,Castilla y León
+http://www.wikidata.org/entity/Q19368318,Parets del Vallès,Catalunya
+http://www.wikidata.org/entity/Q6080122,Toro,Castilla y León
+http://www.wikidata.org/entity/Q5117080,Madrid,Comunidad de Madrid
+http://www.wikidata.org/entity/Q5835962,Pesaguero,Cantabria
+http://www.wikidata.org/entity/Q18008421,la Galera,Catalunya
+http://www.wikidata.org/entity/Q2223549,Colunga,Asturias / Asturies
+http://www.wikidata.org/entity/Q5909396,Adanero,Castilla y León
+http://www.wikidata.org/entity/Q8342325,Foixà,Catalunya
+http://www.wikidata.org/entity/Q6058204,Villacarriedo,Cantabria
+http://www.wikidata.org/entity/Q6058445,Zamora,Castilla y León
+http://www.wikidata.org/entity/Q45890103,Sabadell,Catalunya
+http://www.wikidata.org/entity/Q19368326,Sentmenat,Catalunya
+http://www.wikidata.org/entity/Q41130962,Hernani,Euskadi
+http://www.wikidata.org/entity/Q5073070,Algeciras,Andalucía
+http://www.wikidata.org/entity/Q207870,Barcelona,Catalunya
+http://www.wikidata.org/entity/Q2509421,Vic,Catalunya
+http://www.wikidata.org/entity/Q8342564,Santa Cristina d'Aro,Catalunya
+http://www.wikidata.org/entity/Q3661125,Barcelona,Catalunya
+http://www.wikidata.org/entity/Q5647482,La Hiniesta,Castilla y León
+http://www.wikidata.org/entity/Q18696663,Lloret de Mar,Catalunya
+http://www.wikidata.org/entity/Q5818377,Almería,Andalucía
+http://www.wikidata.org/entity/Q5911009,Navas de San Antonio,Castilla y León
+http://www.wikidata.org/entity/Q18008405,Cruïlles,Catalunya
+http://www.wikidata.org/entity/Q5117075,Madrid,Comunidad de Madrid
+http://www.wikidata.org/entity/Q41251131,Vélez-Rubio,Andalucía
+http://www.wikidata.org/entity/Q5399885,Llívia,Catalunya
+http://www.wikidata.org/entity/Q744455,León,Castilla y León
+http://www.wikidata.org/entity/Q2293995,Albacete,Castilla-La Mancha
+http://www.wikidata.org/entity/Q5912335,La Almunia de Doña Godina,Aragón
+http://www.wikidata.org/entity/Q16641550,Zarautz,Euskadi
+http://www.wikidata.org/entity/Q5117079,Aranjuez,Comunidad de Madrid
+http://www.wikidata.org/entity/Q5910394,Miranda de Ebro,Castilla y León
+http://www.wikidata.org/entity/Q18007561,Balaguer,Catalunya
+http://www.wikidata.org/entity/Q11913006,Barcelona,Catalunya
+http://www.wikidata.org/entity/Q16615247,Lekeitio,Euskadi
+http://www.wikidata.org/entity/Q19595398,Torrelles de Foix,Catalunya
+http://www.wikidata.org/entity/Q14906527,Caldes de Malavella,Catalunya
+http://www.wikidata.org/entity/Q18008412,Sant Llorenç de la Muga,Catalunya
+http://www.wikidata.org/entity/Q7415387,Oviedo,Asturias / Asturies
+http://www.wikidata.org/entity/Q5756920,Albaida,Comunitat Valenciana
+http://www.wikidata.org/entity/Q3661119,Barcelona,Catalunya
+http://www.wikidata.org/entity/Q8342559,Sanlúcar de Barrameda,Andalucía
+http://www.wikidata.org/entity/Q8342314,Santa Coloma de Farners,Catalunya
+http://www.wikidata.org/entity/Q22893361,Sant Llorenç Savall,Catalunya
+http://www.wikidata.org/entity/Q27561493,Olivares,Andalucía
+http://www.wikidata.org/entity/Q11697343,Castelló de la Plana,Comunitat Valenciana
+http://www.wikidata.org/entity/Q19368339,Torrelles de Foix,Catalunya
+http://www.wikidata.org/entity/Q11947221,el Far d'Empordà,Catalunya
+http://www.wikidata.org/entity/Q18696894,Besalú,Catalunya
+http://www.wikidata.org/entity/Q11697348,Solsona,Catalunya
+http://www.wikidata.org/entity/Q19255731,Avinyonet del Penedès,Catalunya
+http://www.wikidata.org/entity/Q5843321,Lazkao,Euskadi
+http://www.wikidata.org/entity/Q5910129,Silió,Cantabria
+http://www.wikidata.org/entity/Q5911218,Zamora,Castilla y León
+http://www.wikidata.org/entity/Q18008438,Peralada,Catalunya
+http://www.wikidata.org/entity/Q5912788,Salamanca,Castilla y León
+http://www.wikidata.org/entity/Q5910126,El Espinar,Castilla y León
+http://www.wikidata.org/entity/Q5912784,Zamora,Castilla y León
+http://www.wikidata.org/entity/Q18008439,Olèrdola,Catalunya
+http://www.wikidata.org/entity/Q18195801,Sepúlveda,Castilla y León
+http://www.wikidata.org/entity/Q6150533,Jerez de la Frontera,Andalucía
+http://www.wikidata.org/entity/Q3896912,Zamora,Castilla y León
+http://www.wikidata.org/entity/Q17599310,Bellpuig,Catalunya
+http://www.wikidata.org/entity/Q17596286,la Granada,Catalunya
+http://www.wikidata.org/entity/Q5560713,Cáceres,Extremadura
+http://www.wikidata.org/entity/Q9006850,Vila-real,Comunitat Valenciana
+http://www.wikidata.org/entity/Q18007597,l'Escala,Catalunya
+http://www.wikidata.org/entity/Q8342309,l'Espunyola,Catalunya
+http://www.wikidata.org/entity/Q18008442,Llobera,Catalunya
+http://www.wikidata.org/entity/Q12268653,Durango,Euskadi
+http://www.wikidata.org/entity/Q8342307,Espolla,Catalunya
+http://www.wikidata.org/entity/Q18327586,A Coruña,Galicia / Galiza
+http://www.wikidata.org/entity/Q1130947,Villaviciosa,Asturias / Asturies
+http://www.wikidata.org/entity/Q3848635,San Lorenzo de El Escorial,Comunidad de Madrid
+http://www.wikidata.org/entity/Q8342304,Esponellà,Catalunya
+http://www.wikidata.org/entity/Q5555137,Sevilla,Andalucía
+http://www.wikidata.org/entity/Q389210,Pamplona/Iruña,Navarra - Nafarroa
+http://www.wikidata.org/entity/Q2942496,Astorga,Castilla y León
+http://www.wikidata.org/entity/Q8261331,Badalona,Catalunya
+http://www.wikidata.org/entity/Q5117097,Madrid,Comunidad de Madrid
+http://www.wikidata.org/entity/Q10859187,Tortosa,Catalunya
+http://www.wikidata.org/entity/Q1800280,Olmeda de Cobeta,Castilla-La Mancha
+http://www.wikidata.org/entity/Q16641771,Sant Pere de Ribes,Catalunya
+http://www.wikidata.org/entity/Q97623784,Córdoba,Andalucía
+http://www.wikidata.org/entity/Q15627806,Almassora,Comunitat Valenciana
+http://www.wikidata.org/entity/Q24082916,Villalón de Campos,Castilla y León
+http://www.wikidata.org/entity/Q22893347,Sant Ferriol,Catalunya
+http://www.wikidata.org/entity/Q18008431,Berga,Catalunya
+http://www.wikidata.org/entity/Q5117094,Madrid,Comunidad de Madrid
+http://www.wikidata.org/entity/Q5909388,Huécija,Andalucía
+http://www.wikidata.org/entity/Q1506827,Tabeirós - Terra de Montes,Galicia / Galiza
+http://www.wikidata.org/entity/Q16577926,Ciudad Real,Castilla-La Mancha
+http://www.wikidata.org/entity/Q15712096,Unciti,Navarra - Nafarroa
+http://www.wikidata.org/entity/Q1679911,Cangas de Onís,Asturias / Asturies
+http://www.wikidata.org/entity/Q18008458,Olèrdola,Catalunya
+http://www.wikidata.org/entity/Q97632209,Martos,Andalucía
+http://www.wikidata.org/entity/Q5912124,Orihuela,Comunitat Valenciana
+http://www.wikidata.org/entity/Q6021470,Renedo de la Vega,Castilla y León
+http://www.wikidata.org/entity/Q5910182,Palencia,Castilla y León
+http://www.wikidata.org/entity/Q3895888,Granada,Andalucía
+http://www.wikidata.org/entity/Q5755647,Zaragoza,Aragón
+http://www.wikidata.org/entity/Q2167317,Azpeitia,Euskadi
+http://www.wikidata.org/entity/Q18008467,Malgrat de Mar,Catalunya
+http://www.wikidata.org/entity/Q3527937,Mutxamel,Comunitat Valenciana
+http://www.wikidata.org/entity/Q3896975,Zamora,Castilla y León
+http://www.wikidata.org/entity/Q43081711,Alcalá de Henares,Comunidad de Madrid
+http://www.wikidata.org/entity/Q2293331,Barcelona,Catalunya
+http://www.wikidata.org/entity/Q6021467,Tulebras,Navarra - Nafarroa
+http://www.wikidata.org/entity/Q55443304,Sabadell,Catalunya
+http://www.wikidata.org/entity/Q65782117,Irun,Euskadi
+http://www.wikidata.org/entity/Q5166200,Madrid,Comunidad de Madrid
+http://www.wikidata.org/entity/Q43077690,Vic,Catalunya
+http://www.wikidata.org/entity/Q3361046,Guadalajara,Castilla-La Mancha
+http://www.wikidata.org/entity/Q815935,Barcelona,Catalunya
+http://www.wikidata.org/entity/Q29345521,Luesia,Aragón
+http://www.wikidata.org/entity/Q11913040,Guardiola de Berguedà,Catalunya
+http://www.wikidata.org/entity/Q18008446,Figaró-Montmany,Catalunya
+http://www.wikidata.org/entity/Q5911045,Úbeda,Andalucía
+http://www.wikidata.org/entity/Q3462700,Alcalá de Henares,Comunidad de Madrid
+http://www.wikidata.org/entity/Q5912370,Palencia,Castilla y León
+http://www.wikidata.org/entity/Q5754786,Llangréu/Langreo,Asturias / Asturies
+http://www.wikidata.org/entity/Q2983985,Sevilla,Andalucía
+http://www.wikidata.org/entity/Q2547508,León,Castilla y León
+http://www.wikidata.org/entity/Q8342516,Camprodon,Catalunya
+http://www.wikidata.org/entity/Q11206780,Manresa,Catalunya
+http://www.wikidata.org/entity/Q12262063,Zumarraga,Euskadi
+http://www.wikidata.org/entity/Q8341663,Argentona,Catalunya
+http://www.wikidata.org/entity/Q8342513,Bellprat,Catalunya
+http://www.wikidata.org/entity/Q5835932,Bollullos de la Mitación,Andalucía
+http://www.wikidata.org/entity/Q8342511,Polop,Comunitat Valenciana
+http://www.wikidata.org/entity/Q9088980,els Prats de Rei,Catalunya
+http://www.wikidata.org/entity/Q16577905,Moraleja de Matacabras,Castilla y León
+http://www.wikidata.org/entity/Q2942688,Jerez de la Frontera,Andalucía
+http://www.wikidata.org/entity/Q20653399,Azkoitia,Euskadi
+http://www.wikidata.org/entity/Q3001648,Benicarló,Comunitat Valenciana
+http://www.wikidata.org/entity/Q5911257,San Román de Hornija,Castilla y León
+http://www.wikidata.org/entity/Q5910167,Guadix,Andalucía
+http://www.wikidata.org/entity/Q18172730,Mondéjar,Castilla-La Mancha
+http://www.wikidata.org/entity/Q2942449,Soria,Castilla y León
+http://www.wikidata.org/entity/Q3571157,El Pueyo de Araguás,Aragón
+http://www.wikidata.org/entity/Q16615233,Trujillo,Extremadura
+http://www.wikidata.org/entity/Q6405913,Martos,Andalucía
+http://www.wikidata.org/entity/Q18008482,l'Escala,Catalunya
+http://www.wikidata.org/entity/Q8342509,Palau-solità i Plegamans,Catalunya
+http://www.wikidata.org/entity/Q1046529,Sevilla,Andalucía
+http://www.wikidata.org/entity/Q20107821,Olot,Catalunya
+http://www.wikidata.org/entity/Q12174512,Palau-sator,Catalunya
+http://www.wikidata.org/entity/Q3896950,Getaria,Euskadi
+http://www.wikidata.org/entity/Q5909179,Valderredible,Cantabria
+http://www.wikidata.org/entity/Q8342506,Santa Margarida i els Monjos,Catalunya
+http://www.wikidata.org/entity/Q2942680,Guadix,Andalucía
+http://www.wikidata.org/entity/Q5755420,Granada,Andalucía
+http://www.wikidata.org/entity/Q8342500,Quart,Catalunya
+http://www.wikidata.org/entity/Q9088991,Cinctorres,Comunitat Valenciana
+http://www.wikidata.org/entity/Q24568065,Baena,Andalucía
+http://www.wikidata.org/entity/Q5652854,Lugo,Galicia / Galiza
+http://www.wikidata.org/entity/Q5911026,Aranda de Duero,Castilla y León
+http://www.wikidata.org/entity/Q5912117,Málaga,Andalucía
+http://www.wikidata.org/entity/Q9061857,Barcelona,Catalunya
+http://www.wikidata.org/entity/Q953919,San Lorenzo de El Escorial,Comunidad de Madrid
+http://www.wikidata.org/entity/Q5912113,Medina de Rioseco,Castilla y León
+http://www.wikidata.org/entity/Q20900959,Pontons,Catalunya
+http://www.wikidata.org/entity/Q610954,Gelida,Catalunya
+http://www.wikidata.org/entity/Q9006811,Sant Mateu,Comunitat Valenciana
+http://www.wikidata.org/entity/Q11913028,Tavertet,Catalunya
+http://www.wikidata.org/entity/Q14541533,Renieblas,Castilla y León
+http://www.wikidata.org/entity/Q11913027,Collbató,Catalunya
+http://www.wikidata.org/entity/Q23782675,Collbató,Catalunya
+http://www.wikidata.org/entity/Q16543936,Murcia,Región de Murcia
+http://www.wikidata.org/entity/Q1280721,Vilabertran,Catalunya
+http://www.wikidata.org/entity/Q2942691,Huesca,Aragón
+http://www.wikidata.org/entity/Q43120913,Gelida,Catalunya
+http://www.wikidata.org/entity/Q1570099,Tudela Veguín,Asturias / Asturies
+http://www.wikidata.org/entity/Q18122850,Villafranca del Bierzo,Castilla y León
+http://www.wikidata.org/entity/Q58929713,l'Hospitalet de Llobregat,Catalunya
+http://www.wikidata.org/entity/Q12266844,Donostia/San Sebastián,Euskadi
+http://www.wikidata.org/entity/Q19367864,Torrelles de Foix,Catalunya
+http://www.wikidata.org/entity/Q1812874,Oviedo,Asturias / Asturies
+http://www.wikidata.org/entity/Q749514,Cardona,Catalunya
+http://www.wikidata.org/entity/Q5785655,Espartinas,Andalucía
+http://www.wikidata.org/entity/Q11913076,Esplugues de Llobregat,Catalunya
+http://www.wikidata.org/entity/Q43115346,Barcelona,Catalunya
+http://www.wikidata.org/entity/Q1385934,Las Palmas de Gran Canaria,Canarias
+http://www.wikidata.org/entity/Q5722083,Caravaca de la Cruz,Región de Murcia
+http://www.wikidata.org/entity/Q5911077,Ciudad Real,Castilla-La Mancha
+http://www.wikidata.org/entity/Q19367868,Olèrdola,Catalunya
+http://www.wikidata.org/entity/Q2511338,Bergantiños,Galicia / Galiza
+http://www.wikidata.org/entity/Q18006635,Sant Joan de les Abadesses,Catalunya
+http://www.wikidata.org/entity/Q17596456,Navata,Catalunya
+http://www.wikidata.org/entity/Q20857239,Bergara,Euskadi
+http://www.wikidata.org/entity/Q4457358,Villamanín,Castilla y León
+http://www.wikidata.org/entity/Q11913079,Puig-reig,Catalunya
+http://www.wikidata.org/entity/Q11954868,Centelles,Catalunya
+http://www.wikidata.org/entity/Q1775481,Villagarcía de Campos,Castilla y León
+http://www.wikidata.org/entity/Q6051891,Cádiz,Andalucía
+http://www.wikidata.org/entity/Q2942676,Getafe,Comunidad de Madrid
+http://www.wikidata.org/entity/Q526170,Vilanova i la Geltrú,Catalunya
+http://www.wikidata.org/entity/Q2473884,Madrid,Comunidad de Madrid
+http://www.wikidata.org/entity/Q5785666,Torrox,Andalucía
+http://www.wikidata.org/entity/Q2223706,Ponferrada,Castilla y León
+http://www.wikidata.org/entity/Q11913083,Castellar del Vallès,Catalunya
+http://www.wikidata.org/entity/Q19322964,Olèrdola,Catalunya
+http://www.wikidata.org/entity/Q16577737,Murcia,Región de Murcia
+http://www.wikidata.org/entity/Q17596467,Palau de Santa Eulàlia,Catalunya
+http://www.wikidata.org/entity/Q22893518,Sant Julià de Vilatorta,Catalunya
+http://www.wikidata.org/entity/Q5549091,Sevilla,Andalucía
+http://www.wikidata.org/entity/Q6150721,Corbera,Comunitat Valenciana
+http://www.wikidata.org/entity/Q6021415,Ribas de Campos,Castilla y León
+http://www.wikidata.org/entity/Q29866560,Cazalla de la Sierra,Andalucía
+http://www.wikidata.org/entity/Q6021411,Murcia,Región de Murcia
+http://www.wikidata.org/entity/Q65926363,Legazpi,Euskadi
+http://www.wikidata.org/entity/Q5576486,Ponferrada,Castilla y León
+http://www.wikidata.org/entity/Q15707775,Ares del Maestrat,Comunitat Valenciana
+http://www.wikidata.org/entity/Q5673709,Peñarroya de Tastavíns / Pena-roja de Tastavins,Aragón
+http://www.wikidata.org/entity/Q8342159,Albalat dels Sorells,Comunitat Valenciana
+http://www.wikidata.org/entity/Q775803,Begur,Catalunya
+http://www.wikidata.org/entity/Q13534605,el Pla de Santa Maria,Catalunya
+http://www.wikidata.org/entity/Q18696810,la Garriga,Catalunya
+http://www.wikidata.org/entity/Q2511554,A Coruña,Galicia / Galiza
+http://www.wikidata.org/entity/Q2835988,Portugalete,Euskadi
+http://www.wikidata.org/entity/Q11693387,Barcelona,Catalunya
+http://www.wikidata.org/entity/Q8342152,Terrassa,Catalunya
+http://www.wikidata.org/entity/Q8342390,Lluçà,Catalunya
+http://www.wikidata.org/entity/Q11913053,Mediona,Catalunya
+http://www.wikidata.org/entity/Q18005328,Castelló d'Empuries,Catalunya
+http://www.wikidata.org/entity/Q2942405,Alacant / Alicante,Comunitat Valenciana
+http://www.wikidata.org/entity/Q2942648,Coria,Extremadura
+http://www.wikidata.org/entity/Q5754927,Zaragoza,Aragón
+http://www.wikidata.org/entity/Q20985696,les Oluges,Catalunya
+http://www.wikidata.org/entity/Q3891623,Madrid,Comunidad de Madrid
+http://www.wikidata.org/entity/Q11913058,Montcada i Reixac,Catalunya
+http://www.wikidata.org/entity/Q15707761,Benassal,Comunitat Valenciana
+http://www.wikidata.org/entity/Q1108182,Córdoba,Andalucía
+http://www.wikidata.org/entity/Q20642067,Manresa,Catalunya
+http://www.wikidata.org/entity/Q8342148,Betxí,Comunitat Valenciana
+http://www.wikidata.org/entity/Q20985698,Montoliu de Segarra,Catalunya
+http://www.wikidata.org/entity/Q43084883,Villacarrillo,Andalucía
+http://www.wikidata.org/entity/Q8342149,Font-rubí,Catalunya
+http://www.wikidata.org/entity/Q19367896,Girona,Catalunya
+http://www.wikidata.org/entity/Q47183428,Cabanes,Comunitat Valenciana
+http://www.wikidata.org/entity/Q47183428,Cabanes,Catalunya
+http://www.wikidata.org/entity/Q2942653,Cáceres,Extremadura
+http://www.wikidata.org/entity/Q8342146,Llinars del Vallès,Catalunya
+http://www.wikidata.org/entity/Q20901166,Ribera d'Ondara,Catalunya
+http://www.wikidata.org/entity/Q4882903,Villena,Comunitat Valenciana
+http://www.wikidata.org/entity/Q1589509,la Vall de Boí,Catalunya
+http://www.wikidata.org/entity/Q15304711,Badalona,Catalunya
+http://www.wikidata.org/entity/Q5911066,Alar del Rey,Castilla y León
+http://www.wikidata.org/entity/Q11693392,Sant Joan les Fonts,Catalunya
+http://www.wikidata.org/entity/Q17596687,Santa Pau,Catalunya
+http://www.wikidata.org/entity/Q5912155,Zamora,Castilla y León
+http://www.wikidata.org/entity/Q5912153,Salamanca,Castilla y León
+http://www.wikidata.org/entity/Q20492462,Mutriku,Euskadi
+http://www.wikidata.org/entity/Q582449,Mataró,Catalunya
+http://www.wikidata.org/entity/Q926529,Madrid,Comunidad de Madrid
+http://www.wikidata.org/entity/Q11930862,Bigues i Riells,Catalunya
+http://www.wikidata.org/entity/Q7414234,Arrecife,Canarias
+http://www.wikidata.org/entity/Q11930865,Caldes d'Estrac,Catalunya
+http://www.wikidata.org/entity/Q18145756,Villafranca del Bierzo,Castilla y León
+http://www.wikidata.org/entity/Q8342379,Llers,Catalunya
+http://www.wikidata.org/entity/Q20892675,Oñati,Euskadi
+http://www.wikidata.org/entity/Q43115141,Elorrio,Euskadi
+http://www.wikidata.org/entity/Q2942864,Zamora,Castilla y León
+http://www.wikidata.org/entity/Q1024723,Castrillo del Val,Castilla y León
+http://www.wikidata.org/entity/Q22833484,Osuna,Andalucía
+http://www.wikidata.org/entity/Q8342370,la Roca del Vallès,Catalunya
+http://www.wikidata.org/entity/Q11952234,Vilanova i la Geltrú,Catalunya
+http://www.wikidata.org/entity/Q11952233,Caldes d'Estrac,Catalunya
+http://www.wikidata.org/entity/Q1105932,Córdoba,Andalucía
+http://www.wikidata.org/entity/Q17596256,Corçà,Catalunya
+http://www.wikidata.org/entity/Q18005344,Barcelona,Catalunya
+http://www.wikidata.org/entity/Q3055408,Gernika-Lumo,Euskadi
+http://www.wikidata.org/entity/Q10975546,Moià,Catalunya
+http://www.wikidata.org/entity/Q17596017,Cadaqués,Catalunya
+http://www.wikidata.org/entity/Q498261,Sevilla,Andalucía
+http://www.wikidata.org/entity/Q20639959,Arrasate / Mondragón,Euskadi
+http://www.wikidata.org/entity/Q1049184,l'Atzúbia,Comunitat Valenciana
+http://www.wikidata.org/entity/Q5836616,Alcalá de Henares,Comunidad de Madrid
+http://www.wikidata.org/entity/Q18176286,Hontoba,Castilla-La Mancha
+http://www.wikidata.org/entity/Q1368571,Madrid,Comunidad de Madrid
+http://www.wikidata.org/entity/Q5741889,Gormaz,Castilla y León
+http://www.wikidata.org/entity/Q1775673,Alcocer,Castilla-La Mancha
+http://www.wikidata.org/entity/Q8342361,Jorba,Catalunya
+http://www.wikidata.org/entity/Q1049198,La Calahorra,Andalucía
+http://www.wikidata.org/entity/Q2942630,Castelló de la Plana,Comunitat Valenciana
+http://www.wikidata.org/entity/Q5948330,Albacete,Castilla-La Mancha
+http://www.wikidata.org/entity/Q10300590,Cuéllar,Castilla y León
+http://www.wikidata.org/entity/Q2942639,Ciudad Rodrigo,Castilla y León
+http://www.wikidata.org/entity/Q5741881,Albendiego,Castilla-La Mancha
+http://www.wikidata.org/entity/Q18005333,Tortosa,Catalunya
+http://www.wikidata.org/entity/Q946105,Vinaròs,Comunitat Valenciana
+http://www.wikidata.org/entity/Q20876184,Camós,Catalunya
+http://www.wikidata.org/entity/Q2942635,Ceuta,Ceuta
+http://www.wikidata.org/entity/Q3276873,Jerez de la Frontera,Andalucía
+http://www.wikidata.org/entity/Q2942638,Ciudad Real,Castilla-La Mancha
+http://www.wikidata.org/entity/Q3896902,Jaén,Andalucía
+http://www.wikidata.org/entity/Q17596033,Camprodon,Catalunya
+http://www.wikidata.org/entity/Q2462558,Salamanca,Castilla y León
+http://www.wikidata.org/entity/Q3754528,Llanes,Asturias / Asturies
+http://www.wikidata.org/entity/Q8342359,Terrades,Catalunya
+http://www.wikidata.org/entity/Q19833322,Olite/Erriberri,Navarra - Nafarroa
+http://www.wikidata.org/entity/Q1590785,Jérica,Comunitat Valenciana
+http://www.wikidata.org/entity/Q11913090,Saldes,Catalunya
+http://www.wikidata.org/entity/Q19367842,Brunyola i Sant Martí Sapresa,Catalunya
+http://www.wikidata.org/entity/Q2942840,Tortosa,Catalunya
+http://www.wikidata.org/entity/Q1024943,San Cristóbal de La Laguna,Canarias
+http://www.wikidata.org/entity/Q47183458,Subirats,Catalunya
+http://www.wikidata.org/entity/Q8342351,Granera,Catalunya
+http://www.wikidata.org/entity/Q97616376,Puerto Real,Andalucía
+http://www.wikidata.org/entity/Q17596474,Palau-saverdera,Catalunya
+http://www.wikidata.org/entity/Q20492269,Segura,Euskadi
+http://www.wikidata.org/entity/Q2942608,Calahorra,La Rioja
+http://www.wikidata.org/entity/Q11913093,Sant Gregori,Catalunya
+http://www.wikidata.org/entity/Q18008639,l'Escala,Catalunya
+http://www.wikidata.org/entity/Q11913092,Lloret de Mar,Catalunya
+http://www.wikidata.org/entity/Q5690257,Úbeda,Andalucía
+http://www.wikidata.org/entity/Q1826864,Guadalajara,Castilla-La Mancha
+http://www.wikidata.org/entity/Q5756914,Cartagena,Región de Murcia
+http://www.wikidata.org/entity/Q5992027,Sariego,Asturias / Asturies
+http://www.wikidata.org/entity/Q5911093,Limpias,Cantabria
+http://www.wikidata.org/entity/Q20639938,Urretxu,Euskadi
+http://www.wikidata.org/entity/Q43121835,Sant Sadurní d'Anoia,Catalunya
+http://www.wikidata.org/entity/Q16565555,Borriana / Burriana,Comunitat Valenciana
+http://www.wikidata.org/entity/Q47290759,Balmaseda,Euskadi
+http://www.wikidata.org/entity/Q16542677,Ávila,Castilla y León
+http://www.wikidata.org/entity/Q19367610,Girona,Catalunya
+http://www.wikidata.org/entity/Q1402296,Ávila,Castilla y León
+http://www.wikidata.org/entity/Q18810223,Orozko,Euskadi
+http://www.wikidata.org/entity/Q5397040,Abajas,Castilla y León
+http://www.wikidata.org/entity/Q3276855,Arcos de la Frontera,Andalucía
+http://www.wikidata.org/entity/Q65683755,Urnieta,Euskadi
+http://www.wikidata.org/entity/Q9088914,Maçanet de la Selva,Catalunya
+http://www.wikidata.org/entity/Q17595396,Montblanc,Catalunya
+http://www.wikidata.org/entity/Q18913265,Corullón,Castilla y León
+http://www.wikidata.org/entity/Q4783278,Ágreda,Castilla y León
+http://www.wikidata.org/entity/Q18004029,Sant Carles de la Ràpita,Catalunya
+http://www.wikidata.org/entity/Q30301821,Sant Hilari Sacalm,Catalunya
+http://www.wikidata.org/entity/Q9088916,Abadiño,Euskadi
+http://www.wikidata.org/entity/Q18285743,Villagarcía de Campos,Castilla y León
+http://www.wikidata.org/entity/Q19594046,Torà,Catalunya
+http://www.wikidata.org/entity/Q595553,Barcelona,Catalunya
+http://www.wikidata.org/entity/Q17596011,Cabanes,Comunitat Valenciana
+http://www.wikidata.org/entity/Q17596011,Cabanes,Catalunya
+http://www.wikidata.org/entity/Q20492024,Usurbil,Euskadi
+http://www.wikidata.org/entity/Q5992033,Oviedo,Asturias / Asturies
+http://www.wikidata.org/entity/Q6058096,Sevilla,Andalucía
+http://www.wikidata.org/entity/Q5648759,Ponts,Catalunya
+http://www.wikidata.org/entity/Q97642881,Osuna,Andalucía
+http://www.wikidata.org/entity/Q8342579,Todolella,Comunitat Valenciana
+http://www.wikidata.org/entity/Q18341263,Tamarite de Litera,Aragón
+http://www.wikidata.org/entity/Q20890459,Oñati,Euskadi
+http://www.wikidata.org/entity/Q8342577,Tagamanent,Catalunya
+http://www.wikidata.org/entity/Q43117120,Doñinos de Salamanca,Castilla y León
+http://www.wikidata.org/entity/Q19833403,Olite/Erriberri,Navarra - Nafarroa
+http://www.wikidata.org/entity/Q2419290,Murcia,Región de Murcia
+http://www.wikidata.org/entity/Q5573377,Alacant / Alicante,Comunitat Valenciana
+http://www.wikidata.org/entity/Q18915173,Corullón,Castilla y León
+http://www.wikidata.org/entity/Q14541193,Sotosalbos,Castilla y León
+http://www.wikidata.org/entity/Q11681534,Dénia,Comunitat Valenciana
+http://www.wikidata.org/entity/Q18004851,Gualta,Catalunya
+http://www.wikidata.org/entity/Q20492600,Segura,Euskadi
+http://www.wikidata.org/entity/Q4891457,Mataró,Catalunya
+http://www.wikidata.org/entity/Q5117763,Madrid,Comunidad de Madrid
+http://www.wikidata.org/entity/Q2942824,Sigüenza,Castilla-La Mancha
+http://www.wikidata.org/entity/Q2628455,Madrid,Comunidad de Madrid
+http://www.wikidata.org/entity/Q1581868,Avilés,Asturias / Asturies
+http://www.wikidata.org/entity/Q9007485,Zalla,Euskadi
+http://www.wikidata.org/entity/Q17596626,l'Ametlla de Mar,Catalunya
+http://www.wikidata.org/entity/Q5697187,Potes,Cantabria
+http://www.wikidata.org/entity/Q7068586,Bujalance,Andalucía
+http://www.wikidata.org/entity/Q1049154,Hondarribia,Euskadi
+http://www.wikidata.org/entity/Q17596620,Cadaqués,Catalunya
+http://www.wikidata.org/entity/Q5870152,Martos,Andalucía
+http://www.wikidata.org/entity/Q65665807,Urnieta,Euskadi
+http://www.wikidata.org/entity/Q20491989,Segura,Euskadi
+http://www.wikidata.org/entity/Q2882441,Madrid,Comunidad de Madrid
+http://www.wikidata.org/entity/Q520112,Enériz/Eneritz,Navarra - Nafarroa
+http://www.wikidata.org/entity/Q9007019,Jerez de la Frontera,Andalucía
+http://www.wikidata.org/entity/Q20855589,Bergara,Euskadi
+http://www.wikidata.org/entity/Q4407365,Cartagena,Región de Murcia
+http://www.wikidata.org/entity/Q9007258,Caracena,Castilla y León
+http://www.wikidata.org/entity/Q10661058,Villafranca del Bierzo,Castilla y León
+http://www.wikidata.org/entity/Q5132925,Castellet i la Gornal,Catalunya
+http://www.wikidata.org/entity/Q9007497,Morella,Comunitat Valenciana
+http://www.wikidata.org/entity/Q97627685,Huelva,Andalucía
+http://www.wikidata.org/entity/Q507390,Astorga,Castilla y León
+http://www.wikidata.org/entity/Q11912838,Barcelona,Catalunya
+http://www.wikidata.org/entity/Q17615472,Sant Esteve de Palautordera,Catalunya
+http://www.wikidata.org/entity/Q7068593,Santa María la Real de Nieva,Castilla y León
+http://www.wikidata.org/entity/Q17596835,Vic,Catalunya
+http://www.wikidata.org/entity/Q17596839,Beuda,Catalunya
+http://www.wikidata.org/entity/Q23505747,Tavertet,Catalunya
+http://www.wikidata.org/entity/Q3127243,Málaga,Andalucía
+http://www.wikidata.org/entity/Q1545312,San Martín de Montalbán,Castilla-La Mancha
+http://www.wikidata.org/entity/Q2942804,Santo Domingo de la Calzada,La Rioja
+http://www.wikidata.org/entity/Q11682886,Teulada,Comunitat Valenciana
+http://www.wikidata.org/entity/Q203741,Gradefes,Castilla y León
+http://www.wikidata.org/entity/Q7126321,Córdoba,Andalucía
+http://www.wikidata.org/entity/Q12262309,Zestoa,Euskadi
+http://www.wikidata.org/entity/Q7126320,Madrid,Comunidad de Madrid
+http://www.wikidata.org/entity/Q7126325,Sevilla,Andalucía
+http://www.wikidata.org/entity/Q11682889,Bellver de Cerdanya,Catalunya
+http://www.wikidata.org/entity/Q1361548,Ourense,Galicia / Galiza
+http://www.wikidata.org/entity/Q6063493,Huelva,Andalucía
+http://www.wikidata.org/entity/Q21849328,Cassà de la Selva,Catalunya
+http://www.wikidata.org/entity/Q17615485,Llers,Catalunya
+http://www.wikidata.org/entity/Q5757367,Hostalric,Catalunya
+http://www.wikidata.org/entity/Q11912803,Barcelona,Catalunya
+http://www.wikidata.org/entity/Q5757121,Ayora,Comunitat Valenciana
+http://www.wikidata.org/entity/Q17596848,Boadella i les Escaules,Catalunya
+http://www.wikidata.org/entity/Q19775887,Banyoles,Catalunya
+http://www.wikidata.org/entity/Q10975752,Llinars del Vallès,Catalunya
+http://www.wikidata.org/entity/Q5909702,Castrojeriz,Castilla y León
+http://www.wikidata.org/entity/Q5117777,San Esteban de Gormaz,Castilla y León
+http://www.wikidata.org/entity/Q1108239,Córdoba,Andalucía
+http://www.wikidata.org/entity/Q20109018,Santa Coloma de Cervelló,Catalunya
+http://www.wikidata.org/entity/Q23502006,Folgueroles,Catalunya
+http://www.wikidata.org/entity/Q16577676,Ourense,Galicia / Galiza
+http://www.wikidata.org/entity/Q5117770,Madrid,Comunidad de Madrid
+http://www.wikidata.org/entity/Q11942449,Centelles,Catalunya
+http://www.wikidata.org/entity/Q5978746,Alcañiz,Aragón
+http://www.wikidata.org/entity/Q17596843,Pontons,Catalunya
+http://www.wikidata.org/entity/Q43157807,Nueno,Aragón
+http://www.wikidata.org/entity/Q5117771,Torrelaguna,Comunidad de Madrid
+http://www.wikidata.org/entity/Q2513105,A Coruña,Galicia / Galiza
+http://www.wikidata.org/entity/Q2942814,Segorbe,Comunitat Valenciana
+http://www.wikidata.org/entity/Q5117774,San Martín de la Vega,Comunidad de Madrid
+http://www.wikidata.org/entity/Q5117773,Alcaraz,Castilla-La Mancha
+http://www.wikidata.org/entity/Q17389613,Camprodon,Catalunya
+http://www.wikidata.org/entity/Q20103711,Santa Maria de Merlès,Catalunya
+http://www.wikidata.org/entity/Q7126329,León,Castilla y León
+http://www.wikidata.org/entity/Q7415722,Llangréu/Langreo,Asturias / Asturies
+http://www.wikidata.org/entity/Q5722039,Mérida,Extremadura
+http://www.wikidata.org/entity/Q24256445,Arenas de San Juan,Castilla-La Mancha
+http://www.wikidata.org/entity/Q2893544,Algemesí,Comunitat Valenciana
+http://www.wikidata.org/entity/Q11682828,Irun,Euskadi
+http://www.wikidata.org/entity/Q43119340,Campezo/Kanpezu,Euskadi
+http://www.wikidata.org/entity/Q20901118,Castellví de la Marca,Catalunya
+http://www.wikidata.org/entity/Q59145986,Eibar,Euskadi
+http://www.wikidata.org/entity/Q6447094,Alcorisa,Aragón
+http://www.wikidata.org/entity/Q1548845,Ponferrada,Castilla y León
+http://www.wikidata.org/entity/Q11682821,Borriana / Burriana,Comunitat Valenciana
+http://www.wikidata.org/entity/Q20888458,Oñati,Euskadi
+http://www.wikidata.org/entity/Q9054670,Gijón/Xixón,Asturias / Asturies
+http://www.wikidata.org/entity/Q43093267,Mutriku,Euskadi
+http://www.wikidata.org/entity/Q64874380,Vinebre,Catalunya
+http://www.wikidata.org/entity/Q5939167,Madrid,Comunidad de Madrid
+http://www.wikidata.org/entity/Q25478756,Zestoa,Euskadi
+http://www.wikidata.org/entity/Q3888432,Buitrago del Lozoya,Comunidad de Madrid
+http://www.wikidata.org/entity/Q5644227,Balsareny,Catalunya
+http://www.wikidata.org/entity/Q2053265,Santa Cruz de Tenerife,Canarias
+http://www.wikidata.org/entity/Q9007686,Orihuela,Comunitat Valenciana
+http://www.wikidata.org/entity/Q1582758,Málaga,Andalucía
+http://www.wikidata.org/entity/Q5391789,Benafarces,Castilla y León
+http://www.wikidata.org/entity/Q9089142,Castellcir,Catalunya
+http://www.wikidata.org/entity/Q212867,Barcelona,Catalunya
+http://www.wikidata.org/entity/Q3780261,Palma,Illes Balears
+http://www.wikidata.org/entity/Q2362262,Barcelona,Catalunya
+http://www.wikidata.org/entity/Q5912934,Tordesillas,Castilla y León
+http://www.wikidata.org/entity/Q5911846,Zamora,Castilla y León
+http://www.wikidata.org/entity/Q2341107,Barcelona,Catalunya
+http://www.wikidata.org/entity/Q5910514,Arico,Canarias
+http://www.wikidata.org/entity/Q5710444,Sevilla,Andalucía
+http://www.wikidata.org/entity/Q1955435,Granada,Andalucía
+http://www.wikidata.org/entity/Q5910991,Villafranca del Bierzo,Castilla y León
+http://www.wikidata.org/entity/Q19979217,Usurbil,Euskadi
+http://www.wikidata.org/entity/Q2894697,Murcia,Región de Murcia
+http://www.wikidata.org/entity/Q43131222,Almería,Andalucía
+http://www.wikidata.org/entity/Q12269131,Ordizia,Euskadi
+http://www.wikidata.org/entity/Q3326666,Sant Fruitós de Bages,Catalunya
+http://www.wikidata.org/entity/Q6118462,Biescas,Aragón
+http://www.wikidata.org/entity/Q11930287,Monistrol de Montserrat,Catalunya
+http://www.wikidata.org/entity/Q20492640,Sangüesa/Zangoza,Navarra - Nafarroa
+http://www.wikidata.org/entity/Q5116859,Sigüenza,Castilla-La Mancha
+http://www.wikidata.org/entity/Q20888672,Oñati,Euskadi
+http://www.wikidata.org/entity/Q5680973,Mota del Marqués,Castilla y León
+http://www.wikidata.org/entity/Q39175812,Elgoibar,Euskadi
+http://www.wikidata.org/entity/Q750248,Guadalupe,Extremadura
+http://www.wikidata.org/entity/Q19257433,Figueres,Catalunya
+http://www.wikidata.org/entity/Q20901375,la Llacuna,Catalunya
+http://www.wikidata.org/entity/Q2511354,A Coruña,Galicia / Galiza
+http://www.wikidata.org/entity/Q5912902,Valladolid,Castilla y León
+http://www.wikidata.org/entity/Q18696057,Sant Cugat del Vallès,Catalunya
+http://www.wikidata.org/entity/Q5910720,Sevilla,Andalucía
+http://www.wikidata.org/entity/Q11682841,Oviedo,Asturias / Asturies
+http://www.wikidata.org/entity/Q4891274,Aielo de Rugat,Comunitat Valenciana
+http://www.wikidata.org/entity/Q11682845,Alcalà de Xivert,Comunitat Valenciana
+http://www.wikidata.org/entity/Q9007218,Biota,Aragón
+http://www.wikidata.org/entity/Q42307107,Alija del Infantado,Castilla y León
+http://www.wikidata.org/entity/Q383659,León,Castilla y León
+http://www.wikidata.org/entity/Q5664252,Córdoba,Andalucía
+http://www.wikidata.org/entity/Q9007466,Agullana,Catalunya
+http://www.wikidata.org/entity/Q9054409,Vilafranca del Penedès,Catalunya
+http://www.wikidata.org/entity/Q18696066,Abrera,Catalunya
+http://www.wikidata.org/entity/Q17586867,l'Escala,Catalunya
+http://www.wikidata.org/entity/Q18696064,Aiguaviva,Catalunya
+http://www.wikidata.org/entity/Q1609022,Santillana del Mar,Cantabria
+http://www.wikidata.org/entity/Q543069,Santa Eugènia de Berga,Catalunya
+http://www.wikidata.org/entity/Q20901125,Sant Quintí de Mediona,Catalunya
+http://www.wikidata.org/entity/Q6057834,Cartagena,Región de Murcia
+http://www.wikidata.org/entity/Q20901123,Cànoves i Samalús,Catalunya
+http://www.wikidata.org/entity/Q5785841,Peñafiel,Castilla y León
+http://www.wikidata.org/entity/Q6394284,Talavera de la Reina,Castilla-La Mancha
+http://www.wikidata.org/entity/Q2511122,Castelló de la Plana,Comunitat Valenciana
+http://www.wikidata.org/entity/Q974716,Tarragona,Catalunya
+http://www.wikidata.org/entity/Q5911824,Castro-Urdiales,Cantabria
+http://www.wikidata.org/entity/Q11952289,Vilanova i la Geltrú,Catalunya
+http://www.wikidata.org/entity/Q43120362,Castro-Urdiales,Cantabria
+http://www.wikidata.org/entity/Q19257208,Vilafranca del Penedès,Catalunya
+http://www.wikidata.org/entity/Q2970221,Peníscola / Peñíscola,Comunitat Valenciana
+http://www.wikidata.org/entity/Q4891263,Monistrol de Montserrat,Catalunya
+http://www.wikidata.org/entity/Q10911094,Sacramenia,Castilla y León
+http://www.wikidata.org/entity/Q11682858,Oñati,Euskadi
+http://www.wikidata.org/entity/Q570665,Madrid,Comunidad de Madrid
+http://www.wikidata.org/entity/Q28711233,Canet d'Adri,Catalunya
+http://www.wikidata.org/entity/Q12252722,Ordizia,Euskadi
+http://www.wikidata.org/entity/Q3896289,Barcelona,Catalunya
+http://www.wikidata.org/entity/Q5812252,Jerez de la Frontera,Andalucía
+http://www.wikidata.org/entity/Q2984057,Ziortza-Bolibar,Euskadi
+http://www.wikidata.org/entity/Q15788327,Ávila,Castilla y León
+http://www.wikidata.org/entity/Q6057842,Cartagena,Región de Murcia
+http://www.wikidata.org/entity/Q20015477,Murcia,Región de Murcia
+http://www.wikidata.org/entity/Q17595924,Bàscara,Catalunya
+http://www.wikidata.org/entity/Q43091724,Olot,Catalunya
+http://www.wikidata.org/entity/Q4892380,Lleida,Catalunya
+http://www.wikidata.org/entity/Q5117128,Madrid,Comunidad de Madrid
+http://www.wikidata.org/entity/Q18696279,Tossa de Mar,Catalunya
+http://www.wikidata.org/entity/Q5911637,Fernán-Núñez,Andalucía
+http://www.wikidata.org/entity/Q24055045,Osor,Catalunya
+http://www.wikidata.org/entity/Q5910547,Salamanca,Castilla y León
+http://www.wikidata.org/entity/Q5912966,Candín,Castilla y León
+http://www.wikidata.org/entity/Q5910784,Alfoz de Lloredo,Cantabria
+http://www.wikidata.org/entity/Q5911872,San Vicente de la Barquera,Cantabria
+http://www.wikidata.org/entity/Q43157416,Alcanar,Catalunya
+http://www.wikidata.org/entity/Q5911632,Ampuero,Cantabria
+http://www.wikidata.org/entity/Q5117125,Guadalajara,Castilla-La Mancha
+http://www.wikidata.org/entity/Q5117124,Camarma de Esteruelas,Comunidad de Madrid
+http://www.wikidata.org/entity/Q5910781,Aldeamayor de San Martín,Castilla y León
+http://www.wikidata.org/entity/Q18008385,Vilanova i la Geltrú,Catalunya
+http://www.wikidata.org/entity/Q3327561,Samos,Galicia / Galiza
+http://www.wikidata.org/entity/Q23780481,Sallent,Catalunya
+http://www.wikidata.org/entity/Q5909795,Samboal,Castilla y León
+http://www.wikidata.org/entity/Q6057871,Madrid,Comunidad de Madrid
+http://www.wikidata.org/entity/Q5909551,Valverde,Canarias
+http://www.wikidata.org/entity/Q9034457,l'Estany,Catalunya
+http://www.wikidata.org/entity/Q5909315,Antigua,Canarias
+http://www.wikidata.org/entity/Q2722123,Valladolid,Castilla y León
+http://www.wikidata.org/entity/Q5754472,Madrid,Comunidad de Madrid
+http://www.wikidata.org/entity/Q1584990,Beranuy,Aragón
+http://www.wikidata.org/entity/Q19256331,Cantallops,Catalunya
+http://www.wikidata.org/entity/Q5117118,Cogolludo,Castilla-La Mancha
+http://www.wikidata.org/entity/Q5117119,Madrid,Comunidad de Madrid
+http://www.wikidata.org/entity/Q5910317,Palos de la Frontera,Andalucía
+http://www.wikidata.org/entity/Q5911889,Castronuño,Castilla y León
+http://www.wikidata.org/entity/Q5117110,Jerez de la Frontera,Andalucía
+http://www.wikidata.org/entity/Q25474129,Bergara,Euskadi
+http://www.wikidata.org/entity/Q1321720,Alfauir,Comunitat Valenciana
+http://www.wikidata.org/entity/Q5117112,Madrid,Comunidad de Madrid
+http://www.wikidata.org/entity/Q5786077,Sevilla,Andalucía
+http://www.wikidata.org/entity/Q5117114,Madrid,Comunidad de Madrid
+http://www.wikidata.org/entity/Q20643505,Errenteria,Euskadi
+http://www.wikidata.org/entity/Q4966033,Villena,Comunitat Valenciana
+http://www.wikidata.org/entity/Q20745775,Gradefes,Castilla y León
+http://www.wikidata.org/entity/Q25478724,Bergara,Euskadi
+http://www.wikidata.org/entity/Q2948773,Okondo,Euskadi
+http://www.wikidata.org/entity/Q3047420,Salamanca,Castilla y León
+http://www.wikidata.org/entity/Q585057,les Franqueses del Vallès,Catalunya
+http://www.wikidata.org/entity/Q5909562,Tabernas,Andalucía
+http://www.wikidata.org/entity/Q16915965,Albacete,Castilla-La Mancha
+http://www.wikidata.org/entity/Q5723507,Cartagena,Región de Murcia
+http://www.wikidata.org/entity/Q2274061,Sevilla,Andalucía
+http://www.wikidata.org/entity/Q1570113,Las Regueras,Asturias / Asturies
+http://www.wikidata.org/entity/Q3849438,les Valls de Valira,Catalunya
+http://www.wikidata.org/entity/Q24276211,Carrizo,Castilla y León
+http://www.wikidata.org/entity/Q5909779,Sevilla,Andalucía
+http://www.wikidata.org/entity/Q18003946,Sant Ramon,Catalunya
+http://www.wikidata.org/entity/Q2944148,Meco,Comunidad de Madrid
+http://www.wikidata.org/entity/Q20900885,Olesa de Bonesvalls,Catalunya
+http://www.wikidata.org/entity/Q16562809,Los Altos,Castilla y León
+http://www.wikidata.org/entity/Q576102,Olocau del Rey,Comunitat Valenciana
+http://www.wikidata.org/entity/Q25902600,Bergara,Euskadi
+http://www.wikidata.org/entity/Q19257638,Avinyonet del Penedès,Catalunya
+http://www.wikidata.org/entity/Q6150384,Càlig,Comunitat Valenciana
+http://www.wikidata.org/entity/Q19256309,Avinyonet del Penedès,Catalunya
+http://www.wikidata.org/entity/Q18003942,Granyanella,Catalunya
+http://www.wikidata.org/entity/Q3573923,Sant Jaume de Frontanyà,Catalunya
+http://www.wikidata.org/entity/Q5754016,Salamanca,Castilla y León
+http://www.wikidata.org/entity/Q22695464,Jimena de la Frontera,Andalucía
+http://www.wikidata.org/entity/Q11911558,Badalona,Catalunya
+http://www.wikidata.org/entity/Q6058502,Almería,Andalucía
+http://www.wikidata.org/entity/Q6057653,Almería,Andalucía
+http://www.wikidata.org/entity/Q6057894,Espinosa de los Monteros,Castilla y León
+http://www.wikidata.org/entity/Q11682819,Esgos,Galicia / Galiza
+http://www.wikidata.org/entity/Q5117138,Vitoria-Gasteiz,Euskadi
+http://www.wikidata.org/entity/Q965302,Brihuega,Castilla-La Mancha
+http://www.wikidata.org/entity/Q24035464,la Cellera de Ter,Catalunya
+http://www.wikidata.org/entity/Q5911869,Torreblascopedro,Andalucía
+http://www.wikidata.org/entity/Q30917592,Granada,Andalucía
+http://www.wikidata.org/entity/Q1738829,les Masies de Roda,Catalunya
+http://www.wikidata.org/entity/Q5675110,Sevilla,Andalucía
+http://www.wikidata.org/entity/Q5911629,Sevilla,Andalucía
+http://www.wikidata.org/entity/Q9034471,Castell de Mur,Catalunya
+http://www.wikidata.org/entity/Q5910534,Almería,Andalucía
+http://www.wikidata.org/entity/Q4893249,Girona,Catalunya
+http://www.wikidata.org/entity/Q5786052,Huécija,Andalucía
+http://www.wikidata.org/entity/Q18172786,Ávila,Castilla y León
+http://www.wikidata.org/entity/Q533001,Rupià,Catalunya
+http://www.wikidata.org/entity/Q5910771,Valladolid,Castilla y León
+http://www.wikidata.org/entity/Q96184700,Santa Cruz de Marchena,Andalucía
+http://www.wikidata.org/entity/Q1139113,Vitoria-Gasteiz,Euskadi
+http://www.wikidata.org/entity/Q18003931,Balaguer,Catalunya
+http://www.wikidata.org/entity/Q12385635,Castro Caldelas,Galicia / Galiza
+http://www.wikidata.org/entity/Q18008395,Pontons,Catalunya
+http://www.wikidata.org/entity/Q2116598,Ripoll,Catalunya
+http://www.wikidata.org/entity/Q25474152,Bergara,Euskadi
+http://www.wikidata.org/entity/Q18008399,Vilassar de Mar,Catalunya
+http://www.wikidata.org/entity/Q8341607,Madrid,Comunidad de Madrid
+http://www.wikidata.org/entity/Q1166944,Trillo,Castilla-La Mancha
+http://www.wikidata.org/entity/Q8341602,Sant Joan les Fonts,Catalunya
+http://www.wikidata.org/entity/Q9034465,La Guingueta d'Àneu,Catalunya
+http://www.wikidata.org/entity/Q20875315,Arenys de Mar,Catalunya
+http://www.wikidata.org/entity/Q1815135,Barcelona,Catalunya
+http://www.wikidata.org/entity/Q18008392,Montgat,Catalunya
+http://www.wikidata.org/entity/Q837979,Abárzuza/Abartzuza,Navarra - Nafarroa
+http://www.wikidata.org/entity/Q17595729,Sant Feliu de Guíxols,Catalunya
+http://www.wikidata.org/entity/Q5142768,Cangas del Narcea,Asturias / Asturies
+http://www.wikidata.org/entity/Q5910107,Sevilla,Andalucía
+http://www.wikidata.org/entity/Q9034420,La Guingueta d'Àneu,Catalunya
+http://www.wikidata.org/entity/Q5912765,Escacena del Campo,Andalucía
+http://www.wikidata.org/entity/Q5910582,Benavente,Castilla y León
+http://www.wikidata.org/entity/Q5911670,Deba,Euskadi
+http://www.wikidata.org/entity/Q2885585,Simancas,Castilla y León
+http://www.wikidata.org/entity/Q927265,Cuéllar,Castilla y León
+http://www.wikidata.org/entity/Q20492801,Zumaia,Euskadi
+http://www.wikidata.org/entity/Q2736564,Madrid,Comunidad de Madrid
+http://www.wikidata.org/entity/Q34562,San Cristóbal de La Laguna,Canarias
+http://www.wikidata.org/entity/Q5419362,Granada,Andalucía
+http://www.wikidata.org/entity/Q518072,Borau,Aragón
+http://www.wikidata.org/entity/Q5909591,Sanlúcar de Barrameda,Andalucía
+http://www.wikidata.org/entity/Q20106314,Berga,Catalunya
+http://www.wikidata.org/entity/Q20986043,Móra d'Ebre,Catalunya
+http://www.wikidata.org/entity/Q1164358,Madrid,Comunidad de Madrid
+http://www.wikidata.org/entity/Q975868,Cardona,Catalunya
+http://www.wikidata.org/entity/Q6406146,Sevilla,Andalucía
+http://www.wikidata.org/entity/Q1534288,Oviedo,Asturias / Asturies
+http://www.wikidata.org/entity/Q9034415,"Cruïlles, Monells i Sant Sadurní de l'Heura",Catalunya
+http://www.wikidata.org/entity/Q97219725,Pontevedra,Galicia / Galiza
+http://www.wikidata.org/entity/Q1540732,Real Sitio de San Ildefonso,Castilla y León
+http://www.wikidata.org/entity/Q19368128,Sant Pere de Riudebitlles,Catalunya
+http://www.wikidata.org/entity/Q8254482,Almería,Andalucía
+http://www.wikidata.org/entity/Q2478458,Tarragona,Catalunya
+http://www.wikidata.org/entity/Q5911206,Olóriz,Navarra - Nafarroa
+http://www.wikidata.org/entity/Q43121031,Santa Susanna,Catalunya
+http://www.wikidata.org/entity/Q5401849,Palencia,Castilla y León
+http://www.wikidata.org/entity/Q12254090,Arrasate / Mondragón,Euskadi
+http://www.wikidata.org/entity/Q5912778,Miranda de Ebro,Castilla y León
+http://www.wikidata.org/entity/Q5910118,Zamora,Castilla y León
+http://www.wikidata.org/entity/Q4255583,Campezo/Kanpezu,Euskadi
+http://www.wikidata.org/entity/Q19360888,Toledo,Castilla-La Mancha
+http://www.wikidata.org/entity/Q5991998,Cudillero,Asturias / Asturies
+http://www.wikidata.org/entity/Q2894059,Portillo,Castilla y León
+http://www.wikidata.org/entity/Q3083728,Siero,Asturias / Asturies
+http://www.wikidata.org/entity/Q6057662,Murcia,Región de Murcia
+http://www.wikidata.org/entity/Q6102052,Valladolid,Castilla y León
+http://www.wikidata.org/entity/Q5909369,Torrelapaja,Aragón
+http://www.wikidata.org/entity/Q43122137,Tavertet,Catalunya
+http://www.wikidata.org/entity/Q20901531,Sant Jaume dels Domenys,Catalunya
+http://www.wikidata.org/entity/Q3826168,Madrid,Comunidad de Madrid
+http://www.wikidata.org/entity/Q2420025,Madrid,Comunidad de Madrid
+http://www.wikidata.org/entity/Q5912743,Valladolid,Castilla y León
+http://www.wikidata.org/entity/Q8243797,A Mariña Central,Galicia / Galiza
+http://www.wikidata.org/entity/Q5786084,Jaén,Andalucía
+http://www.wikidata.org/entity/Q5836273,Monòver / Monóvar,Comunitat Valenciana
+http://www.wikidata.org/entity/Q5912741,Valladolid,Castilla y León
+http://www.wikidata.org/entity/Q43121040,Malgrat de Mar,Catalunya
+http://www.wikidata.org/entity/Q680292,Terra de Melide,Galicia / Galiza
+http://www.wikidata.org/entity/Q17595941,Beuda,Catalunya
+http://www.wikidata.org/entity/Q5117103,Arganda del Rey,Comunidad de Madrid
+http://www.wikidata.org/entity/Q1048678,Peralada,Catalunya
+http://www.wikidata.org/entity/Q5117102,Madrid,Comunidad de Madrid
+http://www.wikidata.org/entity/Q5909574,Moguer,Andalucía
+http://www.wikidata.org/entity/Q12176430,Aguilafuente,Castilla y León
+http://www.wikidata.org/entity/Q388287,Alzira,Comunitat Valenciana
+http://www.wikidata.org/entity/Q1048682,Roses,Catalunya
+http://www.wikidata.org/entity/Q2380092,Almería,Andalucía
+http://www.wikidata.org/entity/Q43123473,Peralada,Catalunya
+http://www.wikidata.org/entity/Q20901522,les Franqueses del Vallès,Catalunya
+http://www.wikidata.org/entity/Q6150592,Dos Hermanas,Andalucía
+http://www.wikidata.org/entity/Q6150351,Herrerías,Cantabria
+http://www.wikidata.org/entity/Q18223870,Medina del Campo,Castilla y León
+http://www.wikidata.org/entity/Q3328423,Sitges,Catalunya
+http://www.wikidata.org/entity/Q1530714,Sant Joan de les Abadesses,Catalunya
+http://www.wikidata.org/entity/Q5757319,Torrefeta i Florejacs,Catalunya
+http://www.wikidata.org/entity/Q5677729,Nava del Rey,Castilla y León
+http://www.wikidata.org/entity/Q21622828,Sant Feliu Sasserra,Catalunya
+http://www.wikidata.org/entity/Q6102073,Villamuriel de Cerrato,Castilla y León
+http://www.wikidata.org/entity/Q5754043,Medio Cudeyo,Cantabria
+http://www.wikidata.org/entity/Q6058532,León,Castilla y León
+http://www.wikidata.org/entity/Q43122159,Malla,Catalunya
+http://www.wikidata.org/entity/Q8342452,Santa Maria de Miralles,Catalunya
+http://www.wikidata.org/entity/Q8777102,Campanet,Illes Balears
+http://www.wikidata.org/entity/Q2956550,Guadalajara,Castilla-La Mancha
+http://www.wikidata.org/entity/Q43123483,Peralada,Catalunya
+http://www.wikidata.org/entity/Q5912689,Cuenca de Campos,Castilla y León
+http://www.wikidata.org/entity/Q5910263,Támara de Campos,Castilla y León
+http://www.wikidata.org/entity/Q7203706,Peñafiel,Castilla y León
+http://www.wikidata.org/entity/Q6150677,Peñafiel,Castilla y León
+http://www.wikidata.org/entity/Q20986247,"Saus, Camallera i Llampaies",Catalunya
+http://www.wikidata.org/entity/Q4268999,Vall de Almonacid,Comunitat Valenciana
+http://www.wikidata.org/entity/Q97623653,Córdoba,Andalucía
+http://www.wikidata.org/entity/Q5754631,Fuentelencina,Castilla-La Mancha
+http://www.wikidata.org/entity/Q5555273,La Vid y Barrios,Castilla y León
+http://www.wikidata.org/entity/Q11697438,Cocentaina,Comunitat Valenciana
+http://www.wikidata.org/entity/Q2037255,Toledo,Castilla-La Mancha
+http://www.wikidata.org/entity/Q8342203,Cabrera d'Anoia,Catalunya
+http://www.wikidata.org/entity/Q8342446,Gombrèn,Catalunya
+http://www.wikidata.org/entity/Q97623655,Córdoba,Andalucía
+http://www.wikidata.org/entity/Q3285202,Bilbao,Euskadi
+http://www.wikidata.org/entity/Q3582357,Sevilla,Andalucía
+http://www.wikidata.org/entity/Q15277185,Corcos,Castilla y León
+http://www.wikidata.org/entity/Q2837186,Medina de Pomar,Castilla y León
+http://www.wikidata.org/entity/Q6058565,Noja,Cantabria
+http://www.wikidata.org/entity/Q8341593,Sabadell,Catalunya
+http://www.wikidata.org/entity/Q4505124,Lorca,Región de Murcia
+http://www.wikidata.org/entity/Q3100116,Ronda,Andalucía
+http://www.wikidata.org/entity/Q9088813,Bergara,Euskadi
+http://www.wikidata.org/entity/Q9088814,Figueres,Catalunya
+http://www.wikidata.org/entity/Q11064269,Andújar,Andalucía
+http://www.wikidata.org/entity/Q18172849,Montejo de Tiermes,Castilla y León
+http://www.wikidata.org/entity/Q596344,Valderredible,Cantabria
+http://www.wikidata.org/entity/Q5648218,Córdoba,Andalucía
+http://www.wikidata.org/entity/Q1575647,Tui,Galicia / Galiza
+http://www.wikidata.org/entity/Q383808,Confrides,Comunitat Valenciana
+http://www.wikidata.org/entity/Q7415026,Córdoba,Andalucía
+http://www.wikidata.org/entity/Q3111473,Pamplona/Iruña,Navarra - Nafarroa
+http://www.wikidata.org/entity/Q14568091,Tabeirós - Terra de Montes,Galicia / Galiza
+http://www.wikidata.org/entity/Q5723907,Córdoba,Andalucía
+http://www.wikidata.org/entity/Q17600860,Moià,Catalunya
+http://www.wikidata.org/entity/Q389325,Bellcaire d'Empordà,Catalunya
+http://www.wikidata.org/entity/Q5910248,Burgos,Castilla y León
+http://www.wikidata.org/entity/Q5910486,Orejana,Castilla y León
+http://www.wikidata.org/entity/Q5911336,Reinosa,Cantabria
+http://www.wikidata.org/entity/Q949589,Barcelona,Catalunya
+http://www.wikidata.org/entity/Q1552535,Carracedelo,Castilla y León
+http://www.wikidata.org/entity/Q9006974,Eibar,Euskadi
+http://www.wikidata.org/entity/Q96653631,Fuentes Claras,Aragón
+http://www.wikidata.org/entity/Q5721970,Oria,Andalucía
+http://www.wikidata.org/entity/Q5754656,Moguer,Andalucía
+http://www.wikidata.org/entity/Q7415298,Madrid,Comunidad de Madrid
+http://www.wikidata.org/entity/Q17590858,Mataró,Catalunya
+http://www.wikidata.org/entity/Q29076258,Cabra,Andalucía
+http://www.wikidata.org/entity/Q3585405,Campoo de Enmedio,Cantabria
+http://www.wikidata.org/entity/Q8341578,Sant Pere Pescador,Catalunya
+http://www.wikidata.org/entity/Q81747652,Santa Coloma de Cervelló,Catalunya
+http://www.wikidata.org/entity/Q33803597,Becedas,Castilla y León
+http://www.wikidata.org/entity/Q5911349,Sevilla,Andalucía
+http://www.wikidata.org/entity/Q43092768,Azpeitia,Euskadi
+http://www.wikidata.org/entity/Q23695710,Caravaca de la Cruz,Región de Murcia
+http://www.wikidata.org/entity/Q5639734,Cervera,Catalunya
+http://www.wikidata.org/entity/Q5911587,Zaragoza,Aragón
+http://www.wikidata.org/entity/Q425898,Jaén,Andalucía
+http://www.wikidata.org/entity/Q5910251,Granada,Andalucía
+http://www.wikidata.org/entity/Q5911582,Murcia,Región de Murcia
+http://www.wikidata.org/entity/Q17615922,Sant Llorenç de la Muga,Catalunya
+http://www.wikidata.org/entity/Q28465522,Guissona,Catalunya
+http://www.wikidata.org/entity/Q9005410,Legorreta,Euskadi
+http://www.wikidata.org/entity/Q974002,Soria,Castilla y León
+http://www.wikidata.org/entity/Q12254789,Ordizia,Euskadi
+http://www.wikidata.org/entity/Q18007463,Molló,Catalunya
+http://www.wikidata.org/entity/Q2004326,La Orotava,Canarias
+http://www.wikidata.org/entity/Q11947572,Alcover,Catalunya
+http://www.wikidata.org/entity/Q3283058,Xeraco,Comunitat Valenciana
+http://www.wikidata.org/entity/Q6034142,Valladolid,Castilla y León
+http://www.wikidata.org/entity/Q22227280,Ribes de Freser,Catalunya
+http://www.wikidata.org/entity/Q6083316,Albacete,Castilla-La Mancha
+http://www.wikidata.org/entity/Q1725740,Ayegui,Navarra - Nafarroa
+http://www.wikidata.org/entity/Q1131940,Cillorigo de Liébana,Cantabria
+http://www.wikidata.org/entity/Q16741104,Cabanes,Comunitat Valenciana
+http://www.wikidata.org/entity/Q16741104,Cabanes,Catalunya
+http://www.wikidata.org/entity/Q9034387,Sant Ramon,Catalunya
+http://www.wikidata.org/entity/Q9006906,Vitoria-Gasteiz,Euskadi
+http://www.wikidata.org/entity/Q1997245,Segovia,Castilla y León
+http://www.wikidata.org/entity/Q506814,Barcelona,Catalunya
+http://www.wikidata.org/entity/Q5117167,Uceda,Castilla-La Mancha
+http://www.wikidata.org/entity/Q5117166,Alcorcón,Comunidad de Madrid
+http://www.wikidata.org/entity/Q9004966,Sevilla,Andalucía
+http://www.wikidata.org/entity/Q5117169,Sangüesa/Zangoza,Navarra - Nafarroa
+http://www.wikidata.org/entity/Q5117168,Chinchilla de Monte-Aragón,Castilla-La Mancha
+http://www.wikidata.org/entity/Q18005074,Sant Pere Pescador,Catalunya
+http://www.wikidata.org/entity/Q27791652,Torreblanca,Comunitat Valenciana
+http://www.wikidata.org/entity/Q9034378,Camprodon,Catalunya
+http://www.wikidata.org/entity/Q29367672,Villarroya de la Sierra,Aragón
+http://www.wikidata.org/entity/Q2942581,Baeza,Andalucía
+http://www.wikidata.org/entity/Q18005070,Peralada,Catalunya
+http://www.wikidata.org/entity/Q2933633,Aldea del Rey,Castilla-La Mancha
+http://www.wikidata.org/entity/Q6058127,Zaragoza,Aragón
+http://www.wikidata.org/entity/Q8342645,Piera,Catalunya
+http://www.wikidata.org/entity/Q11697411,Eibar,Euskadi
+http://www.wikidata.org/entity/Q3585406,la Vall de Boí,Catalunya
+http://www.wikidata.org/entity/Q1776246,Villanueva de Oscos,Asturias / Asturies
+http://www.wikidata.org/entity/Q9034375,Besalú,Catalunya
+http://www.wikidata.org/entity/Q9088856,Oñati,Euskadi
+http://www.wikidata.org/entity/Q1046405,Barcelona,Catalunya
+http://www.wikidata.org/entity/Q1321526,Barcelona,Catalunya
+http://www.wikidata.org/entity/Q5117154,Fuenmayor,La Rioja
+http://www.wikidata.org/entity/Q5912257,Zamora,Castilla y León
+http://www.wikidata.org/entity/Q10750219,Lleida,Catalunya
+http://www.wikidata.org/entity/Q9006910,Tudela de Duero,Castilla y León
+http://www.wikidata.org/entity/Q18005063,Bàscara,Catalunya
+http://www.wikidata.org/entity/Q5399718,Cabezón de Liébana,Cantabria
+http://www.wikidata.org/entity/Q5912493,Andorra,Aragón
+http://www.wikidata.org/entity/Q20493052,Pasaia,Euskadi
+http://www.wikidata.org/entity/Q20804876,Getaria,Euskadi
+http://www.wikidata.org/entity/Q22227279,Cornellà del Terri,Catalunya
+http://www.wikidata.org/entity/Q18005065,Castelló d'Empuries,Catalunya
+http://www.wikidata.org/entity/Q5117150,Mieres,Asturias / Asturies
+http://www.wikidata.org/entity/Q5910070,Salamanca,Castilla y León
+http://www.wikidata.org/entity/Q1116546,Barcelona,Catalunya
+http://www.wikidata.org/entity/Q21281796,Sant Feliu de Buixalleu,Catalunya
+http://www.wikidata.org/entity/Q2942592,Badajoz,Extremadura
+http://www.wikidata.org/entity/Q8342631,Forallac,Catalunya
+http://www.wikidata.org/entity/Q22227274,Campelles,Catalunya
+http://www.wikidata.org/entity/Q8341786,Forcall,Comunitat Valenciana
+http://www.wikidata.org/entity/Q8342632,Balones,Comunitat Valenciana
+http://www.wikidata.org/entity/Q8772074,Barcelona,Catalunya
+http://www.wikidata.org/entity/Q5839385,Cartagena,Región de Murcia
+http://www.wikidata.org/entity/Q18695880,Lloret de Mar,Catalunya
+http://www.wikidata.org/entity/Q5786009,Murcia,Región de Murcia
+http://www.wikidata.org/entity/Q1140634,Madrid,Comunidad de Madrid
+http://www.wikidata.org/entity/Q5639526,Seva,Catalunya
+http://www.wikidata.org/entity/Q778571,Santiponce,Andalucía
+http://www.wikidata.org/entity/Q5911373,Sahagún,Castilla y León
+http://www.wikidata.org/entity/Q5909291,Córdoba,Andalucía
+http://www.wikidata.org/entity/Q11913137,Boadella i les Escaules,Catalunya
+http://www.wikidata.org/entity/Q5755306,Valdés,Asturias / Asturies
+http://www.wikidata.org/entity/Q18200486,Fresno el Viejo,Castilla y León
+http://www.wikidata.org/entity/Q3585440,Córdoba,Andalucía
+http://www.wikidata.org/entity/Q5117180,Haro,La Rioja
+http://www.wikidata.org/entity/Q7415013,Madrid,Comunidad de Madrid
+http://www.wikidata.org/entity/Q20856286,Los Realejos,Canarias
+http://www.wikidata.org/entity/Q11697419,Valladolid,Castilla y León
+http://www.wikidata.org/entity/Q5590202,Illana,Castilla-La Mancha
+http://www.wikidata.org/entity/Q6058388,Sevilla,Andalucía
+http://www.wikidata.org/entity/Q20104672,Cercs,Catalunya
+http://www.wikidata.org/entity/Q14516254,Wamba,Castilla y León
+http://www.wikidata.org/entity/Q8342620,Vilassar de Dalt,Catalunya
+http://www.wikidata.org/entity/Q47183505,Vilanova i la Geltrú,Catalunya
+http://www.wikidata.org/entity/Q5685859,Sant Vicenç de Torelló,Catalunya
+http://www.wikidata.org/entity/Q2942573,Orihuela,Comunitat Valenciana
+http://www.wikidata.org/entity/Q45889295,Sabadell,Catalunya
+http://www.wikidata.org/entity/Q650007,Cádiz,Andalucía
+http://www.wikidata.org/entity/Q3798011,Benafer,Comunitat Valenciana
+http://www.wikidata.org/entity/Q5911146,Alagón,Aragón
+http://www.wikidata.org/entity/Q25473656,Azkoitia,Euskadi
+http://www.wikidata.org/entity/Q5117175,Jerez de la Frontera,Andalucía
+http://www.wikidata.org/entity/Q5911143,Alaejos,Castilla y León
+http://www.wikidata.org/entity/Q5117177,Guadalajara,Castilla-La Mancha
+http://www.wikidata.org/entity/Q18171777,Mondéjar,Castilla-La Mancha
+http://www.wikidata.org/entity/Q922097,Vélez-Blanco,Andalucía
+http://www.wikidata.org/entity/Q22970093,Sevilla,Andalucía
+http://www.wikidata.org/entity/Q5910052,Pancorbo,Castilla y León
+http://www.wikidata.org/entity/Q5117170,Santiago,Galicia / Galiza
+http://www.wikidata.org/entity/Q3755314,Vitoria-Gasteiz,Euskadi
+http://www.wikidata.org/entity/Q5754688,Brihuega,Castilla-La Mancha
+http://www.wikidata.org/entity/Q30015095,Villamalea,Castilla-La Mancha
+http://www.wikidata.org/entity/Q18191370,Madrid,Comunidad de Madrid
+http://www.wikidata.org/entity/Q40833556,Albanyà,Catalunya
+http://www.wikidata.org/entity/Q8342614,la Llacuna,Catalunya
+http://www.wikidata.org/entity/Q2220100,Oviedo,Asturias / Asturies
+http://www.wikidata.org/entity/Q3471746,Uharte-Arakil,Navarra - Nafarroa
+http://www.wikidata.org/entity/Q950772,Cercs,Catalunya
+http://www.wikidata.org/entity/Q3394959,O Deza,Galicia / Galiza
+http://www.wikidata.org/entity/Q339482,Oñati,Euskadi
+http://www.wikidata.org/entity/Q6160881,Valladolid,Castilla y León
+http://www.wikidata.org/entity/Q43093229,Arrasate / Mondragón,Euskadi
+http://www.wikidata.org/entity/Q130534,Sant Quirze Safaja,Catalunya
+http://www.wikidata.org/entity/Q6021552,Valladolid,Castilla y León
+http://www.wikidata.org/entity/Q1790758,Madrid,Comunidad de Madrid
+http://www.wikidata.org/entity/Q3813468,Soria,Castilla y León
+http://www.wikidata.org/entity/Q5776818,La Pernía,Castilla y León
+http://www.wikidata.org/entity/Q8350476,Talavera de la Reina,Castilla-La Mancha
+http://www.wikidata.org/entity/Q6021550,Vélez-Málaga,Andalucía
+http://www.wikidata.org/entity/Q97619303,Jerez de la Frontera,Andalucía
+http://www.wikidata.org/entity/Q5912289,Castrillo de Duero,Castilla y León
+http://www.wikidata.org/entity/Q6083116,La Cavada,Cantabria
+http://www.wikidata.org/entity/Q26212197,Pozondón,Aragón
+http://www.wikidata.org/entity/Q41774730,Vélez-Málaga,Andalucía
+http://www.wikidata.org/entity/Q665154,Lena,Asturias / Asturies
+http://www.wikidata.org/entity/Q17615501,Santa Maria de Palautordera,Catalunya
+http://www.wikidata.org/entity/Q28711368,la Vall d'en Bas,Catalunya
+http://www.wikidata.org/entity/Q938638,Alcoi / Alcoy,Comunitat Valenciana
+http://www.wikidata.org/entity/Q37586527,Riudellots de la Selva,Catalunya
+http://www.wikidata.org/entity/Q5116947,Peñas de San Pedro,Castilla-La Mancha
+http://www.wikidata.org/entity/Q5577226,Fonollosa,Catalunya
+http://www.wikidata.org/entity/Q2878575,Telde,Canarias
+http://www.wikidata.org/entity/Q936453,Garganta la Olla,Extremadura
+http://www.wikidata.org/entity/Q8342289,Cornellà de Llobregat,Catalunya
+http://www.wikidata.org/entity/Q8342288,Camprodon,Catalunya
+http://www.wikidata.org/entity/Q43123099,Maçanet de Cabrenys,Catalunya
+http://www.wikidata.org/entity/Q5116945,Labastida/Bastida,Euskadi
+http://www.wikidata.org/entity/Q5776828,Villafranca del Bierzo,Castilla y León
+http://www.wikidata.org/entity/Q1776206,Pelayos de la Presa,Comunidad de Madrid
+http://www.wikidata.org/entity/Q1776209,Villaviciosa,Asturias / Asturies
+http://www.wikidata.org/entity/Q5480691,Lorca,Región de Murcia
+http://www.wikidata.org/entity/Q17615506,Borredà,Catalunya
+http://www.wikidata.org/entity/Q19367759,Girona,Catalunya
+http://www.wikidata.org/entity/Q6058391,Oviedo,Asturias / Asturies
+http://www.wikidata.org/entity/Q6447049,Cartes,Cantabria
+http://www.wikidata.org/entity/Q3360949,Sevilla,Andalucía
+http://www.wikidata.org/entity/Q5551080,Maçanet de la Selva,Catalunya
+http://www.wikidata.org/entity/Q5912052,Cigales,Castilla y León
+http://www.wikidata.org/entity/Q6150601,A Mariña Oriental,Galicia / Galiza
+http://www.wikidata.org/entity/Q6058152,Santillana del Mar,Cantabria
+http://www.wikidata.org/entity/Q2842138,Donostia/San Sebastián,Euskadi
+http://www.wikidata.org/entity/Q5845492,Calders,Catalunya
+http://www.wikidata.org/entity/Q6058155,Reocín,Cantabria
+http://www.wikidata.org/entity/Q6058397,Espinosa de los Monteros,Castilla y León
+http://www.wikidata.org/entity/Q97628259,Moguer,Andalucía
+http://www.wikidata.org/entity/Q12265415,Oñati,Euskadi
+http://www.wikidata.org/entity/Q8342276,la Pobla de Claramunt,Catalunya
+http://www.wikidata.org/entity/Q2942521,Palencia,Castilla y León
+http://www.wikidata.org/entity/Q23502194,Folgueroles,Catalunya
+http://www.wikidata.org/entity/Q2942524,Vitoria-Gasteiz,Euskadi
+http://www.wikidata.org/entity/Q8342036,Murcia,Región de Murcia
+http://www.wikidata.org/entity/Q8342035,Manresa,Catalunya
+http://www.wikidata.org/entity/Q21710763,Bergara,Euskadi
+http://www.wikidata.org/entity/Q5166198,Guadalajara,Castilla-La Mancha
+http://www.wikidata.org/entity/Q5757080,Andilla,Comunitat Valenciana
+http://www.wikidata.org/entity/Q1450424,Madrid,Comunidad de Madrid
+http://www.wikidata.org/entity/Q205524,Madrid,Comunidad de Madrid
+http://www.wikidata.org/entity/Q22893608,Porqueres,Catalunya
+http://www.wikidata.org/entity/Q5166190,Madrid,Comunidad de Madrid
+http://www.wikidata.org/entity/Q5911178,Mucientes,Castilla y León
+http://www.wikidata.org/entity/Q250523,Martorell,Catalunya
+http://www.wikidata.org/entity/Q17615522,Garrigàs,Catalunya
+http://www.wikidata.org/entity/Q3585484,Lorca,Región de Murcia
+http://www.wikidata.org/entity/Q6058186,Murcia,Región de Murcia
+http://www.wikidata.org/entity/Q20492113,Arakil,Navarra - Nafarroa
+http://www.wikidata.org/entity/Q20492110,Oiartzun,Euskadi
+http://www.wikidata.org/entity/Q20644125,Azkoitia,Euskadi
+http://www.wikidata.org/entity/Q20901290,Pacs del Penedès,Catalunya
+http://www.wikidata.org/entity/Q12253628,Zumarraga,Euskadi
+http://www.wikidata.org/entity/Q8342269,Cervera del Maestre,Comunitat Valenciana
+http://www.wikidata.org/entity/Q12266994,Zarautz,Euskadi
+http://www.wikidata.org/entity/Q976019,Madrid,Comunidad de Madrid
+http://www.wikidata.org/entity/Q4867400,Colmenar Viejo,Comunidad de Madrid
+http://www.wikidata.org/entity/Q5684741,Banyeres de Mariola,Comunitat Valenciana
+http://www.wikidata.org/entity/Q16577838,Grajera,Castilla y León
+http://www.wikidata.org/entity/Q5399142,Zaragoza,Aragón
+http://www.wikidata.org/entity/Q8342267,Cervelló,Catalunya
+http://www.wikidata.org/entity/Q20901287,Pontons,Catalunya
+http://www.wikidata.org/entity/Q5166187,Aranjuez,Comunidad de Madrid
+http://www.wikidata.org/entity/Q11305733,Meranges,Catalunya
+http://www.wikidata.org/entity/Q746333,Barcelona,Catalunya
+http://www.wikidata.org/entity/Q5166185,Cádiz,Andalucía
+http://www.wikidata.org/entity/Q18007612,Balaguer,Catalunya
+http://www.wikidata.org/entity/Q6021520,Cuenca,Castilla-La Mancha
+http://www.wikidata.org/entity/Q5776804,Medina del Campo,Castilla y León
+http://www.wikidata.org/entity/Q613742,San Vicente de la Sonsierra,La Rioja
+http://www.wikidata.org/entity/Q17596327,la Torre de Claramunt,Catalunya
+http://www.wikidata.org/entity/Q3813454,Soria,Castilla y León
+http://www.wikidata.org/entity/Q5911189,Valoria la Buena,Castilla y León
+http://www.wikidata.org/entity/Q17615526,Llers,Catalunya
+http://www.wikidata.org/entity/Q570586,Valladolid,Castilla y León
+http://www.wikidata.org/entity/Q5910094,Los Balbases,Castilla y León
+http://www.wikidata.org/entity/Q6898340,Gradefes,Castilla y León
+http://www.wikidata.org/entity/Q20492580,Mutriku,Euskadi
+http://www.wikidata.org/entity/Q5647509,Valladolid,Castilla y León
+http://www.wikidata.org/entity/Q20126659,Ariño,Aragón
+http://www.wikidata.org/entity/Q20492102,Arrasate / Mondragón,Euskadi
+http://www.wikidata.org/entity/Q5912270,Sevilla,Andalucía
+http://www.wikidata.org/entity/Q5708305,Madrid,Comunidad de Madrid
+http://www.wikidata.org/entity/Q2542555,Sevilla,Andalucía
+http://www.wikidata.org/entity/Q5407855,Maçanet de la Selva,Catalunya
+http://www.wikidata.org/entity/Q17624410,Bilbao,Euskadi
+http://www.wikidata.org/entity/Q5358601,Madrid,Comunidad de Madrid
+http://www.wikidata.org/entity/Q16577887,Sasamón,Castilla y León
+http://www.wikidata.org/entity/Q97616477,Jerez de la Frontera,Andalucía
+http://www.wikidata.org/entity/Q1499912,Segovia,Castilla y León
+http://www.wikidata.org/entity/Q17596379,Puig-reig,Catalunya
+http://www.wikidata.org/entity/Q17597225,l'Escala,Catalunya
+http://www.wikidata.org/entity/Q5748395,Salamanca,Castilla y León
+http://www.wikidata.org/entity/Q5669766,Córdoba,Andalucía
+http://www.wikidata.org/entity/Q1276503,Pamplona/Iruña,Navarra - Nafarroa
+http://www.wikidata.org/entity/Q20492134,Berastegi,Euskadi
+http://www.wikidata.org/entity/Q6898354,Casalarreina,La Rioja
+http://www.wikidata.org/entity/Q5912083,Utrera,Andalucía
+http://www.wikidata.org/entity/Q9006992,Xàbia / Jávea,Comunitat Valenciana
+http://www.wikidata.org/entity/Q65922908,Ordizia,Euskadi
+http://www.wikidata.org/entity/Q18942900,Balboa,Castilla y León
+http://www.wikidata.org/entity/Q20888291,Pujalt,Catalunya
+http://www.wikidata.org/entity/Q1627991,Logroño,La Rioja
+http://www.wikidata.org/entity/Q20901070,la Granada,Catalunya
+http://www.wikidata.org/entity/Q8342004,Albiztur,Euskadi
+http://www.wikidata.org/entity/Q8342246,Castellolí,Catalunya
+http://www.wikidata.org/entity/Q8342489,Orpí,Catalunya
+http://www.wikidata.org/entity/Q8342243,Castellnovo,Comunitat Valenciana
+http://www.wikidata.org/entity/Q12266931,Zumaia,Euskadi
+http://www.wikidata.org/entity/Q5494439,Santa Pola,Comunitat Valenciana
+http://www.wikidata.org/entity/Q509931,Burgo de Osma-Ciudad de Osma,Castilla y León
+http://www.wikidata.org/entity/Q2627735,Cartagena,Región de Murcia
+http://www.wikidata.org/entity/Q3573289,Jaca,Aragón
+http://www.wikidata.org/entity/Q43119878,Calldetenes,Catalunya
+http://www.wikidata.org/entity/Q9007609,Andilla,Comunitat Valenciana
+http://www.wikidata.org/entity/Q18346806,Lena,Asturias / Asturies
+http://www.wikidata.org/entity/Q25934187,Burgos,Castilla y León
+http://www.wikidata.org/entity/Q1064212,Sevilla,Andalucía
+http://www.wikidata.org/entity/Q956018,Sevilla,Andalucía
+http://www.wikidata.org/entity/Q97616485,Jerez de la Frontera,Andalucía
+http://www.wikidata.org/entity/Q1798216,Barcelona,Catalunya
+http://www.wikidata.org/entity/Q5912090,Écija,Andalucía
+http://www.wikidata.org/entity/Q37585624,Sant Martí d'Albars,Catalunya
+http://www.wikidata.org/entity/Q5644051,Forallac,Catalunya
+http://www.wikidata.org/entity/Q5669772,Árchez,Andalucía
+http://www.wikidata.org/entity/Q5680551,Pozaldez,Castilla y León
+http://www.wikidata.org/entity/Q8342479,Pineda de Mar,Catalunya
+http://www.wikidata.org/entity/Q3399144,Santiago,Galicia / Galiza
+http://www.wikidata.org/entity/Q245151,A Coruña,Galicia / Galiza
+http://www.wikidata.org/entity/Q8342237,Castellnou de Bages,Catalunya
+http://www.wikidata.org/entity/Q2046820,Soria,Castilla y León
+http://www.wikidata.org/entity/Q8342475,Figaró-Montmany,Catalunya
+http://www.wikidata.org/entity/Q8342473,Girona,Catalunya
+http://www.wikidata.org/entity/Q28664145,Segovia,Castilla y León
+http://www.wikidata.org/entity/Q5903116,Úbeda,Andalucía
+http://www.wikidata.org/entity/Q2046822,Piedrahíta,Castilla y León
+http://www.wikidata.org/entity/Q2940781,Vitoria-Gasteiz,Euskadi
+http://www.wikidata.org/entity/Q31706509,Toledo,Castilla-La Mancha
+http://www.wikidata.org/entity/Q32351379,Nules,Comunitat Valenciana
+http://www.wikidata.org/entity/Q18007665,Castellfollit de Riubregós,Catalunya
+http://www.wikidata.org/entity/Q2942729,Mondoñedo,Galicia / Galiza
+http://www.wikidata.org/entity/Q5776838,Briviesca,Castilla y León
+http://www.wikidata.org/entity/Q17596358,Castellcir,Catalunya
+http://www.wikidata.org/entity/Q6898373,Aguilar de Campoo,Castilla y León
+http://www.wikidata.org/entity/Q18004162,Sant Carles de la Ràpita,Catalunya
+http://www.wikidata.org/entity/Q18008522,Sant Joan de les Abadesses,Catalunya
+http://www.wikidata.org/entity/Q16577870,Becerril de Campos,Castilla y León
+http://www.wikidata.org/entity/Q17596120,Sant Mateu de Bages,Catalunya
+http://www.wikidata.org/entity/Q18008521,Riudaura,Catalunya
+http://www.wikidata.org/entity/Q7414562,La Peña,Castilla y León
+http://www.wikidata.org/entity/Q6898375,Tineo,Asturias / Asturies
+http://www.wikidata.org/entity/Q37271835,Berberana,Castilla y León
+http://www.wikidata.org/entity/Q4994352,Besalú,Catalunya
+http://www.wikidata.org/entity/Q8342225,Castellbell i el Vilar,Catalunya
+http://www.wikidata.org/entity/Q8342468,Agramunt,Catalunya
+http://www.wikidata.org/entity/Q5645133,Alfara del Patriarca,Comunitat Valenciana
+http://www.wikidata.org/entity/Q8342467,Sant Feliu de Codines,Catalunya
+http://www.wikidata.org/entity/Q969308,Málaga,Andalucía
+http://www.wikidata.org/entity/Q8342465,Santa Margarida de Montbui,Catalunya
+http://www.wikidata.org/entity/Q21730786,Artés,Catalunya
+http://www.wikidata.org/entity/Q2919732,Puerto Lumbreras,Región de Murcia
+http://www.wikidata.org/entity/Q8342462,Sant Julià de Ramis,Catalunya
+http://www.wikidata.org/entity/Q2580841,Palos de la Frontera,Andalucía
+http://www.wikidata.org/entity/Q19367730,Olèrdola,Catalunya
+http://www.wikidata.org/entity/Q478585,Campoo de Enmedio,Cantabria
+http://www.wikidata.org/entity/Q20492379,Zarautz,Euskadi
+http://www.wikidata.org/entity/Q515595,Soria,Castilla y León
+http://www.wikidata.org/entity/Q17596368,Pedret i Marzà,Catalunya
+http://www.wikidata.org/entity/Q5754603,Baeza,Andalucía
+http://www.wikidata.org/entity/Q28712285,Fornells de la Selva,Catalunya
+http://www.wikidata.org/entity/Q2889253,Santiago,Galicia / Galiza
+http://www.wikidata.org/entity/Q9007632,Vistabella del Maestrat,Comunitat Valenciana
+http://www.wikidata.org/entity/Q142565,Jurisdicción de Lara,Castilla y León
+http://www.wikidata.org/entity/Q1354033,Zaragoza,Aragón
+http://www.wikidata.org/entity/Q2744847,Manresa,Catalunya
+http://www.wikidata.org/entity/Q28781,Castelló d'Empuries,Catalunya
+http://www.wikidata.org/entity/Q8342458,Darnius,Catalunya
+http://www.wikidata.org/entity/Q43122810,l'Escala,Catalunya
+http://www.wikidata.org/entity/Q4993496,Coll de Nargó,Catalunya
