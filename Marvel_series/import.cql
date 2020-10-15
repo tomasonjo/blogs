@@ -1,5 +1,3 @@
-CALL apoc.schema.assert({},{Comic:['id'], Character:['id'], Event:['id'], Group:['id']});
-
 LOAD CSV WITH HEADERS FROM "https://raw.githubusercontent.com/tomasonjo/blog-datasets/main/Marvel/heroes.csv" as row
 CREATE (c:Character)
 SET c += row;
