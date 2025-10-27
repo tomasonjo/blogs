@@ -1,9 +1,11 @@
 # Quantified Path Patterns (QPP) Reference
 
 ## Overview
+
 Quantified Path Patterns (QPP) provide more powerful and efficient path pattern matching than traditional variable-length relationships. QPPs are part of the Graph Pattern Matching (GPM) feature and offer significant performance improvements for complex graph traversals.
 
 ## Key Advantages over Variable-Length Relationships
+
 1. **Inline filtering** - Prune unwanted paths during traversal, not after
 2. **Node access** - Reference and filter nodes along the path
 3. **Complex patterns** - Repeat any pattern, not just single relationships
@@ -12,7 +14,9 @@ Quantified Path Patterns (QPP) provide more powerful and efficient path pattern 
 ## Basic Syntax
 
 ### Quantified Relationships (Shorthand)
+
 When you don't need to reference nodes in the pattern:
+
 ```cypher
 // Traditional variable-length
 MATCH (a:Person)-[:KNOWS*1..3]->(b:Person)
@@ -22,7 +26,9 @@ MATCH (a:Person)-[:KNOWS]-{1,3}(b:Person)
 ```
 
 ### Full QPP Syntax
+
 When you need to reference or filter nodes/relationships in the pattern:
+
 ```cypher
 // Basic QPP with node reference
 MATCH (start:Station)
@@ -34,12 +40,14 @@ RETURN start, end, [x IN n | x.name] AS stops
 ## Quantifier Syntax
 
 ### Fixed Repetition
+
 ```cypher
 // Exactly 3 hops
 (pattern){3}
 ```
 
 ### Range Repetition
+
 ```cypher
 // Between 1 and 5 hops
 (pattern){1,5}
@@ -59,6 +67,7 @@ RETURN start, end, [x IN n | x.name] AS stops
 ```
 
 ## Group Variables
+
 QPP introduces group variables that collect all matched elements:
 
 ```cypher
@@ -72,6 +81,7 @@ RETURN
 ## Inline Filtering Examples
 
 ### Filter Nodes in Pattern
+
 ```cypher
 // Find paths through wealthy people only
 MATCH (a:Person)
@@ -81,6 +91,7 @@ RETURN a, b
 ```
 
 ### Progressive Distance Filtering
+
 ```cypher
 // Only traverse if getting closer to destination
 MATCH (start:Location {name: 'A'}),
@@ -94,6 +105,7 @@ RETURN start, end
 ```
 
 ### Degree-Based Traversal
+
 ```cypher
 // Stop at junction nodes (degree > 2)
 MATCH p=(start:Node)
@@ -105,6 +117,7 @@ RETURN p
 ## Advanced Patterns
 
 ### Alternating Node Types
+
 ```cypher
 // Find paths alternating between Person and Company
 MATCH path = (p:Person)
@@ -115,6 +128,7 @@ RETURN path
 ```
 
 ### Conditional Path Expansion
+
 ```cypher
 // Expand until a condition is met
 MATCH (start:Account {id: 'A123'})
@@ -125,6 +139,7 @@ RETURN start, end, count(t) AS hops
 ```
 
 ### Using EXISTS in QPP
+
 ```cypher
 // Only traverse through nodes with specific relationships
 MATCH (a:Person)
@@ -137,6 +152,7 @@ RETURN a, b
 ## Performance Optimization Patterns
 
 ### Early Pruning
+
 ```cypher
 // BAD - Filter after expansion
 MATCH path = (a)-[*1..10]->(b)
@@ -149,6 +165,7 @@ RETURN path
 ```
 
 ### Combining with Indexes
+
 ```cypher
 // Start with indexed lookup, then QPP expansion
 MATCH (start:Person {email: 'alice@example.com'})
@@ -160,6 +177,7 @@ RETURN end
 ## Common Use Cases
 
 ### Finding Cycles
+
 ```cypher
 // Find cycles of specific length
 MATCH (start:Account)
@@ -169,6 +187,7 @@ RETURN start, sum([x IN t | x.amount]) AS cycleAmount
 ```
 
 ### Shortest Path with Constraints
+
 ```cypher
 // Shortest path through specific node types only
 MATCH (from:City {name: 'Berlin'}),
@@ -183,6 +202,7 @@ LIMIT 1
 ```
 
 ### Multi-Hop Aggregations
+
 ```cypher
 // Aggregate properties along the path
 MATCH (source:Router)
@@ -205,6 +225,7 @@ RETURN source, target,
 ## Migration from Variable-Length Relationships
 
 ### Simple Migration
+
 ```cypher
 // Old
 MATCH (a)-[r:REL*1..3]->(b)
@@ -216,6 +237,7 @@ MATCH (a)(()-[r:REL WHERE r.weight > 0.5]->())
 ```
 
 ### Complex Migration
+
 ```cypher
 // Old (inefficient)
 MATCH path = (a)-[*1..5]->(b)
@@ -228,7 +250,24 @@ MATCH path = (a)
              (b)
 ```
 
-## Important Notes
-- QPP is available in modern Neo4j versions that support GQL features
-- Performance improvements are most significant with complex filtering requirements
-- Always test with PROFILE to verify performance gains
+## Important: Do Not Use Anonymous Nodes
+
+1. All Nodes Must Be Explicitly Named
+   ❌ **WRONG** - Anonymous nodes with WHERE clauses:
+
+```cypher
+// This will fail with "Variable `_` not defined"
+MATCH (start)
+  ((:Organization WHERE _.revenue > 100000000)-[:REL]->(:Organization)){1,3}
+  (end)
+```
+
+✅ **CORRECT** - Explicitly named nodes:
+
+```cypher
+MATCH (start)
+  ((org:Organization WHERE org.revenue > 100000000)-[:REL]->()){1,3}
+  (end)
+```
+
+**Key Rule:** If you use a WHERE clause on a node in a QPP pattern, that node MUST have an explicit variable name. You cannot use `_` or anonymous patterns `()` with WHERE clauses.
